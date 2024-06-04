@@ -2,6 +2,7 @@ site_name: Metro Stad - APV
 #site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
 theme:
   name: material
+  use_directory_urls: false
   font:
     text: Poppins
   logo: assets/main_inverted.png
@@ -23,15 +24,25 @@ theme:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Verander naar donkere modus
       primary: deep purple
       accent: blue
     - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Verander naar lichte modus
       primary: deep purple
       accent: blue
 
 copyright: |
   &copy; 2024 Metro Stad
+  
+nav:
+  - Hoofdpagina: index.md
+  - Algemene Plaatselijke Verordening (APV): apv.md
+  - Politie Wetboek: politie_wetboek.md
+  - Risico Gebieden: risico_gebieden.md
+  - Douane Gebieden: douane_gebieden.md
+  - No Fly Zones: no_fly_zones.md
+  - Belastingen: belastingen.md
+  - Streamen: streamen.md
