@@ -1,0 +1,37 @@
+site_name: Metro Stad - APV
+#site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+theme:
+  name: material
+  font:
+    text: Poppins
+  logo: assets/main_inverted.png
+  favicon: assets/main_inverted.png
+  features:
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.progress
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: nl
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: deep purple
+      accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: deep purple
+      accent: blue
+
+copyright: |
+  &copy; 2024 Metro Stad
