@@ -29,6 +29,7 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
 !!! example end "Voorbeeld"
     1. `/me Wat doe je` is niet toegestaan.
     2. `/me RDM` is niet toegestaan.
+    3. Uitspraken zoals; Broodje, Ticket, Refund, Bug, etc. zijn niet toegestaan.
 - Het onnodig mishandelen, vermoorden (oftewel RDM), uitlokken en- of lastig vallen van andere spelers, zonder intentie tot roleplay is niet toegestaan. ==Categorie 3==
 - Je dient ten alle tijden een waarde te geven aan het leven van je karakter. ==Categorie 2==
 !!! failure end "Aanvullende informatie"
@@ -110,6 +111,26 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
      - Repareren
 - Het campen/wachten op drugs locaties is niet toegestaan. ==Categorie 3==
 - Praten terwijl je dood bent is niet toegestaan. Wanneer je op een manier gedood wordt dat niet juist is, maak dan een report aan ==Categorie 4==
+
+### Artikel 9 - Powergamen
+- Het opzettelijk veranderen van een scenario door onrealistische acties te ondernemen en- of toe te voegen, waardoor het voor de andere partij niet meer mogelijk is om te realistisch er op in te spelen. ==Categorie 2==
+- Het vluchten in een afgesloten gebouw, die alleen toegankelijk is voor jezelf (Appartementen, Loodsen).
+- Ongeacht de situatie, binnen 10 minuten na het trekken van een wapen, je deze weglegt in een voertuig of in een appartement. ==Categorie 2==
+!!! warning end "Aanvullende informatie"
+     Indien de situatie het toelaat, kan de straf hoger uitvallen. Dit wordt bepaald door de ernst van de overtreding. Het kan dus ook voorkomen, dat je wapen wordt ingenomen.
+- Gebruik maken van de "Show IDs" functie om zo spelers te vinden ==Categorie 2==
+- Een speler meenemen naar een locatie, waar deze persoon niet kan ontsnappen. ==Categorie 2==
+- Het gebruik maken van de "U" spier tijdens dat je beschoten wordt. ==Categorie 3==
+- Het gebruik maken van de "U" spier om niet op te vallen en het gebruik maken van het 3rd person camera om onrealistische dingen te zien. ==Categorie 3==
+- Iemand vastbinden en- of gijzelen zonder enige aanleiding. ==Categorie 3==
+- Iemand door middel van `/me` vast te binden is niet toegestaan. ==Categorie 1==
+
+### Artikel 10 - Voertuigen
+- Het is ten alle tijden niet toegestaan om je voertuig als wapen te gebruiken (VDM).
+- Het is niet toegestaan om je voertuig te gebruiken om andere spelers te vermoorden (VDM). ==Categorie 3==
+- Een pit dient realistisch te zijn en of rond de 125km/h. ==Categorie 1==
+- Als burger is het niet toegestaan om overheidsvoertuigen te besturen, tenzij er in de roleplay een goede reden voor is, of dat je expliciet toestemming van een stafflid hebt gekregen. ==Categorie 2==
+- Het is niet toegestaan om voertuigen die je krijgt bij het doen van een baan te gebruiken om illegale activiteiten te doen. ==Categorie 2==
 
 *[Categorie 1]: Een waarschuwing + 50 taken
 *[Categorie 2]: Een ban van 1 dag + 100 taken
