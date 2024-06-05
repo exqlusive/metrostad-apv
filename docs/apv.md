@@ -13,7 +13,7 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
 - **Categorie 8** - Een account wipe + 1 maand ban + 200 taken
 - **Categorie 9** - Permanent ban (geen unban mogelijk)
 
-## Aanvullende informatie:
+## Aanvullende informatie
 - De straffen uit de categorieën 5 t/m 8 kunnen worden uitgedeeld wanneer er sprake is van een overtreding op heterdaad. De opgelegde straf wordt naderhand met het staffteam besproken, om eventuele verdere schade te beperken en waar nodig is, deze worden bijgesteld. 
 - Een stafflid kan er voor kiezen om een straf te verhogen/verlagen op basis van de ernst van de overtreding. Dit wordt altijd met het staffteam besproken. 
 - Wanneer je het niet eens bent met een straf, kun je een bezwaar indienen via de [Support Discord](https://discord.gg/TpsvX56XnQ). Je dient dan een **Unban Aanvraag** ticket aan te maken. 
@@ -42,6 +42,7 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
      - Opzettelijk van een hoge locatie te springen
 - Het bedreigen van overheidspersoneel, zoals politie, ambulance en brandweer is niet toegestaan. ==Categorie 5==
 - Het forceren van overheidspersoneel tot het fouilleren van een burger is niet toegestaan. ==Categorie 2==
+- Het weggeven van goederen, geld en- of voertuigen aan andere spelers wanneer je stopt is niet toegestaan. ==Categorie 9==
 
 ### Artikel 2 - Cheats, Hacks en Glitches
 - Een persoon die gebruik maakt van software/hulpmiddelen die niet zijn toegestaan, zoals cheats en hacks. ==Categorie 9==
@@ -109,8 +110,9 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
      - Uitladen
      - Tanken
      - Repareren
-- Het campen/wachten op drugs locaties is niet toegestaan. ==Categorie 3==
+- Het campen/wachten op illegale locaties is niet toegestaan. ==Categorie 3==
 - Praten terwijl je dood bent is niet toegestaan. Wanneer je op een manier gedood wordt dat niet juist is, maak dan een report aan ==Categorie 4==
+- Wanneer je in je benen geschoten wordt en jezelf hierna overgeeft, dan dien je mee te werken. Uitzondering is dat wanneer politie of criminele organisatie overmeesterd wordt. ==Categorie 4==
 
 ### Artikel 9 - Powergamen
 - Het opzettelijk veranderen van een scenario door onrealistische acties te ondernemen en- of toe te voegen, waardoor het voor de andere partij niet meer mogelijk is om te realistisch er op in te spelen. ==Categorie 2==
@@ -126,11 +128,85 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
 - Iemand door middel van `/me` vast te binden is niet toegestaan. ==Categorie 1==
 
 ### Artikel 10 - Voertuigen
-- Het is ten alle tijden niet toegestaan om je voertuig als wapen te gebruiken (VDM).
+- Het is ten alle tijden niet toegestaan om je voertuig als wapen te gebruiken (VDM). ==Categorie 3==
 - Het is niet toegestaan om je voertuig te gebruiken om andere spelers te vermoorden (VDM). ==Categorie 3==
 - Een pit dient realistisch te zijn en of rond de 125km/h. ==Categorie 1==
 - Als burger is het niet toegestaan om overheidsvoertuigen te besturen, tenzij er in de roleplay een goede reden voor is, of dat je expliciet toestemming van een stafflid hebt gekregen. ==Categorie 2==
 - Het is niet toegestaan om voertuigen die je krijgt bij het doen van een baan te gebruiken om illegale activiteiten te doen. ==Categorie 2==
+
+### Artikel 11 - (Overheids)kleding
+- Het dragen van het standaard outfit is niet toegestaan. Verbale waarschuwing en- of een straf ==Categorie 1==
+- Het dragen van overheid kleding is niet toegestaan, tenzij je in dienst bent van de overheid. ==Categorie 2==
+- Het imiteren van een overheidsfunctie is niet toegestaan. ==Categorie 2==
+- Kledij dat bestemd is voor groeperingen/staffleden is niet toegestaan om te dragen. ==Categorie 2==
+
+Uitzonderingen kunnen gemaakt worden in overleg met het staff team.
+
+### Artikel 12 - Reports
+- Er wordt van je verwacht gebruik te maken van `/report` om overtredingen van regels te melden.
+- Het is niet de bedoeling dat je andere spelers meldt, dat je een report hebt aangemaakt. Dit kan leiden tot een straf ==Categorie 1==
+- Het onnodig aanmaken, spammen van reports is niet toegestaan. ==Categorie 1==
+
+### Artikel 13 - In-game Social Media
+- Het is niet toegestaan om in-game social media te gebruiken om andere spelers te bedreigen, intimideren en- of te stalken. ==Categorie 4==
+- Het is niet toegestaan om onderwereld gerelateerde zaken in Twitter/Instagram te plaatsen. ==Categorie 4==
+- Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke. ==Categorie 4==
+
+### Artikel 14 - Overvallen & Oplichten van spelers
+- Het is niet toegestaan om nieuwe spelers op te lichten. ==Categorie 4==
+- Het is niet toegestaan om een speler mee te nemen naar een pin-automaat of bank om deze persoon te beroven. ==Categorie 4==
+- Het is niet toegestaan om onder dwang een huis te betreden. ==Categorie 4==
+- Het is niet toegestaan te scammen van voertuigen. ==Categorie 4==
+- Voertuigen mogen alleen via legaal geld worden (ver/ge)kocht. ==Categorie 4==
+- Het is niet toegestaan om spelers op te lichten van loodsen. ==Categorie 4==
+- Het is aan de kopende partij de verantwoordelijkheid om te controleren of de "tunes" op een voertuig zitten.
+- Het counteren van een overval, wanneer de politie aanwezig is, is niet toegestaan. ==Categorie 4==
+- Nadat de overvallers zijn vertrokken, mag je een counter doen.
+- Het oplichten van spelers tijdens het kopen/verkopen van illegale goederen is toegestaan.
+- Het doodmaken- schieten van een speler die je hebt overvallen/opgelicht is, is niet toegestaan (RDM). ==Categorie 4==
+- Het is niet toegestaan om in `/me` te melden dat de persoon iets is vergeten.
+- Het is niet toegestaan om spelers te boeien en- of vast te binden zonder enige aanleiding. ==Categorie 4==
+!!! warning end "Aanvullende informatie"
+     Meerdere mensen boeien en- of vastbinden, om ze hierna 1-voor-1 te beroven is niet toegestaan. Zorg er dus voor dat je niet alleen bent.
+
+### Artikel 15 - Criminale Organisaties
+- Onder "Criminale Organisaties" vallen alle groeperingen die zich bezighouden met criminele activiteiten. Deze groeperingen dienen zich te houden aan de regels en richtlijnen van Metro Stad. ==Categorie 4==
+- Criminele organisaties mogen een maximaal aantal leden hebben van 15 personen.
+- Organisaties mogen onderling niet samenwerken, om zo sterker te staan tegen andere organisaties. Uitzonderingen kunnen gemaakt worden in overleg met het staff team.
+- Als criminele organisatie mag je een terrein claimen. Andere spelers mogen dit terrein niet betreden, tenzij ze toestemming hebben van de eigenaar. Uitzonderingen zijn als je een wapen hebt gezien, of een "gang war" hebt.
+- Het is verboden om nepmeldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep. Hieronder valt ook het expres uitvoeren van andere illegale praktijken (zoals schieten met vuurwapens) onder.
+!!! info end "Aanvullende informatie"
+     Zaken doen met elkaar is toegestaan, denk hierbij elkaar met rust laten, betere prijsafspraken ed.
+!!! warning end "Aanvullende informatie"
+     Wanneer je organisatie meer dan **8 leden** heeft, dien je dit te melden in de [Support Discord](https://discord.gg/TpsvX56XnQ) door het maken van een Overige ticket.
+
+### Artikel 16 - Officiële Organisaties
+- TBF
+- 
+### Artikel 17 - Rippen van spelers 
+- Wanneer een speler bezig is met een illegale activiteit, of rijdt weg van een illegale activiteit, mag je deze persoon rippen.
+- Buitenom illegale activiteiten is het niet toegestaan om zomaar een speler te rippen. Uitzonderingen staan hieronder beschreven.
+- Je mag niet dezelfde persoon (als groep) rippen binnen 30 minuten.
+- Na het rippen van een speler, mag je deze niet vermoorden. Met uitzondering van dat de speler een wapen trekt, of dat de speler een dreigement maakt.
+- Een wapen dien je fysiek te zien, voordat je de speler mag rippen van het wapen. Uitzonderingen hieronder beschreven.
+- Een slagwapen, mag een vuurwapen rippen. Pas op dit mag alleen wanneer diegene met een slagwapen in sla houding staat en in de eerste praatcirkel.
+!!! info end "Uitzonderingen"
+     - De speler draagt gezichtsbedekking (Helm, Masker, Bivakmuts), een baard of bril telt niet mee.
+     - De speler draagt een holster
+     - De speler praat over illegale activiteiten
+     - De speler heeft een wapen in zijn handen
+!!! success end "Overige informatie"
+     Wanneer je een speler ript, wanneer deze bezig is met een illegale activiteit, mag je alle illegale items van de persoon afpakken.
+
+     - Zwart geld
+     - Drugs
+     - Wapens
+     - Communicatie middelen
+
+### Artikel 19 - Gezicht- en Stem- herkenning
+- Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen. ==Categorie 2==
+- Het is toegestaan om gebruik te maken van externe software om je stem te vervormen. Dit mag expliciet alleen gebruikt worden tijdens illegale activiteiten. ==Categorie 2==
+- Het is niet toegestaan om een speler aan zijn/haar gezicht te herkennen, wanneer deze persoon een masker draagt en zijn/haar stem vervormt.
 
 *[Categorie 1]: Een waarschuwing + 50 taken
 *[Categorie 2]: Een ban van 1 dag + 100 taken
