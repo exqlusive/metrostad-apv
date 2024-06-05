@@ -4,7 +4,7 @@ theme:
   name: material
   use_directory_urls: false
   font:
-    text: Poppins
+    text: Rubik
   logo: assets/main_inverted.png
   favicon: assets/main_inverted.png
   features:
@@ -12,6 +12,10 @@ theme:
     - navigation.sections
     - navigation.instant
     - navigation.instant.progress
+    - navigation.tracking
+    - navigation.expand
+    - navigation.path
+    - toc.follow
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -19,6 +23,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.tooltips
+    - pymdownx.critic
   language: nl
   palette:
     - scheme: default
@@ -33,10 +39,26 @@ theme:
         name: Verander naar lichte modus
       primary: deep purple
       accent: blue
-
+markdown_extensions:
+  - attr_list
+  - tables
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - pymdownx.snippets
 copyright: |
   &copy; 2024 Metro Stad
-  
 nav:
   - Hoofdpagina: index.md
   - Algemene Plaatselijke Verordening (APV): apv.md
