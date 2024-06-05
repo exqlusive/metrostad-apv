@@ -1,5 +1,5 @@
 site_name: Metro Stad - APV
-#site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_url: https://exqlusive.github.io/metro-stad-apv/
 theme:
   name: material
   use_directory_urls: false

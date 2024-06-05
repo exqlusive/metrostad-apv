@@ -11,13 +11,13 @@ De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad
 - **Categorie 6** - Een ban van 2 weken + 200 taken
 - **Categorie 7** - Een ban van 1 maand + 200 taken
 - **Categorie 8** - Een account wipe + 1 maand ban + 200 taken
-- **Categorie 9** - Permanent ban (geen unban mogelijk)
+- **Categorie 9** - Permanent ban (geen unban mogelijk) + Account wipe
 
 ## Aanvullende informatie
 - De straffen uit de categorieën 5 t/m 8 kunnen worden uitgedeeld wanneer er sprake is van een overtreding op heterdaad. De opgelegde straf wordt naderhand met het staffteam besproken, om eventuele verdere schade te beperken en waar nodig is, deze worden bijgesteld. 
 - Een stafflid kan er voor kiezen om een straf te verhogen/verlagen op basis van de ernst van de overtreding. Dit wordt altijd met het staffteam besproken. 
-- Wanneer je het niet eens bent met een straf, kun je een bezwaar indienen via de [Support Discord](https://discord.gg/TpsvX56XnQ). Je dient dan een **Unban Aanvraag** ticket aan te maken. 
-- Het omzeilen van een straf is niet toegestaan. Wanneer je dit doet, zal de straf worden verhoogd met categorie 8 (Een account wipe + 1 maand ban + 200 taken)
+- Wanneer je het niet eens bent met een straf, kun je een bezwaar indienen via de [Support Discord](https://discord.gg/TpsvX56XnQ). Je dient dan een **Unban Aanvraag** ticket aan te maken. Dit mag alleen wanneer je een straf categorie van 5 of hoger hebt ontvangen. 
+- Het omzeilen van een straf is niet toegestaan. Wanneer je dit doet, zal de straf worden verhoogd met Categorie 7.
 
 ## Overtredingen
 
