@@ -18,7 +18,7 @@
       
       
       <link rel="icon" href="../assets/main_inverted.png">
-      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.25">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.13">
     
     
       
@@ -26,7 +26,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.6543a935.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.342714a4.min.css">
       
         
         <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
@@ -48,7 +48,7 @@
       
     
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -97,7 +97,7 @@
     </a>
     <label class="md-header__button md-icon" for="__drawer">
       
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -125,7 +125,7 @@
     <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="blue"  aria-label="Verander naar donkere modus"  type="radio" name="__palette" id="__palette_0">
     
       <label class="md-header__button md-icon" title="Verander naar donkere modus" for="__palette_1" hidden>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
       </label>
     
   
@@ -135,7 +135,7 @@
     <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="blue"  aria-label="Verander naar lichte modus"  type="radio" name="__palette" id="__palette_1">
     
       <label class="md-header__button md-icon" title="Verander naar lichte modus" for="__palette_0" hidden>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
       </label>
     
   
@@ -143,30 +143,32 @@
       
     
     
-      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
       <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
         
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
         
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
       </label>
       <nav class="md-search__options" aria-label="Zoeken">
         
         <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
           
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
         </button>
       </nav>
       
@@ -174,7 +176,7 @@
       
     </form>
     <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
         <div class="md-search-result" data-md-component="search-result">
           <div class="md-search-result__meta">
             Zoeken initialiseren
@@ -185,6 +187,7 @@
     </div>
   </div>
 </div>
+      
     
     
   </nav>
@@ -234,8 +237,10 @@
       <a href=".." class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Hoofdpagina
+    
   </span>
   
 
@@ -263,8 +268,10 @@
         <label class="md-nav__link md-nav__link--active" for="__toc">
           
   
+  
   <span class="md-ellipsis">
     Algemene Plaatselijke Verordening (APV)
+    
   </span>
   
 
@@ -274,8 +281,10 @@
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
+  
   <span class="md-ellipsis">
     Algemene Plaatselijke Verordening (APV)
+    
   </span>
   
 
@@ -297,37 +306,28 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#strafbepalingen" class="md-nav__link">
+  <a href="#strafcategorieen" class="md-nav__link">
     <span class="md-ellipsis">
-      Strafbepalingen
+      Strafcategorieën
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#aanvullende-informatie" class="md-nav__link">
+  <a href="#artikelen" class="md-nav__link">
     <span class="md-ellipsis">
-      Aanvullende informatie
+      Artikelen
     </span>
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#overtredingen" class="md-nav__link">
-    <span class="md-ellipsis">
-      Overtredingen
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Overtredingen">
+    <nav class="md-nav" aria-label="Artikelen">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#artikel-1-algemene-richtlijnen" class="md-nav__link">
+  <a href="#artikel-1-failrp-powergaming" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 1 - Algemene Richtlijnen
+      Artikel 1 - FailRP &amp; Powergaming
     </span>
   </a>
   
@@ -343,9 +343,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-3-bedreigen-intimideren" class="md-nav__link">
+  <a href="#artikel-3-bedreiging-intimidatie" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 3 - Bedreigen &amp; Intimideren
+      Artikel 3 - Bedreiging &amp; Intimidatie
     </span>
   </a>
   
@@ -361,18 +361,18 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-5-meta-gaming" class="md-nav__link">
+  <a href="#artikel-5-metagaming" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 5 - Meta-gaming
+      Artikel 5 - Metagaming
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-6-combat-loggen" class="md-nav__link">
+  <a href="#artikel-6-combat-logging" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 6 - Combat Loggen
+      Artikel 6 - Combat Logging
     </span>
   </a>
   
@@ -388,123 +388,126 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-8-alt-characters" class="md-nav__link">
+  <a href="#artikel-8-alt-accounts" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 8 - Alt Characters
+      Artikel 8 - Alt Accounts
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-8-fail-rp" class="md-nav__link">
+  <a href="#artikel-09-voertuigen" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 8 - Fail RP
+      Artikel 09 - Voertuigen
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-9-powergamen" class="md-nav__link">
+  <a href="#artikel-10-kleding" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 9 - Powergamen
+      Artikel 10 - Kleding
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-10-voertuigen" class="md-nav__link">
+  <a href="#artikel-11-reports" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 10 - Voertuigen
+      Artikel 11 - Reports
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-11-overheidskleding" class="md-nav__link">
+  <a href="#artikel-12-in-game-social-media" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 11 - (Overheids)kleding
+      Artikel 12 - In-Game Social Media
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-12-reports" class="md-nav__link">
+  <a href="#artikel-13-oplichting-overvallen" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 12 - Reports
+      Artikel 13 - Oplichting &amp; Overvallen
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-13-in-game-social-media" class="md-nav__link">
+  <a href="#artikel-14-criminele-groeperingen" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 13 - In-game Social Media
+      Artikel 14 - Criminele Groeperingen
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-14-overvallen-oplichten-van-spelers" class="md-nav__link">
+  <a href="#artikel-15-officiele-organisaties" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 14 - Overvallen &amp; Oplichten van spelers
+      Artikel 15 - Officiële Organisaties
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-15-criminale-organisaties" class="md-nav__link">
+  <a href="#artikel-16-rippen" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 15 - Criminale Organisaties
+      Artikel 16 - Rippen
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-16-officiele-organisaties" class="md-nav__link">
+  <a href="#artikel-17-refunds" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 16 - Officiële Organisaties
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#-tbf" class="md-nav__link">
-    <span class="md-ellipsis">
-      - TBF
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="- TBF">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#artikel-17-rippen-van-spelers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Artikel 17 - Rippen van spelers
+      Artikel 17 - Refunds
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#artikel-19-gezicht-en-stem-herkenning" class="md-nav__link">
+  <a href="#artikel-18-gezichts-en-stemherkenning" class="md-nav__link">
     <span class="md-ellipsis">
-      Artikel 19 - Gezicht- en Stem- herkenning
+      Artikel 18 - Gezichts- en Stemherkenning
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel-19-discord-streamen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Artikel 19 - Discord &amp; Streamen
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel-20-hulpdiensten" class="md-nav__link">
+    <span class="md-ellipsis">
+      Artikel 20 - Hulpdiensten
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#artikel-21-helikopters-vliegtuigen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Artikel 21 - Helikopters &amp; Vliegtuigen
     </span>
   </a>
   
@@ -533,8 +536,10 @@
       <a href="../politie_wetboek/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Politie Wetboek
+    
   </span>
   
 
@@ -553,8 +558,10 @@
       <a href="../risico_gebieden/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Risico Gebieden
+    
   </span>
   
 
@@ -573,8 +580,10 @@
       <a href="../douane_gebieden/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Douane Gebieden
+    
   </span>
   
 
@@ -593,8 +602,10 @@
       <a href="../no_fly_zones/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     No Fly Zones
+    
   </span>
   
 
@@ -613,8 +624,10 @@
       <a href="../belastingen/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Belastingen
+    
   </span>
   
 
@@ -633,8 +646,10 @@
       <a href="../streamen/" class="md-nav__link">
         
   
+  
   <span class="md-ellipsis">
     Streamen
+    
   </span>
   
 
@@ -658,295 +673,391 @@
                   
 
 
+
 <h1 id="algemene-plaatselijke-verordening-apv">Algemene Plaatselijke Verordening (APV)</h1>
-<h2 id="strafbepalingen">Strafbepalingen</h2>
-<p>De strafbepalingen van de APV zijn van toepassing op alle burgers van Metro Stad. Deze zijn onderverdeeld in verschillende categorieën. De categorieën zijn als volgt:</p>
+<h2 id="strafcategorieen">Strafcategorieën</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Categorie</th>
+<th>Straf</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td>Waarschuwing + 50 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td>1 dag ban + 100 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td>2 dagen ban + 150 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td>3 dagen ban + 200 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td>1 week ban + 200 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">6</td>
+<td>2 weken ban + 200 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">7</td>
+<td>1 maand ban + 200 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">8</td>
+<td>Account wipe + 1 maand ban + 200 taken</td>
+</tr>
+<tr>
+<td style="text-align: right;">9</td>
+<td>Permanente ban (geen unban mogelijk) + account wipe</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition info">
+<p class="admonition-title">Richtlijnen bij straffen</p>
 <ul>
-<li><strong><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></strong> - Een waarschuwing + 50 taken</li>
-<li><strong><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></strong> - Een ban van 1 dag + 100 taken</li>
-<li><strong><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></strong> - Een ban van 2 dagen + 150 taken</li>
-<li><strong><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></strong> - Een ban van 3 dagen + 200 taken</li>
-<li><strong><abbr title="Een ban van 1 week + 200 taken">Categorie 5</abbr></strong> - Een ban van 1 week + 200 taken</li>
-<li><strong><abbr title="Een ban van 2 weken + 200 taken">Categorie 6</abbr></strong> - Een ban van 2 weken + 200 taken</li>
-<li><strong><abbr title="Een ban van 1 maand + 200 taken">Categorie 7</abbr></strong> - Een ban van 1 maand + 200 taken</li>
-<li><strong><abbr title="Een account wipe + 1 maand ban + 200 taken">Categorie 8</abbr></strong> - Een account wipe + 1 maand ban + 200 taken</li>
-<li><strong><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></strong> - Permanent ban (geen unban mogelijk) + Account wipe</li>
-</ul>
-<h2 id="aanvullende-informatie">Aanvullende informatie</h2>
-<ul>
-<li>De straffen uit de categorieën 5 t/m 8 kunnen worden uitgedeeld wanneer er sprake is van een overtreding op heterdaad. De opgelegde straf wordt naderhand met het staffteam besproken, om eventuele verdere schade te beperken en waar nodig is, deze worden bijgesteld. </li>
-<li>Een stafflid kan er voor kiezen om een straf te verhogen/verlagen op basis van de ernst van de overtreding. Dit wordt altijd met het staffteam besproken. </li>
-<li>Wanneer je het niet eens bent met een straf, kun je een bezwaar indienen via de <a href="https://discord.gg/TpsvX56XnQ">Support Discord</a>. Je dient dan een <strong>Unban Aanvraag</strong> ticket aan te maken. Dit mag alleen wanneer je een straf categorie van 5 of hoger hebt ontvangen. </li>
+<li>De straffen uit de categorieën 5 t/m 8 kunnen worden uitgedeeld wanneer er sprake is van een overtreding op heterdaad. De opgelegde straf wordt naderhand met het staffteam besproken, om eventuele verdere schade te beperken en waar nodig is, deze worden bijgesteld.</li>
+<li>Een stafflid kan er voor kiezen om een straf te verhogen/verlagen op basis van de ernst van de overtreding. Dit wordt altijd met het staffteam besproken.</li>
+<li>Wanneer je het niet eens bent met een straf, kun je een bezwaar indienen via de <a href="https://discord.gg/TpsvX56XnQ">Support Discord</a>. Je dient dan een <strong>Unban Aanvraag</strong> ticket aan te maken. Dit mag <strong>alleen wanneer je een straf categorie van 5 of hoger</strong> hebt ontvangen.</li>
 <li>Het omzeilen van een straf is niet toegestaan. Wanneer je dit doet, zal de straf worden verhoogd met <abbr title="Een ban van 1 maand + 200 taken">Categorie 7</abbr>.</li>
 </ul>
-<h2 id="overtredingen">Overtredingen</h2>
-<h3 id="artikel-1-algemene-richtlijnen">Artikel 1 - Algemene Richtlijnen</h3>
+</div>
+<hr />
+<h2 id="artikelen">Artikelen</h2>
+<h3 id="artikel-1-failrp-powergaming">Artikel 1 - FailRP &amp; Powergaming</h3>
 <ul>
-<li>Het is verboden om een roleplay van slechte kwaliteit te spelen. Dit houdt in dat je je niet aan de regels houdt, niet realistisch speelt of niet serieus speelt. <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-<li>Het is niet toegestaan om opzettelijk de roleplay zodanig te vormen dat er een oneerlijk voordeel ontstaat voor jezelf of anderen. <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-<li>Indien je karakter komt te overlijden, wordt er verwacht dat deze persoon de laatste roleplay is vergeten. Tevens mag de karakter zich niet opnieuw in de roleplay begeven van het scenario waarin deze karakter is te komen overlijden. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark> </li>
-<li>Het is ten alle tijden niet toegestaan om je karakter te breken. Hiermee worden bedoeld, termen die gezien worden als OOC (Out Of Character). Ook is het niet toegestaan om in <code>/me</code> foutief te gebruiken en- of te gebruiken om toxic opmerkingen te plaatsen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Burger die opzettelijk een roleplay van slechte kwaliteit uitspeelt. → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Burger die praat of <code>/me</code> gebruikt terwijl burger dood is. (Met uitzondering van RP met ambulance, dan is het toegestaan om <code>/me</code> te gebruiken) → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Burger die opzettelijk een roleplay scenario vormt dat er een oneerlijke- of onrealistische draai aan het verhaal geef. Of de roleplay van de andere partij invult door onrealistische dwang → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Burger mag niet meerdere <code>/me</code> commandos in 1 <code>/me</code> bericht hebben</li>
 </ul>
 <div class="admonition example end">
 <p class="admonition-title">Voorbeeld</p>
 <ol>
-<li><code>/me Wat doe je</code> is niet toegestaan.</li>
-<li><code>/me RDM</code> is niet toegestaan.</li>
-<li>Uitspraken zoals; Broodje, Ticket, Refund, Bug, etc. zijn niet toegestaan.</li>
+<li><code>/me doet gordel af en haald uit auto</code></li>
+<li><code>/me doet blinddoek en gordel af</code></li>
+<li><code>/me pakt communicatie middelen af en doet in auto</code> </li>
 </ol>
 </div>
 <ul>
-<li>Het onnodig mishandelen, vermoorden (oftewel RDM), uitlokken en- of lastig vallen van andere spelers, zonder intentie tot roleplay is niet toegestaan. <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Je dient ten alle tijden een waarde te geven aan het leven van je karakter. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Als burger blijf je altijd in karakter, ook wanneer je <code>/me</code> gebruikt → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
 </ul>
-<div class="admonition failure end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Dit geldt ook voor, wanneer een wapen uit de <abbr title="Schietwapens, zoals pistolen en (automatische-)geweren">tweede categorie</abbr> of hoger op je gericht staat en je nog niet harder dan 0km per uur rijdt.</p>
+<div class="admonition example end">
+<p class="admonition-title">Voorbeeld</p>
+<ol>
+<li><code>/me Wat doe je</code> is niet toegestaan. </li>
+<li><code>/me RDM</code> is niet toegestaan.</li>
+<li>Uitspraken zoals; <code>Broodje</code>, <code>Ticket</code>, <code>Refund</code>, <code>Bug</code>, etc. zijn niet toegestaan.</li>
+</ol>
 </div>
 <ul>
-<li>Het is niet toegestaan om erotische roleplay te spelen. <mark><abbr title="Een ban van 2 weken + 200 taken">Categorie 6</abbr></mark></li>
-<li>Het is niet toegestaan om opzettelijk een einde aan je karakter te maken. <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark> Uitzonderingen kunnen gemaakt worden in overleg met het staff team.</li>
+<li>Wanneer burger komt te overlijden, mag deze daarna niet meer meedoen met het voorafgaande scenario → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Als burger moet je altijd doen alsof je karakter wilt blijven leven. Ook als een andere burger een wapen op je richt → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Vluchten in afgesloten gebouwen → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Wapen direct opbergen in voertuig/appartement → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
 </ul>
-<div class="admonition failure end">
-<p class="admonition-title">Aanvullende informatie</p>
-<ul>
-<li>Tijdens een achtervolging je voertuig in een garage zetten, om zo te voorkomen dat je auto niet in beslag wordt genomen.</li>
-<li>Tijdens een achtervolging uit je voertuig te springen</li>
-<li>Opzettelijk van een hoge locatie te springen</li>
-</ul>
+<div class="admonition example end">
+<p class="admonition-title">Voorbeeld</p>
+<ol>
+<li>Het uit een voertuig springen</li>
+<li>Van een gebouw afspringen </li>
+</ol>
 </div>
 <ul>
-<li>Het bedreigen van overheidspersoneel, zoals politie, ambulance en brandweer is niet toegestaan. <mark><abbr title="Een ban van 1 week + 200 taken">Categorie 5</abbr></mark></li>
-<li>Het forceren van overheidspersoneel tot het fouilleren van een burger is niet toegestaan. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het weggeven van goederen, geld en- of voertuigen aan andere spelers wanneer je stopt is niet toegestaan. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Als burger mag je andere burgers niet zomaar slaan of vermoorden. Er moet altijd een goede (roleplay) reden voor zijn → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Gebruik van "U"-spier tijdens schietpartij → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Burger gijzelen en- of vastbinden zonder aanleiding → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Intentioneel uitlokken van overheidsmedewerkers is niet toegestaan → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Illegale locatie campen → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Als burger dien je altijd mee te werken aan een roleplayscenario en- of een <code>/me</code> command → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
 </ul>
+<div class="admonition example end">
+<p class="admonition-title">Overige onderdelen die vallen onder dit lid:</p>
+<ol>
+<li>Het doorgeven van een onjuiste portofrequentie</li>
+<li>Tijdens een achtervolging je voertuig wegzetten in een garage</li>
+<li>Head ID's gebruiken om locaties van burgers te zien en- of te identificeren</li>
+<li>Onjuist en- of onrealistisch gebruik maken van het F6 menu</li>
+<li>Communicatie middelen gebruiken terwijl je dood- of onder water bent</li>
+<li>Stelen van een voertuig van een burger zonder aanleidende reden</li>
+<li>Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario</li>
+<li>Medewerkers van de overheid te ontvoeren om een signalering te verwijderen of om iets te bekijken in de MEOS</li>
+<li>Medewerkers van de overheid te dwingen om een (bewusteloze) burger te fouilleren, items (zoals wapens) af te nemen en te geven aan jou of een andere burger</li>
+</ol>
+</div>
+<ul>
+<li>Seksuele roleplay is verboden → <mark><abbr title="Een ban van 2 weken + 200 taken">Categorie 6</abbr></mark></li>
+</ul>
+<hr />
 <h3 id="artikel-2-cheats-hacks-en-glitches">Artikel 2 - Cheats, Hacks en Glitches</h3>
 <ul>
-<li>Een persoon die gebruik maakt van software/hulpmiddelen die niet zijn toegestaan, zoals cheats en hacks. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Burger die gebruik maakt van software en- of hulpmiddelen van derede partijen om een oneerlijk voordeel te krijgen → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
 </ul>
 <div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Deze regel geldt ook voor Discord. Het gebruik maken van Better Discord is niet toegestaan.</p>
+<p class="admonition-title">Aanvullende Informatie</p>
+<ul>
+<li>Het gebruik maken van Better Discord</li>
+<li>Het gebruik maken van de serverlijst om te kijken wie er online is</li>
+<li>Het gebruik maken van de Discord ledenlijst om te kijken wie er online is</li>
+<li>Het gebruik maken van Combat Packs, om bijvoorbeeld minder bosjes en dergelijken te zien</li>
+<li>Het gebruik maken van een (Build in monitor)-crosshair</li>
+<li>Eventuele zelfgemaakte tracking software waarbij je weet wie er online is</li>
+</ul>
+</div>
+<div class="admonition info end">
+<p class="admonition-title">Uitzonderingen</p>
+<p>Ontvangen beelden over burgers die vals spelen dat niet heeft plaatsgevonden in Metro Stad zullen genegeerd worden.</p>
 </div>
 <ul>
-<li>Het moedwillig misbruiken van een bug en- of exploit is niet toegestaan. <mark><abbr title="Een ban van 1 maand + 200 taken">Categorie 7</abbr></mark></li>
+<li>Burger die met opzet bugs en- of exploits misbruikt om een oneerlijk voordeel te krijgen → <mark><abbr title="Een ban van 1 maand + 200 taken">Categorie 7</abbr></mark></li>
 </ul>
-<h3 id="artikel-3-bedreigen-intimideren">Artikel 3 - Bedreigen &amp; Intimideren</h3>
+<div class="admonition info end">
+<p class="admonition-title">Voorbeelden</p>
 <ul>
-<li>Het is ten strengste verboden om andere spelers te bedreigen en- of te intimideren met een DDOS aanval. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
-<li>Het Doxen (Leaken van informatie) van andere spelers is niet toegestaan. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
-<li>Het DDOS'en andere spelers is niet toegestaan. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Het dragen van een onzichtbare holster</li>
+<li>Schoenen uitdoen om minder tot geen recoil te hebben</li>
+<li>Emote gebruiken om sneller te rennen</li>
+<li>Jump exploits</li>
 </ul>
+</div>
+<div class="admonition bug end">
+<p class="admonition-title">Rapporteer Bugs</p>
+<p>Wanneer je een bug of exploit hebt gevonden dien je deze direct te melding in onze Support Discord server: <a href="https://discord.gg/TpsvX56XnQ">https://discord.gg/TpsvX56XnQ</a>. Omschrijf de handelingen die je hebt gedaan en lever een clip aan.</p>
+</div>
+<ul>
+<li>Burgers die overheids porto kanalen joint, zonder dat diegene lid is van de des betreffende overheidsbaan → <mark><abbr title="Een ban van 1 maand + 200 taken">Categorie 7</abbr></mark></li>
+</ul>
+<hr />
+<h3 id="artikel-3-bedreiging-intimidatie">Artikel 3 - Bedreiging &amp; Intimidatie</h3>
+<ul>
+<li>Burgers of Metro Stad te dreigen en- of uitvoeren met DDoS aanvallen → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Doxen van spelers. Met andere woorden het lekken van prive gegevens van andere burgers → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+</ul>
+<hr />
 <h3 id="artikel-4-irl-traden">Artikel 4 - IRL Traden</h3>
 <ul>
-<li>Het is niet toegestaan om in-game items, geld en- of diensten te verhandelen voor echt geld. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>In-game goederen/diensten voor echt geld (in)ruilen → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
 </ul>
-<h3 id="artikel-5-meta-gaming">Artikel 5 - Meta-gaming</h3>
+<hr />
+<h3 id="artikel-5-metagaming">Artikel 5 - Metagaming</h3>
 <ul>
-<li>Informatie dat je hebt verkregen via een andere methode dan in-game (Meta-gaming). Mag niet worden gebruikt in de roleplay. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Informatie opgedaan buiten de server te gebruiken binnen de stad → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Niet deafened en- of gemute zitten tijdens dat je in de stad bent → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Erkende gangs dienen ten alle tijden aanwezig te zijn in hun toegewezen Discord server of in de onderwereld Discord server, wanneer zij aanwezig zijn in de stad. Als je niet actief deelneemt aan een scenario, is het toegestaan om undeafened te zitten.</p>
+</div>
+<ul>
+<li>Geen werkend clip-systeem → straf afhankelijk van context</li>
+</ul>
+<div class="admonition info">
+<p class="admonition-title">Verplichte clip eisen</p>
+<ul>
+<li>Je dient ten alle tijden een werkend clip-systeem te hebben, waarbij jou microfoon input en het game geluid te horen is. Voorbeelden: <a href="https://medal.tv/nl">MedalTV</a>, <a href="https://obsproject.com/">OBS</a></li>
+<li>Videos bij voorkeur delen via MedalTV en- of via YouTube</li>
+</ul>
+</div>
+<hr />
+<h3 id="artikel-6-combat-logging">Artikel 6 - Combat Logging</h3>
+<ul>
+<li>Uitloggen tijdens een roleplay scenario zonder terugkeer binnen 5 min → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
 </ul>
 <div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>De straf kan hoger uitvallen. Dit wordt bepaald door de ernst van de overtreding.</p>
+<p class="admonition-title">Uitloggen tijdens dat je een wapen draagt</p>
+<p>Mocht de tegenpartij de mogelijkheid hebben gehad om jou wapen(s) af te nemen, dan kan het zijn dat we de/het wapen(s) in beslag nemen</p>
 </div>
-<ul>
-<li>Het is niet toegestaan om externe services (Discords) te gebruiken voor roleplay gerelateerde zaken, zonder dat je hiervoor toestemming hebt gekregen. Enkele voorbeelden; Excel Sheets, Verkoop van wapens, Prijs afspraken ed. Alle deelnemers zullen een straf <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark> ontvangen.</li>
-<li>Het is niet toegestaan om in Discords je gameplay te streamen. Verder dien je ten alle tijden gedeafened te zijn. Als 1 persoon in-game is en de rest niet en je besluit alsnog niet gedeafened/gemute te zijn, zal je een straf <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark> ontvangen.</li>
-<li>Het streamen in de Main Discord is niet toegestaan, uitzonderingen kunnen gemaakt worden in overleg met het staff team. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het is ten alle tijden verplicht om een werkend clip-systeem te hebben. Programma's zoals OBS, Streamlabs, XSplit, Nvidia Shadowplay, AMD ReLive, etc. zijn toegestaan. Probeer je clip(s) altijd op YouTube te uploaden. Een clip moet <strong>minimaal bestaan uit 1 minuut en voorzien zijn van geluid</strong>.</li>
-</ul>
-<div class="admonition info end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Wij kunnen vragen naar beeldmateriaal voor onder andere;</p>
-<ul>
-<li>Het gezien hebben van een wapen</li>
-<li>Het gezien hebben van een in hechtenis genomen persoon</li>
-</ul>
-<p>Bij het niet kunnen overleggen van beeldmateriaal, kan dit leiden tot een straf en- of inbeslagname van goederen.</p>
-</div>
-<h3 id="artikel-6-combat-loggen">Artikel 6 - Combat Loggen</h3>
-<ul>
-<li>Het is niet toegestaan om uit te loggen tijdens een roleplay situatie. Je dient binnen 5 minuten terug te keren in de stad. Doe je dit niet dan volgt de <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark> straf.</li>
-</ul>
-<div class="admonition tip end">
+<div class="admonition tip">
 <p class="admonition-title">Uitzonderingen</p>
-<p>Gamecrashes, internetproblemen en- of een server crash. Je dient dit direct te melden in de <a href="https://discord.gg/TpsvX56XnQ">Support Discord</a> door het maken van een Overige ticket.</p>
+<p>Gamecrash, internetproblemen of servercrash → maak dan direct een support ticket aan in onze Support Server: <a href="https://discord.gg/TpsvX56XnQ">https://discord.gg/TpsvX56XnQ</a> </p>
 </div>
-<ul>
-<li>Wanneer je door een bepaalde reden de stad moet verlaten en je bent in een scenario, meld dit dan door middel van <code>/me</code>. Kom je er niet uit met de andere partij, dan kan je altijd een stafflid inschakelen, door middel van <code>/report</code>.</li>
-</ul>
+<hr />
 <h3 id="artikel-7-taalgebruik">Artikel 7 - Taalgebruik</h3>
 <ul>
-<li>Het is niet toegestaan om scheldwoorden (Hieronder vallen ook hedendaagse ziektes), racistische opmerkingen, bedreigingen en- of andere ongepaste taal te gebruiken. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Het schelden met ziektes en- of gebruik maken van racistisch opmerkingen → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr>+</mark></li>
+<li>Het gebruik maken van een andere taal dan Nederlands → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr>+</mark></li>
 </ul>
-<div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>De straf kan hoger uitvallen. Dit wordt bepaald door de ernst van de overtreding.</p>
+<hr />
+<h3 id="artikel-8-alt-accounts">Artikel 8 - Alt Accounts</h3>
+<ul>
+<li>Het hebben van meerdere accounts → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Het spoofen van een verbannen account → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Het misbruiken van startersgeld en- of weggeven van startersgeld aan andere burgers → <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+</ul>
+<hr />
+<h3 id="artikel-09-voertuigen">Artikel 09 - Voertuigen</h3>
+<ul>
+<li>Het pitten van andere voertuigen boven de 125km/u → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Werkvoertuigen voor illegale activiteiten gebruiken → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Voertuig gebruiken als wapen (VDM) → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+</ul>
+<hr />
+<h3 id="artikel-10-kleding">Artikel 10 - Kleding</h3>
+<ul>
+<li>Het dragen van de standaard outfit → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Het dragen van overheidskleding zonder functie te dragen → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Het imiteren van overheidsrol(len) → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Het dragen van groeperingsoutfits zonder toestemming → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Het dragen van staffkleding → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+</ul>
+<hr />
+<h3 id="artikel-11-reports">Artikel 11 - Reports</h3>
+<ul>
+<li>Misbruik of spammen van <code>/reports</code> → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Andere speler informeren over reports → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+</ul>
+<hr />
+<h3 id="artikel-12-in-game-social-media">Artikel 12 - In-Game Social Media</h3>
+<ul>
+<li>Bedreigen en- of stalken via Social Media → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+<li>Onderwereldzaken posten op Birdy/Instapic → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+</ul>
+<hr />
+<h3 id="artikel-13-oplichting-overvallen">Artikel 13 - Oplichting &amp; Overvallen</h3>
+<ul>
+<li>Het oplichten van nieuwe burgers → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+</ul>
+<div class="admonition tip end">
+<p class="admonition-title">Speeltijd</p>
+<p>Een burger moet minimaal 24 uur gespeeld hebben voordat deze geript mag worden. Je kan de speeltijd van de burger inzien wanneer je <code>/playtime &lt;ID&gt;</code> doet</p>
 </div>
 <ul>
-<li>Er wordt verwacht dat iedere speler de Nederlandse of Engelse taal beheerst. Indien iemand dit niet beheerst, is deze persoon niet welkom in de server.</li>
-<li>Andere talen dan de Nederlandse of Engelse taal zijn niet toegestaan, dit geldt ook voor Discord.</li>
-<li>Het weigeren om de Nederlandse of Engelse taal te spreken, kan leiden tot een straf <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Burgers dwingen geld op te maken van een pinautomaat → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+<li>Huizen van burgers onder dwang betreden → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+<li>Scammen van voertuigen of loodsen → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+<li>Wapens en- of drugs verkopen via social media → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+<li>Speler vermoorden na oplichting → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
 </ul>
-<h3 id="artikel-8-alt-characters">Artikel 8 - Alt Characters</h3>
+<div class="admonition warning">
+<p class="admonition-title">Let op</p>
+<p>Het massaal boeien om burgers 1 voor 1 te beroven is niet toegestaan</p>
+</div>
+<hr />
+<h3 id="artikel-14-criminele-groeperingen">Artikel 14 - Criminele Groeperingen</h3>
 <ul>
-<li>Het is niet toegestaan om meerdere accounts te hebben. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
-<li>Het is niet toegestaan om een ander account/persoon te gebruiken om je startersgeld over te maken. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
-<li>Het is niet toegestaan om te spoofen om op die manier een ander account te gebruiken. <mark><abbr title="Permanent ban (geen unban mogelijk)">Categorie 9</abbr></mark></li>
+<li>Maximaal 20 leden per groepering</li>
+<li>Het samenwerken met andere groeperingen zonder toestemming is niet toegestaan → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
+<li>Nepmeldingen rond ganghuis maken om voor uitlokking te zorgen → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
 </ul>
 <div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Deze regels gelden ook voor Discord. Het is niet toegestaan om een ander account te gebruiken, wanneer je bijvoorbeeld bent gebanned.</p>
+<p class="admonition-title">Melding verplicht</p>
+<p>Bestaat je groepering uit meer dan 8 leden? Meld dit via de <a href="https://discord.gg/TpsvX56XnQ">Support Discord</a> - Je zult dan van ons
+een Discord server ontvangen. Ieder lid dient vanaf dat moment ten alle tijden aanwezig te zijn in een voice-kanaal, wanneer burger zich in de stad bevindt.</p>
 </div>
-<h3 id="artikel-8-fail-rp">Artikel 8 - Fail RP</h3>
-<ul>
-<li>Onder Fail RP vallen alle acties die niet realistisch zijn en- of niet bijdragen aan de roleplay. Vraag jezelf altijd af of dit in het echt ook zou kunnen gebeuren.</li>
-</ul>
-<div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<ul>
-<li>Wanneer je een scenario vermijdt tijdens ernstige verwondingen, aanrijdingen <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Ongepaste emotes gebruiken of het spammen van emotes <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het lek steken- of schieten van banden zonder enige aanleiding <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het praten over de porto of telefoon, wanneer je onder water bent <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-</ul>
+<div class="admonition danger end">
+<p class="admonition-title">Als groep verantwoordelijk</p>
+<p>Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level</p>
 </div>
+<hr />
+<h3 id="artikel-15-officiele-organisaties">Artikel 15 - Officiële Organisaties</h3>
 <ul>
-<li>Het stelen van een voertuig is toegestaan, mits de eigenaar van het voertuig in de buurt aanwezig is. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-</ul>
-<div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Wanneer de eigenaar bezig is met onderstaande activiteiten, is het niet toegestaan om het voertuig te stelen. Met uitzondering van dat de speler een appartement betreedt.</p>
-<ul>
-<li>Inladen</li>
-<li>Uitladen</li>
-<li>Tanken</li>
-<li>Repareren</li>
-</ul>
-</div>
-<ul>
-<li>Het campen/wachten op illegale locaties is niet toegestaan. <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Praten terwijl je dood bent is niet toegestaan. Wanneer je op een manier gedood wordt dat niet juist is, maak dan een report aan <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Wanneer je in je benen geschoten wordt en jezelf hierna overgeeft, dan dien je mee te werken. Uitzondering is dat wanneer politie of criminele organisatie overmeesterd wordt. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-</ul>
-<h3 id="artikel-9-powergamen">Artikel 9 - Powergamen</h3>
-<ul>
-<li>Het opzettelijk veranderen van een scenario door onrealistische acties te ondernemen en- of toe te voegen, waardoor het voor de andere partij niet meer mogelijk is om te realistisch er op in te spelen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het vluchten in een afgesloten gebouw, die alleen toegankelijk is voor jezelf (Appartementen, Loodsen).</li>
-<li>Ongeacht de situatie, binnen 10 minuten na het trekken van een wapen, je deze weglegt in een voertuig of in een appartement. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-</ul>
-<div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Indien de situatie het toelaat, kan de straf hoger uitvallen. Dit wordt bepaald door de ernst van de overtreding. Het kan dus ook voorkomen, dat je wapen wordt ingenomen.</p>
-</div>
-<ul>
-<li>Gebruik maken van de "Show IDs" functie om zo spelers te vinden <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Een speler meenemen naar een locatie, waar deze persoon niet kan ontsnappen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het gebruik maken van de "U" spier tijdens dat je beschoten wordt. <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Het gebruik maken van de "U" spier om niet op te vallen en het gebruik maken van het 3rd person camera om onrealistische dingen te zien. <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Iemand vastbinden en- of gijzelen zonder enige aanleiding. <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Iemand door middel van <code>/me</code> vast te binden is niet toegestaan. <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-</ul>
-<h3 id="artikel-10-voertuigen">Artikel 10 - Voertuigen</h3>
-<ul>
-<li>Het is ten alle tijden niet toegestaan om je voertuig als wapen te gebruiken (VDM). <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Het is niet toegestaan om je voertuig te gebruiken om andere spelers te vermoorden (VDM). <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
-<li>Een pit dient realistisch te zijn en of rond de 125km/h. <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-<li>Als burger is het niet toegestaan om overheidsvoertuigen te besturen, tenzij er in de roleplay een goede reden voor is, of dat je expliciet toestemming van een stafflid hebt gekregen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het is niet toegestaan om voertuigen die je krijgt bij het doen van een baan te gebruiken om illegale activiteiten te doen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-</ul>
-<h3 id="artikel-11-overheidskleding">Artikel 11 - (Overheids)kleding</h3>
-<ul>
-<li>Het dragen van het standaard outfit is niet toegestaan. Verbale waarschuwing en- of een straf <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-<li>Het dragen van overheid kleding is niet toegestaan, tenzij je in dienst bent van de overheid. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het imiteren van een overheidsfunctie is niet toegestaan. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Kledij dat bestemd is voor groeperingen/staffleden is niet toegestaan om te dragen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-</ul>
-<p>Uitzonderingen kunnen gemaakt worden in overleg met het staff team.</p>
-<h3 id="artikel-12-reports">Artikel 12 - Reports</h3>
-<ul>
-<li>Er wordt van je verwacht gebruik te maken van <code>/report</code> om overtredingen van regels te melden.</li>
-<li>Het is niet de bedoeling dat je andere spelers meldt, dat je een report hebt aangemaakt. Dit kan leiden tot een straf <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-<li>Het onnodig aanmaken, spammen van reports is niet toegestaan. <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
-</ul>
-<h3 id="artikel-13-in-game-social-media">Artikel 13 - In-game Social Media</h3>
-<ul>
-<li>Het is niet toegestaan om in-game social media te gebruiken om andere spelers te bedreigen, intimideren en- of te stalken. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is niet toegestaan om onderwereld gerelateerde zaken in Twitter/Instagram te plaatsen. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-</ul>
-<h3 id="artikel-14-overvallen-oplichten-van-spelers">Artikel 14 - Overvallen &amp; Oplichten van spelers</h3>
-<ul>
-<li>Het is niet toegestaan om nieuwe spelers op te lichten. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is niet toegestaan om een speler mee te nemen naar een pin-automaat of bank om deze persoon te beroven. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is niet toegestaan om onder dwang een huis te betreden. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is niet toegestaan te scammen van voertuigen. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Voertuigen mogen alleen via legaal geld worden (ver/ge)kocht. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is niet toegestaan om spelers op te lichten van loodsen. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is aan de kopende partij de verantwoordelijkheid om te controleren of de "tunes" op een voertuig zitten.</li>
-<li>Het counteren van een overval, wanneer de politie aanwezig is, is niet toegestaan. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Nadat de overvallers zijn vertrokken, mag je een counter doen.</li>
-<li>Het oplichten van spelers tijdens het kopen/verkopen van illegale goederen is toegestaan.</li>
-<li>Het doodmaken- schieten van een speler die je hebt overvallen/opgelicht is, is niet toegestaan (RDM). <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Het is niet toegestaan om in <code>/me</code> te melden dat de persoon iets is vergeten.</li>
-<li>Het is niet toegestaan om spelers te boeien en- of vast te binden zonder enige aanleiding. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-</ul>
-<div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Meerdere mensen boeien en- of vastbinden, om ze hierna 1-voor-1 te beroven is niet toegestaan. Zorg er dus voor dat je niet alleen bent.</p>
-</div>
-<h3 id="artikel-15-criminale-organisaties">Artikel 15 - Criminale Organisaties</h3>
-<ul>
-<li>Onder "Criminale Organisaties" vallen alle groeperingen die zich bezighouden met criminele activiteiten. Deze groeperingen dienen zich te houden aan de regels en richtlijnen van Metro Stad. <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
-<li>Criminele organisaties mogen een maximaal aantal leden hebben van 15 personen.</li>
-<li>Organisaties mogen onderling niet samenwerken, om zo sterker te staan tegen andere organisaties. Uitzonderingen kunnen gemaakt worden in overleg met het staff team.</li>
-<li>Als criminele organisatie mag je een terrein claimen. Andere spelers mogen dit terrein niet betreden, tenzij ze toestemming hebben van de eigenaar. Uitzonderingen zijn als je een wapen hebt gezien, of een "gang war" hebt.</li>
-<li>Het is verboden om nepmeldingen te maken in de omgeving van een gang huis met de intentie tot uitlokken van de criminelen of het in de problemen werken van de rivaliserende groep. Hieronder valt ook het expres uitvoeren van andere illegale praktijken (zoals schieten met vuurwapens) onder.</li>
+<li>Het samenwerken met andere burgers buiten je groepering en- of andere groeperingen is niet toegestaan → <mark><abbr title="Een ban van 3 dagen + 200 taken">Categorie 4</abbr></mark></li>
 </ul>
 <div class="admonition info end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Zaken doen met elkaar is toegestaan, denk hierbij elkaar met rust laten, betere prijsafspraken ed.</p>
+<p class="admonition-title">Hoe krijg ik een "Officiële organisatie"</p>
+<p>Metro Stad werkt met een level systeem. Wij zullen groeperingen in de gaten houden hoe zij zich gedragen in de stad. Het kan voorkomen
+dat we bepaalde opdrachten geven, zodat de groepering een level omhoog kan gaan. Voordelen die je ontgrendeld kan je vinden in onze Onderwereld Server: <a href="https://discord.gg/jJePqGKC9m">https://discord.gg/jJePqGKC9m</a></p>
 </div>
-<div class="admonition warning end">
-<p class="admonition-title">Aanvullende informatie</p>
-<p>Wanneer je organisatie meer dan <strong>8 leden</strong> heeft, dien je dit te melden in de <a href="https://discord.gg/TpsvX56XnQ">Support Discord</a> door het maken van een Overige ticket.</p>
+<div class="admonition danger end">
+<p class="admonition-title">Als groep verantwoordelijk</p>
+<p>Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level</p>
 </div>
-<h3 id="artikel-16-officiele-organisaties">Artikel 16 - Officiële Organisaties</h3>
-<h2 id="-tbf">- TBF</h2>
-<h3 id="artikel-17-rippen-van-spelers">Artikel 17 - Rippen van spelers</h3>
+<hr />
+<h3 id="artikel-16-rippen">Artikel 16 - Rippen</h3>
 <ul>
-<li>Wanneer een speler bezig is met een illegale activiteit, of rijdt weg van een illegale activiteit, mag je deze persoon rippen.</li>
-<li>Buitenom illegale activiteiten is het niet toegestaan om zomaar een speler te rippen. Uitzonderingen staan hieronder beschreven.</li>
-<li>Je mag niet dezelfde persoon (als groep) rippen binnen 30 minuten.</li>
-<li>Na het rippen van een speler, mag je deze niet vermoorden. Met uitzondering van dat de speler een wapen trekt, of dat de speler een dreigement maakt.</li>
-<li>Een wapen dien je fysiek te zien, voordat je de speler mag rippen van het wapen. Uitzonderingen hieronder beschreven.</li>
-<li>Een slagwapen, mag een vuurwapen rippen. Pas op dit mag alleen wanneer diegene met een slagwapen in sla houding staat en in de eerste praatcirkel.</li>
+<li>Een burger mag alleen geript worden tijdens dat deze bezig is met een illegale activiteit en- of zich op eiland bevindt</li>
+<li>Een burger mag eens in de 30 minuten geript worden en met rust gelaten te worden</li>
+<li>Je mag een burger niet doodschieten, nadat je burger hebt geript</li>
+<li>Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)</li>
+<li>Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid</li>
+</ul>
+<div class="admonition info">
+<p class="admonition-title">Toegestane rip-indicatoren</p>
+<ul>
+<li>Gezichtsbedekking</li>
+<li>Holster</li>
+<li>Illegale gesprekken</li>
+<li>Wapen in hand</li>
+<li>Zich bevinden op eiland</li>
+</ul>
+</div>
+<div class="admonition success">
+<p class="admonition-title">Je mag afpakken:</p>
+<p>Ongeacht of burger zich bevind op land of eiland;</p>
+<ul>
+<li>Al het <strong>zwart geld</strong> dat burger bij heeft</li>
+<li>Alle <strong>wapen(s)</strong> geld dat burger bij heeft</li>
+<li>Alle <strong>drugs</strong> dat burger bij heeft</li>
+<li>Alle <strong>communicatie middelencommunicatie middelen</strong> dat burger bij heeft</li>
+</ul>
+</div>
+<hr />
+<h3 id="artikel-17-refunds">Artikel 17 - Refunds</h3>
+<ul>
+<li>Een refund dient binnen 2 weken aangevraagd te zijn. Hierna zal deze komen te vervallen</li>
+<li>Betreft refund om een recent scenario, dan dient de refund aanvraag binnen 3 dagen aangemaakt te zijn</li>
 </ul>
 <div class="admonition info end">
-<p class="admonition-title">Uitzonderingen</p>
+<p class="admonition-title">Voorwaarden</p>
 <ul>
-<li>De speler draagt gezichtsbedekking (Helm, Masker, Bivakmuts), een baard of bril telt niet mee.</li>
-<li>De speler draagt een holster</li>
-<li>De speler praat over illegale activiteiten</li>
-<li>De speler heeft een wapen in zijn handen</li>
+<li>De waarde omtrent de refund dient minimaal te bestaan uit €10.000</li>
+<li>Je dient ten alle tijden video bewijs aan te kunnen aanleveren inclusief geluid en je microfoon</li>
+<li>Het video bewijs dient vanuit jouw perspectief te zijn opgenomen</li>
+</ul>
+<p>Voldoe je niet aan bovenstaande regels, dan word je ticket niet behandeld, tenzij je expliciet toestemming hebt gekregen</p>
+</div>
+<div class="admonition note end">
+<p class="admonition-title">Ongeldige verklaard</p>
+<ul>
+<li>Wanneer de refund betreft om een gegeven item of voertuig aan een verbannen persoon, dan is het niet mogelijk een refund te ontvangen</li>
+<li>Wanneer je video materiaal korter is dan 3 minuten, zal deze niet worden goedgekeurd</li>
+<li>Wanneer je doodgaat door een verkeersongeluk, dan is het aan de ambulancepersoneel om te kijken of </li>
 </ul>
 </div>
-<div class="admonition success end">
-<p class="admonition-title">Overige informatie</p>
-<p>Wanneer je een speler ript, wanneer deze bezig is met een illegale activiteit, mag je alle illegale items van de persoon afpakken.</p>
+<h3 id="artikel-18-gezichts-en-stemherkenning">Artikel 18 - Gezichts- en Stemherkenning</h3>
 <ul>
-<li>Zwart geld</li>
-<li>Drugs</li>
-<li>Wapens</li>
-<li>Communicatie middelen</li>
+<li>Gebruikt burger een stemvervormer, dan mag je de burger niet herkennen → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+<li>Gebruikt burger een masker, dan mag je burger niet herkennen → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+</ul>
+<h3 id="artikel-19-discord-streamen">Artikel 19 - Discord &amp; Streamen</h3>
+<ul>
+<li>Wanneer je met meerdere mensen in een voicecall zit, is het niet toegestaan om te streamen → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Wanneer je op een livestream van iemand meekijkt is het niet toegestaan om opgedane kennis te gebruiken in de stad → <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
+</ul>
+<h3 id="artikel-20-hulpdiensten">Artikel 20 - Hulpdiensten</h3>
+<ul>
+<li>Het is niet toegestaan om dienstverleners van de ambulance en Benny's te ontvoeren en- of te vermoorden → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Het is burger verboden om illegale activiteiten te verrichten, wanneer burger een overheidsbaan heeft (ambulance, Benny's, politie) → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Nadat burger opnieuw tot leven is gekomen, mag burger gedurende 10 minuten niet aankoppelen op het scenario. Met uitzondering van ambulancepersoneel en Benny's → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+<li>Tijdens in dienst te zijn, dient burger ten alle tijden aanwezig te zijn. Leidinggevende kan hier een uitzondering voor maken → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Het AFK (Away From Keyboard) farmen van werkuren is niet toegestaan en zal leiden tot directe ontslag uit functie → <mark><abbr title="Een ban van 2 dagen + 150 taken">Categorie 3</abbr></mark></li>
+</ul>
+<div class="admonition info end">
+<p class="admonition-title">Ontslag op staande voet</p>
+<p>Het niet naleven van bovenstaande regels kan leiden tot ontslag op staande voet. Dit zal bepaald worden door de bovenwereld coordinator en- of je leidinggevende</p>
+</div>
+<h3 id="artikel-21-helikopters-vliegtuigen">Artikel 21 - Helikopters &amp; Vliegtuigen</h3>
+<ul>
+<li>Minimale hoogte voor helikopter is <strong>80 meter</strong> en voor vliegtuigen <strong>300 meter</strong> → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Het is burger alleen toegestaan om te landen op helipads en- op erkende locaties → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+<li>Wanneer burger niet in bezit is van een geldig vliegbrevet toegestaan om te vliegen → <mark><abbr title="Een waarschuwing + 50 taken">Categorie 1</abbr></mark></li>
+</ul>
+<div class="admonition info end">
+<p class="admonition-title">Vliegbrevet Waarschuwing</p>
+<ul>
+<li>Het overtreden van bovenstaande regel(s) kan lijden tot een waarschuwing op je vliegbrevet</li>
+<li>Herhaaldelijke overtredingen kunnen resulteren in het innemen van het brevet</li>
 </ul>
 </div>
-<h3 id="artikel-19-gezicht-en-stem-herkenning">Artikel 19 - Gezicht- en Stem- herkenning</h3>
-<ul>
-<li>Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar stem te herkennen. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het is toegestaan om gebruik te maken van externe software om je stem te vervormen. Dit mag expliciet alleen gebruikt worden tijdens illegale activiteiten. <mark><abbr title="Een ban van 1 dag + 100 taken">Categorie 2</abbr></mark></li>
-<li>Het is niet toegestaan om een speler aan zijn/haar gezicht te herkennen, wanneer deze persoon een masker draagt en zijn/haar stem vervormt.</li>
-</ul>
 
 
 
@@ -964,14 +1075,14 @@
             </div>
           
           
-  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
 
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
         
           <button type="button" class="md-top md-icon" data-md-component="top" hidden>
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
   Terug naar boven
 </button>
         
@@ -1008,10 +1119,12 @@
       <div class="md-progress" data-md-component="progress" role="progressbar"></div>
     
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs.sticky", "navigation.sections", "navigation.instant", "navigation.instant.progress", "navigation.tracking", "navigation.expand", "navigation.path", "toc.follow", "toc.integrate", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy", "content.tooltips", "pymdownx.critic"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}}</script>
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs.sticky", "navigation.sections", "navigation.instant", "navigation.instant.progress", "navigation.tracking", "navigation.expand", "navigation.path", "toc.follow", "toc.integrate", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy", "content.tooltips", "pymdownx.critic"], "search": "../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}, "version": null}</script>
     
     
-      <script src="../assets/javascripts/bundle.081f42fc.min.js"></script>
+      <script src="../assets/javascripts/bundle.13a4f30d.min.js"></script>
       
     
   </body>
