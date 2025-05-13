@@ -138,7 +138,7 @@
 
 ---
 
-### Artikel 09 - Voertuigen
+### Artikel 9 - Voertuigen
 
 - Het pitten van andere voertuigen boven de 125km/u → ==Categorie 1==
 - Werkvoertuigen voor illegale activiteiten gebruiken → ==Categorie 2==
