@@ -39,11 +39,11 @@
     3. Uitspraken zoals; `Broodje`, `Ticket`, `Refund`, `Bug`, etc. zijn niet toegestaan.
 - Wanneer burger komt te overlijden, mag deze daarna niet meer meedoen met het voorafgaande scenario → ==Categorie 2==
 - Als burger moet je altijd doen alsof je karakter wilt blijven leven. Ook als een andere burger een wapen op je richt → ==Categorie 2==
-- Vluchten in afgesloten gebouwen → ==Categorie 2==
-- Wapen direct opbergen in voertuig/appartement → ==Categorie 2==
 !!! example end "Voorbeeld"
     1. Het uit een voertuig springen
-    2. Van een gebouw afspringen 
+    2. Van een gebouw afspringen
+- Vluchten in afgesloten gebouwen → ==Categorie 2==
+- Wapen direct opbergen in voertuig/appartement → ==Categorie 2==
 - Als burger mag je andere burgers niet zomaar slaan of vermoorden. Er moet altijd een goede (roleplay) reden voor zijn → ==Categorie 3==
 - Gebruik van "U"-spier tijdens schietpartij → ==Categorie 3==
 - Burger gijzelen en- of vastbinden zonder aanleiding → ==Categorie 3==
@@ -175,7 +175,7 @@
 - Het oplichten van nieuwe burgers → ==Categorie 4==
 !!! tip end "Speeltijd"
     Een burger moet minimaal 24 uur gespeeld hebben voordat deze geript mag worden. Je kan de speeltijd van de burger inzien wanneer je `/playtime <ID>` doet
-- Burgers dwingen geld op te maken van een pinautomaat → ==Categorie 4==
+- Burgers dwingen geld op te nemen van een pinautomaat → ==Categorie 4==
 - Huizen van burgers onder dwang betreden → ==Categorie 4==
 - Scammen van voertuigen of loodsen → ==Categorie 4==
 - Wapens en- of drugs verkopen via social media → ==Categorie 4==
@@ -187,9 +187,10 @@
 
 ### Artikel 14 - Criminele Groeperingen
 
-- Maximaal 20 leden per groepering
+- Maximaal 15 leden per groepering en 5 friends
 - Het samenwerken met andere groeperingen zonder toestemming is niet toegestaan → ==Categorie 4==
 - Nepmeldingen rond ganghuis maken om voor uitlokking te zorgen → ==Categorie 4==
+- Er mogen maximaal 2 friends aankoppelen aan uitgebreide scenarios, denk hierbij aan overvallen en dergelijken
 
 !!! warning end "Melding verplicht"
     Bestaat je groepering uit meer dan 8 leden? Meld dit via de [Support Discord](https://discord.gg/TpsvX56XnQ) - Je zult dan van ons
@@ -217,6 +218,7 @@
 - Je mag een burger niet doodschieten, nadat je burger hebt geript
 - Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)
 - Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
+- Indien je een wapen van een burger afpakt op eiland, mag je deze persoon hierna **wel** doodschieten
 
 !!! info "Toegestane rip-indicatoren"
     - Gezichtsbedekking
@@ -231,7 +233,7 @@
     - Al het **zwart geld** dat burger bij heeft
     - Alle **wapen(s)** geld dat burger bij heeft
     - Alle **drugs** dat burger bij heeft
-    - Alle **communicatie middelencommunicatie middelen** dat burger bij heeft
+    - Alle **communicatie middelen** dat burger bij heeft
 ---
 
 ### Artikel 17 - Refunds
@@ -246,8 +248,8 @@
 
 !!! note end "Ongeldige verklaard"
     - Wanneer de refund betreft om een gegeven item of voertuig aan een verbannen persoon, dan is het niet mogelijk een refund te ontvangen
-    - Wanneer je video materiaal korter is dan 3 minuten, zal deze niet worden goedgekeurd
-    - Wanneer je doodgaat door een verkeersongeluk, dan is het aan de ambulancepersoneel om te kijken of 
+    - Wanneer je video materiaal korter is dan 2 minuten, zal deze niet worden goedgekeurd
+    - Wanneer je doodgaat door een verkeersongeluk, dan is het aan de ambulancepersoneel om te kijken of je eventueel geholpen kan worden
 
 ### Artikel 18 - Gezichts- en Stemherkenning
 
@@ -269,9 +271,9 @@
     Het niet naleven van bovenstaande regels kan leiden tot ontslag op staande voet. Dit zal bepaald worden door de bovenwereld coordinator en- of je leidinggevende
 
 ### Artikel 21 - Helikopters & Vliegtuigen
-- Minimale hoogte voor helikopter is **80 meter** en voor vliegtuigen **300 meter** → ==Categorie 1==
+- Minimale hoogte voor helikopter is **330 meter** en voor vliegtuigen **330 meter** → ==Categorie 1==
 - Het is burger alleen toegestaan om te landen op helipads en- op erkende locaties → ==Categorie 1==
-- Wanneer burger niet in bezit is van een geldig vliegbrevet toegestaan om te vliegen → ==Categorie 1==
+- Wanneer burger niet in bezit is van een geldig vliegbrevet is het niet toegestaan om te vliegen → ==Categorie 1==
 !!! info end "Vliegbrevet Waarschuwing"
     - Het overtreden van bovenstaande regel(s) kan lijden tot een waarschuwing op je vliegbrevet
     - Herhaaldelijke overtredingen kunnen resulteren in het innemen van het brevet
