@@ -285,4 +285,4 @@
 *[Categorie 7]: Een ban van 1 maand + 200 taken
 *[Categorie 8]: Een account wipe + 1 maand ban + 200 taken
 *[Categorie 9]: Permanent ban (geen unban mogelijk)
-*[tweede categorie]: Schietwapens, zoals pistolen en (automatische-)geweren
+*[tweede categorie]: Schietwapens, zoals pistolen en (automatische-)geweren 
