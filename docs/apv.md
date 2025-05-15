@@ -116,7 +116,7 @@
 
 ### Artikel 6 - Combat Logging
 - Uitloggen tijdens een roleplay scenario zonder terugkeer binnen 5 min → ==Categorie 4==
-- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet; Je appartement; je wapen wegleggen ==Categorie 4==
+- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet; Je appartement in; je wapen wegleggen ==Categorie 4==
 !!! warning end "Uitloggen tijdens dat je een wapen draagt - Vroegtijdig wegleggen"
     Mocht de tegenpartij de mogelijkheid hebben gehad om jou wapen(s) af te nemen, dan kan het zijn dat we de/het wapen(s) in beslag nemen
 
@@ -218,8 +218,9 @@
 - Een burger mag eens in de 30 minuten geript worden en met rust gelaten te worden
 - Je mag een burger niet doodschieten, nadat je burger hebt geript
 - Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)
-- Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
-- Indien je een wapen van een burger afpakt op eiland, mag je deze persoon hierna **wel** doodschieten
+- Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid 
+!!! top "Rippen en hierna doodschieten"
+    Indien je een wapen van een burger afpakt op eiland, mag je deze persoon hierna **wel** doodschieten
 
 !!! info "Toegestane rip-indicatoren"
     - Gezichtsbedekking
