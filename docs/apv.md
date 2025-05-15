@@ -116,11 +116,12 @@
 
 ### Artikel 6 - Combat Logging
 - Uitloggen tijdens een roleplay scenario zonder terugkeer binnen 5 min → ==Categorie 4==
-!!! warning end "Uitloggen tijdens dat je een wapen draagt"
+- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet; Je appartement; je wapen wegleggen ==Categorie 4==
+!!! warning end "Uitloggen tijdens dat je een wapen draagt - Vroegtijdig wegleggen"
     Mocht de tegenpartij de mogelijkheid hebben gehad om jou wapen(s) af te nemen, dan kan het zijn dat we de/het wapen(s) in beslag nemen
 
 !!! tip "Uitzonderingen"
-    Gamecrash, internetproblemen of servercrash → maak dan direct een support ticket aan in onze Support Server: <https://discord.gg/TpsvX56XnQ> 
+    Gamecrash of servercrash → maak dan direct een support ticket aan in onze Support Server: <https://discord.gg/TpsvX56XnQ> 
 
 ---
 
