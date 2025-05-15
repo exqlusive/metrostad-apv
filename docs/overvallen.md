@@ -118,11 +118,11 @@ met een crimineel doel.
 
 ## Overige Scenarios
 Het is toegestaan om maatwerk scenarios te bedenken en uitvoeren. Heb je bepaalde materialen nodig, die niet zomaar
-te vinden zijn in Metro Stad, overleg dan met een onderwereld coordinator over de eventuele mogelijkheden.
+te vinden zijn in Metro Stad, overleg dan met een onderwereld coördinator over de eventuele mogelijkheden.
 
 Het aantal aan te koppelen overheidsmedewerkers zullen door de leiding worden besloten. Zij dienen na propertie het aantal
 medewerkers in te zetten.
 !!! tip end "Tip"
-    - Overleg altijd met een onderwereld coordinator naar de mogelijkheden
-    Zij kunnen altijd even zitten met de leiding van de overheid om vooraf onderwerpen te bespreken om het scenario
+    - Overleg altijd met een onderwereld coördinator naar de mogelijkheden
+    Zij kunnen altijd even zitten met de leiding van de overheid of bovenwereld coördinator om vooraf onderwerpen te bespreken om het scenario
     zo goed en leuk mogelijk uit te kunnen spelen.

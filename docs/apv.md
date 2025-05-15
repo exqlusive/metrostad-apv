@@ -21,6 +21,20 @@
     - Het omzeilen van een straf is niet toegestaan. Wanneer je dit doet, zal de straf worden verhoogd met Categorie 7.
 ---
 
+!!! info "Bewijslasten"
+    Er wordt van elke burger verwacht dat zij gebruik maken van een clipsysteem. Voorbeelden: [MedalTV](https://medal.tv/nl), [OBS](https://obsproject.com/)
+
+    - Een clip moet minimaal 2 minuten zijn
+    - Een clip moet moet altijd vanuit jouw perspectief zijn
+    - Geluid van je gameplay dient aanwezig te zijn
+    - Geluid van je microfoon dient aanwezig te zijn
+    - Videos bij voorkeur delen via MedalTV en- of via YouTube
+    
+    Heb je eventuele hulp nodig met het opzetten van bovenstaande, contacteer ons dan in de Support Discord Server: <https://discord.gg/TpsvX56XnQ>
+    !!! tip "Tip"
+        Zorg er altijd voor dat je tijdens of nadat een scenario heeft plaatsgevonden je het beeldmateriaal vastlegd. Dit geldt voor de winnende en verliezende partij
+        
+
 ## Artikelen
 ### Artikel 1 - FailRP & Powergaming
 
@@ -90,7 +104,7 @@
 
 ### Artikel 3 - Bedreiging & Intimidatie
 
-- Burgers of Metro Stad te dreigen en- of uitvoeren met DDoS aanvallen → ==Categorie 9==
+- Burgers of Metro Stad te (be-)dreigen en- of uitvoeren met DDoS aanvallen → ==Categorie 9==
 - Doxen van spelers. Met andere woorden het lekken van prive gegevens van andere burgers → ==Categorie 9==
 
 ---
@@ -107,21 +121,17 @@
 - Niet deafened en- of gemute zitten tijdens dat je in de stad bent → ==Categorie 2==
 !!! note
     Erkende gangs dienen ten alle tijden aanwezig te zijn in hun toegewezen Discord server of in de onderwereld Discord server, wanneer zij aanwezig zijn in de stad. Als je niet actief deelneemt aan een scenario, is het toegestaan om undeafened te zitten.
-- Geen werkend clip-systeem → straf afhankelijk van context
-
-!!! info "Verplichte clip eisen"
-    - Je dient ten alle tijden een werkend clip-systeem te hebben, waarbij jou microfoon input en het game geluid te horen is. Voorbeelden: [MedalTV](https://medal.tv/nl), [OBS](https://obsproject.com/)
-    - Videos bij voorkeur delen via MedalTV en- of via YouTube
----
 
 ### Artikel 6 - Combat Logging
 - Uitloggen tijdens een roleplay scenario zonder terugkeer binnen 5 min → ==Categorie 4==
-- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet; Je appartement in; je wapen wegleggen ==Categorie 4==
+- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet je; → ==Categorie 4== 
+    - appartement in; 
+    - wapen wegleggen;
 !!! warning end "Uitloggen tijdens dat je een wapen draagt - Vroegtijdig wegleggen"
     Mocht de tegenpartij de mogelijkheid hebben gehad om jou wapen(s) af te nemen, dan kan het zijn dat we de/het wapen(s) in beslag nemen
 
 !!! tip "Uitzonderingen"
-    Gamecrash of servercrash → maak dan direct een support ticket aan in onze Support Server: <https://discord.gg/TpsvX56XnQ> 
+    Gamecrash of servercrash → maak dan direct een support ticket aan in onze Support Discord Server: <https://discord.gg/TpsvX56XnQ> 
 
 ---
 
@@ -130,6 +140,8 @@
 - Het schelden met ziektes en- of gebruik maken van racistisch opmerkingen → ==Categorie 2+==
 - Het gebruik maken van een andere taal dan Nederlands → ==Categorie 2+==
 
+!!! note "Minimale Straf"
+    De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebasseerd op de zwaarte van de gepleegde overtreding
 ---
 
 ### Artikel 8 - Alt Accounts
@@ -198,7 +210,7 @@
     een Discord server ontvangen. Ieder lid dient vanaf dat moment ten alle tijden aanwezig te zijn in een voice-kanaal, wanneer burger zich in de stad bevindt.
 
 !!! danger end "Als groep verantwoordelijk"
-    Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level
+    Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level. Een onderwereld coördinator bepaald de straf
 ---
 
 ### Artikel 15 - Officiële Organisaties
@@ -209,7 +221,7 @@
     dat we bepaalde opdrachten geven, zodat de groepering een level omhoog kan gaan. Voordelen die je ontgrendeld kan je vinden in onze Onderwereld Server: <https://discord.gg/jJePqGKC9m>
 
 !!! danger end "Als groep verantwoordelijk"
-    Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level
+    Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level. Een onderwereld coördinator bepaald de straf
 ---
 
 ### Artikel 16 - Rippen
@@ -219,8 +231,8 @@
 - Je mag een burger niet doodschieten, nadat je burger hebt geript
 - Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)
 - Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid 
-!!! top "Rippen en hierna doodschieten"
-    Indien je een wapen van een burger afpakt op eiland, mag je deze persoon hierna **wel** doodschieten
+!!! tip "Rippen en hierna doodschieten"
+    Indien je een wapen van een burger afpakt **op eiland**, mag je deze persoon hierna **wel** doodschieten
 
 !!! info "Toegestane rip-indicatoren"
     - Gezichtsbedekking
@@ -268,9 +280,10 @@
 - Nadat burger opnieuw tot leven is gekomen, mag burger gedurende 10 minuten niet aankoppelen op het scenario. Met uitzondering van ambulancepersoneel en Benny's → ==Categorie 3==
 - Tijdens in dienst te zijn, dient burger ten alle tijden aanwezig te zijn. Leidinggevende kan hier een uitzondering voor maken → ==Categorie 1==
 - Het AFK (Away From Keyboard) farmen van werkuren is niet toegestaan en zal leiden tot directe ontslag uit functie → ==Categorie 3==
+- Dienstverzuim; het nalaten van je werkzaamheden terwijl je officieel in dienst bent, bijvoorbeeld door doelloos rond te rijden of andere activiteiten te ondernemen die niets met je functie als politieagent, ambulancepersoneel of andere overheidsrol te maken hebben → ==Categorie 3==
 
 !!! info end "Ontslag op staande voet"
-    Het niet naleven van bovenstaande regels kan leiden tot ontslag op staande voet. Dit zal bepaald worden door de bovenwereld coordinator en- of je leidinggevende
+    Het niet naleven van bovenstaande regels kan leiden tot ontslag op staande voet. Dit zal bepaald worden door de bovenwereld coördinator en- of je leidinggevende
 
 ### Artikel 21 - Helikopters & Vliegtuigen
 - Minimale hoogte voor helikopter is **330 meter** en voor vliegtuigen **330 meter** → ==Categorie 1==
