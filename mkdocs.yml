@@ -59,13 +59,13 @@ markdown_extensions:
   - attr_list
   - pymdownx.snippets
 copyright: |
-  &copy; 2024 Metro Stad
+  &copy; 2025 Metro Stad
 nav:
   - Hoofdpagina: index.md
   - Algemene Plaatselijke Verordening (APV): apv.md
+  - Overvallen & Regels: overvallen.md
   - Politie Wetboek: politie_wetboek.md
   - Risico Gebieden: risico_gebieden.md
-  - Douane Gebieden: douane_gebieden.md
   - No Fly Zones: no_fly_zones.md
   - Belastingen: belastingen.md
   - Streamen: streamen.md

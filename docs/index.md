@@ -7,6 +7,7 @@ Welkom op de officiële documentatie van Metro Stad. Hier vind je alle informati
 Zorg ervoor dat je de regels en richtlijnen van Metro Stad leest voordat je begint met spelen. Als je vragen hebt, kun je altijd terecht op onze Discord servers.
 
 - [**Algemene Plaatselijke Verordening**](apv.md) bevat alle regels en richtlijnen van Metro Stad.
+- [**Overvallen & Regels**](overvallen.md) bevat alle regels en richtlijnen voor het plegen van overvallen.
 - [**Politie Wetboek**](politie_wetboek.md) bevat alle regels en richtlijnen van de politie.
 - [**Risico Gebieden**](risico_gebieden.md) bevat alle informatie over risico gebieden.
 - [**Douane Gebieden**](douane_gebieden.md) bevat alle informatie over douane gebieden.
