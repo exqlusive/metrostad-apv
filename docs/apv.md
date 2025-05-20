@@ -245,7 +245,7 @@
     Ongeacht of burger zich bevind op land of eiland;
 
     - Al het **zwart geld** dat burger bij heeft
-    - Alle **wapen(s)** geld dat burger bij heeft
+    - Alle **wapen(s)** dat burger bij heeft
     - Alle **drugs** dat burger bij heeft
     - Alle **communicatie middelen** dat burger bij heeft
 ---
@@ -302,4 +302,4 @@
 *[Categorie 7]: Een ban van 1 maand + 200 taken
 *[Categorie 8]: Een account wipe + 1 maand ban + 200 taken
 *[Categorie 9]: Permanent ban (geen unban mogelijk)
-*[tweede categorie]: Schietwapens, zoals pistolen en (automatische-)geweren 
+*[tweede categorie]: Schietwapens, zoals pistolen en (automatische-)geweren
