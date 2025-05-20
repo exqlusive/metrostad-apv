@@ -4,7 +4,7 @@
 
 | Categorie | Straf                                                   |
 |----------:|---------------------------------------------------------|
-| 1         | Waarschuwing + 50 taken                                |
+| 1         | Waarschuwing + 150 taken                                |
 | 2         | 1 dag ban + 100 taken                                  |
 | 3         | 2 dagen ban + 150 taken                                |
 | 4         | 3 dagen ban + 200 taken                                |
