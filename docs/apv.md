@@ -254,6 +254,7 @@
     - Alle **wapen(s)** dat burger bij heeft
     - Alle **drugs** dat burger bij heeft
     - Alle **communicatie middelen** dat burger bij heeft
+    - Ingrediënten om drugs te maken (legale producten) mogen niet afgepakt worden. Alleen dus het eindproduct! Items die gekocht zijn in de ondergrondse winkel mogen wel geript worden
 
 !!! warning end "Klachten & Refund tickets omtrent in de loods"
     Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan
