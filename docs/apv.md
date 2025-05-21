@@ -245,6 +245,7 @@
     - Illegale gesprekken
     - Wapen in hand
     - Zich bevinden op eiland
+    - Zich bevinden in een publiekelijke loods
 
 !!! success end "Je mag afpakken:"
     Ongeacht of burger zich bevind op land of eiland;
