@@ -235,11 +235,11 @@
 - Voor de politie is het toegestaan om een publiekelijke loods in te vallen. Hiervoor is wel eerst toestemming nodig van de leiding of Bovenwereld coördinator
 - Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
 - Het is niet toegestaan om voor een volwaardige loods iemand te scammen **met uitzondering van sleutel toegang**
-!!! tip "Rippen en hierna doden"
+!!! tip end "Rippen en hierna doden"
     - Indien je een wapen van een burger afpakt **op eiland**, mag je deze persoon hierna **wel** doodschieten
     - Indien je een wapen van een burger afpakt **in een publiekelijke loods**, mag je deze persoon hierna **wel** doodsteken
 
-!!! info "Toegestane rip-indicatoren"
+!!! info end "Toegestane rip-indicatoren"
     - Gezichtsbedekking
     - Holster
     - Illegale gesprekken
