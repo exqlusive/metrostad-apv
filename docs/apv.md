@@ -2,17 +2,17 @@
 
 ## Strafcategorieën
 
-| Categorie | Straf                                                   |
-|----------:|---------------------------------------------------------|
-| 1         | Waarschuwing + 50 taken                                |
-| 2         | 1 dag ban + 100 taken                                  |
-| 3         | 2 dagen ban + 150 taken                                |
-| 4         | 3 dagen ban + 200 taken                                |
-| 5         | 1 week ban + 200 taken                                 |
-| 6         | 2 weken ban + 200 taken                                |
-| 7         | 1 maand ban + 200 taken                                |
-| 8         | Account wipe + 1 maand ban + 200 taken                 |
-| 9         | Permanente ban (geen unban mogelijk) + account wipe    |
+| Categorie | Straf                                               |
+|----------:|-----------------------------------------------------|
+|         1 | Waarschuwing + 50 taken                             |
+|         2 | 1 dag ban + 100 taken                               |
+|         3 | 2 dagen ban + 150 taken                             |
+|         4 | 3 dagen ban + 200 taken                             |
+|         5 | 1 week ban + 200 taken                              |
+|         6 | 2 weken ban + 200 taken                             |
+|         7 | 1 maand ban + 200 taken                             |
+|         8 | Account wipe + 1 maand ban + 200 taken              |
+|         9 | Permanente ban (geen unban mogelijk) + account wipe |
 
 !!! info "Richtlijnen bij straffen"
     - De straffen uit de categorieën 5 t/m 8 kunnen worden uitgedeeld wanneer er sprake is van een overtreding op heterdaad. De opgelegde straf wordt naderhand met het staffteam besproken, om eventuele verdere schade te beperken en waar nodig is, deze worden bijgesteld.
@@ -97,7 +97,7 @@
     - Emote gebruiken om sneller te rennen
     - Jump exploits
 !!! bug end "Rapporteer Bugs"
-    Wanneer je een bug of exploit hebt gevonden dien je deze direct te melding in onze Support Discord server: <https://discord.gg/TpsvX56XnQ>. Omschrijf de handelingen die je hebt gedaan en lever een clip aan.
+    Wanneer je een bug of exploit hebt gevonden dien je deze direct te melding in onze Support Discord server: <https://discord.gg/TpsvX56XnQ>. Omschrijf de handelingen die je hebt gedaan en lever een clip aan. Maak je alsnog misbruik van de situatie zal dit bestraft worden.
 - Burgers die overheids porto kanalen joint, zonder dat diegene lid is van de des betreffende overheidsbaan → ==Categorie 7==
 
 ---
