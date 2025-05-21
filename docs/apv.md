@@ -257,7 +257,7 @@
 !!! warning end "Klachten & Refund tickets omtrent in de loods"
     Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan
 
-    **- Klachten & Refund aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden! Houd hier sterk rekening mee!**
+    - Klachten & Refund aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden! Houd hier sterk rekening mee!
 ---
 
 ### Artikel 17 - Refunds
