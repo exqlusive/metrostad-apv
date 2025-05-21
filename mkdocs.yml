@@ -64,9 +64,10 @@ nav:
   - Hoofdpagina: index.md
   - Algemene Plaatselijke Verordening (APV): apv.md
   - Overvallen & Regels: overvallen.md
-  - Politie Wetboek: politie_wetboek.md
+#  - Politie Wetboek: politie_wetboek.md
+#  - Ambulance Handboek: ambulance_handboek.md
   - Risico Gebieden: risico_gebieden.md
   - No Fly Zones: no_fly_zones.md
   - Belastingen: belastingen.md
-  - Voertuigen & Inhoud: voertuigen_en_inhoud.md
+#  - Voertuigen & Inhoud: voertuigen_en_inhoud.md
   - Streamen: streamen.md

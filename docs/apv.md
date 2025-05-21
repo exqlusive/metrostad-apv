@@ -224,13 +224,17 @@
     Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level. Een onderwereld coördinator bepaald de straf
 ---
 
-### Artikel 16 - Rippen
+### Artikel 16 - Rippen & Scammen
 
 - Een burger mag alleen geript worden tijdens dat deze bezig is met een illegale activiteit en- of zich op eiland bevindt
 - Een burger mag eens in de 30 minuten geript worden en met rust gelaten te worden
 - Je mag een burger niet doodschieten, nadat je burger hebt geript
 - Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)
-- Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid 
+- In een **publiekelijke loods** (waar iedereen in kan), mag je een burger eisen om de loods te verlaten
+- In een **publiekelijke loods** (waar iedereen in kan), mag je een burger doodsteken om de loods inhoud toe te eigenen tot jezelf
+- Voor de politie is het toegestaan om een publiekelijke loods in te vallen. Hiervoor is wel eerst toestemming nodig van de leiding of Bovenwereld coördinator
+- Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
+- Het is niet toegestaan om voor een volwaardige loods iemand te scammen **met uitzondering van sleutel toegang**
 !!! tip "Rippen en hierna doodschieten"
     Indien je een wapen van een burger afpakt **op eiland**, mag je deze persoon hierna **wel** doodschieten
 
@@ -241,13 +245,18 @@
     - Wapen in hand
     - Zich bevinden op eiland
 
-!!! success "Je mag afpakken:"
+!!! success end "Je mag afpakken:"
     Ongeacht of burger zich bevind op land of eiland;
 
     - Al het **zwart geld** dat burger bij heeft
     - Alle **wapen(s)** dat burger bij heeft
     - Alle **drugs** dat burger bij heeft
     - Alle **communicatie middelen** dat burger bij heeft
+
+!!! warning end "Klachten & Refund tickets omtrent in de loods"
+    Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan
+
+    **- Klachten & Refund aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden! Houd hier sterk rekening mee!**
 ---
 
 ### Artikel 17 - Refunds
