@@ -237,7 +237,7 @@
 - Het is niet toegestaan om voor een volwaardige loods iemand te scammen **met uitzondering van sleutel toegang**
 !!! tip "Rippen en hierna doden"
     - Indien je een wapen van een burger afpakt **op eiland**, mag je deze persoon hierna **wel** doodschieten
-    - Indien je een wpaen van een burger afpakt **in een publiekelijke loods**, mag je deze persoon hierna **wel** dood steken
+    - Indien je een wapen van een burger afpakt **in een publiekelijke loods**, mag je deze persoon hierna **wel** dood steken
 
 !!! info "Toegestane rip-indicatoren"
     - Gezichtsbedekking
