@@ -96,7 +96,7 @@ Een persoon die een goed / voertuig wegneemt zonder enig toestemming of recht er
 | Meerdere Veroordelingen	20 maanden | € 800 |
 
 ### Overval (Diefstal met geweld) (312 SR)
-Een persoon die een goed / voertuig wegneemt zonder enig toestemming of recht ertoe te hebben en daarbij enig geweld te hebben gebruikt. 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
+Een persoon die zonder toestemming of enig recht een goed of voertuig wegneemt en daarbij geweld gebruikt tijdens de voorbereiding, de diefstal, de overval of de vlucht.
 
 | Straf                           | Boete   |
 |:-----------------------------------|:--------|
@@ -397,6 +397,7 @@ Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt o
 - Een agent is niet verplicht tot het geven van 3 vorderingen, bij de 2e kan de agent al sanctioneren.
 - Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft,
 - Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs.
+- Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van de vispas (€ 1.000).
 
 | Straf                              | Boete |
 |:-----------------------------------|:------|
