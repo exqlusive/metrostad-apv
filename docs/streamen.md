@@ -19,3 +19,10 @@ Via onderstaande .zip-bestand krijg je toegang tot het officiële **Metro Stad-l
     - **Negatief of kwaadwillig spreken over Metro Stad** wordt niet getolereerd en kan leiden tot een sanctie uit **categorie 9** (permanente ban).
 
 .zip-bestand volgt
+
+## Promotie & Verdiensten
+- Het is toegestaan om in het [media kanaal](https://discord.com/channels/1167248974122586174/1169406497722224661) je TikTok, Twitch en- of YouTube account te sturen.
+- Per uur dat je live streamed op TikTok, Twitch of YouTube kan je een compensatie ontvangen. Deze compensatie bestaat uit in-game geld.
+
+!!! info end "Let op!"
+    Zorg ervoor dat je bewijs kan aantonen dat je hebt gelivestreamed. Pas op op sommige platformen worden videos na 30 dagen automatisch verwijderd. Maak dus direct een ticket aan in de support server.
