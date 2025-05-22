@@ -119,8 +119,11 @@
 
 - Informatie opgedaan buiten de server te gebruiken binnen de stad → ==Categorie 2==
 - Niet deafened en- of gemute zitten tijdens dat je in de stad bent → ==Categorie 2==
-!!! note
+!!! note end
     Erkende gangs dienen ten alle tijden aanwezig te zijn in hun toegewezen Discord server of in de onderwereld Discord server, wanneer zij aanwezig zijn in de stad. Als je niet actief deelneemt aan een scenario, is het toegestaan om undeafened te zitten.
+  
+!!! note end "Bovenwereld"
+    Wanneer je in dienst bent dien je in de toegewezen kanalen aanwezig te zijn
 
 ### Artikel 6 - Combat Logging
 - Uitloggen tijdens een roleplay scenario zonder terugkeer binnen 5 min → ==Categorie 4==
