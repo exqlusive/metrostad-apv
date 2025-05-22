@@ -25,4 +25,4 @@ Via onderstaande .zip-bestand krijg je toegang tot het officiële **Metro Stad-l
 - Per uur dat je live streamed op TikTok, Twitch of YouTube kan je een compensatie ontvangen. Deze compensatie bestaat uit in-game geld.
 
 !!! info end "Let op!"
-    Zorg ervoor dat je bewijs kan aantonen dat je hebt gelivestreamed. Pas op op sommige platformen worden videos na 30 dagen automatisch verwijderd. Maak dus direct een ticket aan in de support server.
+    Zorg ervoor dat je bewijs kan aantonen dat je hebt gelivestreamed. Pas op, op sommige platformen worden videos na 30 dagen automatisch verwijderd. Maak dus direct een ticket aan in de support server.
