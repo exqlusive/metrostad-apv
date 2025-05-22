@@ -232,6 +232,8 @@
 - Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)
 - In een **publiekelijke loods** (waar iedereen in kan), mag je een burger eisen om de loods te verlaten
 - In een **publiekelijke loods** (waar iedereen in kan), mag je een burger doodsteken om de loods inhoud toe te eigenen tot jezelf
+!!! danger end "Vuisten"
+    - Het neerslaan (gebruik van vuisten) is **niet** toegestaan
 - Voor de politie is het toegestaan om een publiekelijke loods in te vallen. Hiervoor is wel eerst toestemming nodig van de leiding of Bovenwereld coördinator
 - Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
 - Het is niet toegestaan om voor een volwaardige loods iemand te scammen **met uitzondering van sleutel toegang**
@@ -256,7 +258,7 @@
     - Alle **communicatie middelen** dat burger bij heeft
     - Ingrediënten om drugs te maken (legale producten) mogen niet afgepakt worden. Alleen dus het eindproduct! Items die gekocht zijn in de ondergrondse winkel mogen wel geript worden
 
-!!! warning end "Klachten & Refund tickets omtrent in de loods"
+!!! warning end "Klachten & Refund tickets omtrent publiekelijke loodsen"
     Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan
 
     **Klachten** & **Refund** aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden! Houd hier sterk rekening mee!

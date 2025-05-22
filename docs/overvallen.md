@@ -126,3 +126,15 @@ medewerkers in te zetten.
     - Overleg altijd met een onderwereld coördinator naar de mogelijkheden
     Zij kunnen altijd even zitten met de leiding van de overheid of bovenwereld coördinator om vooraf onderwerpen te bespreken om het scenario
     zo goed en leuk mogelijk uit te kunnen spelen.
+
+## Eisen & Regels
+- Overheid mag geen props plaatsen in een 20 meter radius van een overval
+- Een **normale** overheidsvoertuig heeft **1 paar spijker strippen**
+- Een **offroad** overheidsvoertuig heeft **2 paar spijker strippen**
+- Een **normale** overheidsvoertuig heeft **4 paar hekken**
+- Een **offroad** overheidsvoertuig heeft **8 paar hekken**
+- 1 eis staat gelijk aan 1 burger en 2 eisen per 1 agent
+!!! warning end
+    - Vrij doorgang + Niet schieten geldt niet als 1 eis, maar als 2 eisen
+!!! info end "Minimale Politie"
+    Er moeten minimaal +1 agent aanwezig zijn om ze te mogen hostagen. Als een overval 3 agenten nodig heeft om te starten, mag je dus de 4e agent hostage nemen.
