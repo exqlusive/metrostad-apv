@@ -144,7 +144,7 @@
 - Het gebruik maken van een andere taal dan Nederlands → ==Categorie 2+==
 
 !!! note "Minimale Straf"
-De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
+    De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
 ---
 
 ### Artikel 8 - VDM - Vehicle Deathmatch
@@ -152,7 +152,7 @@ De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afwe
 - Het opzettelijk aanrijden van burgers → ==Categorie 2+==
 
 !!! note "Minimale Straf"
-De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
+    De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
 ---
 
 ### Artikel 9 - RDM - Random Deathmatch
@@ -167,7 +167,7 @@ De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afwe
 - Hij die een Callout maakt waar als gevolg een RDM ontstaat kan hier ook voor gestraft worden.
 
 !!! note "Minimale Straf"
-De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
+    De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
 ---
 
 ### Artikel 9 - New Life Rule
@@ -176,7 +176,7 @@ De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afwe
 - Wanneer burger is teruggekomen tot leven mag je niet opnieuw deelnemen in hetzelfde scenario. Overheid heeft hier een uitzondering in. Zij mogen 10 minuten lang niet aankoppelen → ==Categorie 2+==
 
 !!! note "Minimale Straf"
-De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
+    De minimale straf bedraagd categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
 ---
 
 ### Artikel 8 - Alt Accounts
