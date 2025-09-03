@@ -339,7 +339,7 @@
 
 ### Artikel 20 - Hulpdiensten
 - Het is niet toegestaan om dienstverleners van de ambulance en Benny's te ontvoeren- en of te vermoorden → ==Categorie 3==
-- Het is burger verboden om illegale activiteiten te verrichten, wanneer burger een overheidsbaan heeft (ambulance, Benny's, politie) → ==Categorie 3==
+- Het is burger verboden om illegale activiteiten te verrichten, wanneer burger in dienst is van een overheidsbaan (ambulance, Benny's, politie). Wanneer burger niet is ingeklokt, mag burger illegale activiteiten verrichten → ==Categorie 3==
 - Nadat burger opnieuw tot leven is gekomen, mag burger gedurende 10 minuten niet aankoppelen op het scenario. Met uitzondering van ambulancepersoneel en Benny's → ==Categorie 3==
 - Tijdens in dienst te zijn, dient burger te allen tijde aanwezig te zijn. Leidinggevende kan hier een uitzondering voor maken → ==Categorie 1==
 - Het AFK (Away From Keyboard) farmen van werkuren is niet toegestaan en zal leiden tot directe ontslag uit functie → ==Categorie 3==
