@@ -1,5 +1,5 @@
 site_name: Metro Stad - APV
-site_url: https://exqlusive.github.io/metro-stad-apv/
+site_url: https://apv.metrostad.nl/
 theme:
   name: material
   use_directory_urls: false
@@ -59,7 +59,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.snippets
 copyright: |
-  &copy; 2025 Metro Stad
+  &copy; 2026 Metro Stad
 nav:
   - Hoofdpagina: index.md
   - Algemene Plaatselijke Verordening (APV): apv.md

@@ -23,8 +23,8 @@ Metro Stad heeft verschillende Discord servers met elk hun eigen doel. Hieronder
 |:--------------------|:-------------------------------------------------------------------------------------|:---------------------------------------------|
 | Algemene Discord    | Main Discord van Metro Stad                                                          | [Uitnodiging](https://discord.gg/metrostad)  |
 | Support Discord     | Voor al je vragen en opmerkingen ons support team staat voor je klaar                | [Uitnodiging](https://discord.gg/TpsvX56XnQ) |
-| Onderwereld Discord | Blijf up-to-date over onderwereld gerelateerde zaken                                 | [Uitnodiging](https://discord.gg/jJePqGKC9m) |
-| Vliegschool Discord | Altijd al willen rondvliegen in een vliegtuig en- of helikopter? Haal je vliegbrevet | [Uitnodiging](https://discord.gg/sYfAbVR32N) |
+| Onderwereld Discord | Blijf up-to-date over onderwereld gerelateerde zaken                                 | [Uitnodiging](https://discord.gg/TQ6996MzRr) |
+| Vliegschool Discord | Altijd al willen rondvliegen in een vliegtuig en- of helikopter? Haal je vliegbrevet | [Uitnodiging](https://discord.gg/BexmHeGxyN) |
 
 ## Voorwaarden
 De documentatie is een levend document en wordt regelmatig bijgewerkt. We raden je aan om regelmatig terug te komen om de nieuw toegevoegde informatie te bekijken. Tevens zullen we je mededelen in onze [Algemene Discord](https://discord.gg/metrostad) wanneer er belangrijke wijzigingen zijn.
