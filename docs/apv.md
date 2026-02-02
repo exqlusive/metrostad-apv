@@ -212,6 +212,7 @@
 ### Artikel 14 - Kleding
 
 - Het dragen van de standaard outfit → ==Categorie 1==
+- Het dragen van een combat helm is niet toegestaan → ==Categorie 1== 
 - Het dragen van overheidskleding zonder functie te dragen → ==Categorie 2==
 - Het imiteren van overheidsrol(len) → ==Categorie 2==
 - Het dragen van groeperingsoutfits zonder toestemming → ==Categorie 2==
