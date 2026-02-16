@@ -75,25 +75,41 @@ en je zit diep in de problemen. Voorbereiding, teamwork en vuurkracht zijn cruci
     - Het inzetten van een Zulu is toegestaan
     - Het inzetten van DSI is toegestaan
 
+## Juwelier
+Een overval op de juwelier draait om snelheid, precisie en lef. Je forceert razendsnel de toegang tot de vitrines en kluizen, terwijl je de beveiliging onder druk zet. Het doel is vooral juwelen, horloges en edelmetalen — waardevolle buit die je later via heling of een black market contact kunt verkopen.
+
+### Onderwereld
+!!! warning end "Wapen categorieën"
+Hoogste categorie wapens: **Volledig Automatische Geweren**
+- Maximaal aan te koppelen groeperingsleden zijn 20 inclusief de leden die in de juwelier staan
+- Groeperingsleden die zich buiten bevinden, mogen **elk soort wapen** dragen
+
+### Bovenwereld
+!!! info end "Overheidsmedewerkers"
+- Een totaal van 10 agenten mogen deelnemen aan het scenario bij de winkel
+- Een extra van 10 agenten mogen naderhand aankoppelen
+- Het inzetten van een Zulu is toegestaan
+- Het inzetten van DSI is toegestaan
+
 ## Life Invader
-Bij een overval op Lifeinvader draait alles om snelheid, technologie en vuurkracht. Je gebruikt volledig 
-automatische wapens om snel toegang af te dwingen tot kantoren of serverruimtes. Het doel is niet geld, 
+Bij een overval op Lifeinvader draait alles om snelheid, technologie en vuurkracht. Je gebruikt volledig
+automatische wapens om snel toegang af te dwingen tot kantoren of serverruimtes. Het doel is niet geld,
 maar gevoelige data, hardware of digitale toegang waarmee veel verdiend kan worden op de zwarte markt. De
-locatie is minder zwaar beveiligd dan een bank, maar vertrouwt op high-tech beveiligingssystemen. Snel in, 
+locatie is minder zwaar beveiligd dan een bank, maar vertrouwt op high-tech beveiligingssystemen. Snel in,
 snel uit is hier de sleutel.
 
 ### Onderwereld
 !!! warning end "Wapen categorieën"
-    Hoogste categorie wapens: **Volledig Automatische Geweren**
+Hoogste categorie wapens: **Volledig Automatische Geweren**
 - Maximaal aan te koppelen groeperingsleden zijn 20 inclusief de leden die in Life Invader staan
 - Groeperingsleden die zich buiten bevinden, mogen **elk soort wapen** dragen
 
 ### Bovenwereld
 !!! info end "Overheidsmedewerkers"
-    - Een totaal van 10 agenten mogen deelnemen aan het scenario bij de winkel
-    - Een extra van 10 agenten mogen naderhand aankoppelen
-    - Het inzetten van een Zulu is toegestaan
-    - Het inzetten van DSI is toegestaan
+- Een totaal van 10 agenten mogen deelnemen aan het scenario bij de winkel
+- Een extra van 10 agenten mogen naderhand aankoppelen
+- Het inzetten van een Zulu is toegestaan
+- Het inzetten van DSI is toegestaan
 
 ## Humane Labs
 Een aanval op Humane Labs is een high-risk operatie waarvoor zware wapens noodzakelijk zijn. 
