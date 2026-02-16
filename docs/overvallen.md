@@ -20,9 +20,8 @@ minder op, maar het is ook minder complex om uit te voeren.
 ### Onderwereld
 !!! warning end "Wapen categorieën" 
     Hoogste categorie wapens: **Slag & Stoot**
-
-- Maximaal aan te koppelen groeperingsleden zijn 5 inclusief de leden die in de winkel staan
-- Groeperingsleden die zich buiten bevinden, mogen **geen schietwapens** dragen. Zij dienen alleen voor afleiding te zorgen
+    - Maximaal aan te koppelen groeperingsleden zijn 5 inclusief de leden die in de winkel staan
+    - Groeperingsleden die zich buiten bevinden, mogen **geen schietwapens** dragen. Zij dienen alleen voor afleiding te zorgen
 
 ### Bovenwereld
 !!! info end "Overheidsmedewerkers"
