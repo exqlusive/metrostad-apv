@@ -42,8 +42,8 @@ respons van de politie. Efficiëntie en een goede ontsnappingsroute maken hier h
 ### Onderwereld
 !!! warning end "Wapen categorieën"
     Hoogste categorie wapens: **Pistool & SMGs**
-- Maximaal aan te koppelen groeperingsleden zijn 10 inclusief de leden die in de kleine bank staan
-- Groeperingsleden die zich buiten bevinden, mogen alleen **pistolen** en **SMG's** dragen
+    - Maximaal aan te koppelen groeperingsleden zijn 10 inclusief de leden die in de kleine bank staan
+    - Groeperingsleden die zich buiten bevinden, mogen alleen **pistolen** en **SMG's** dragen
 
 ### Bovenwereld
 !!! info end "Overheidsmedewerkers"
