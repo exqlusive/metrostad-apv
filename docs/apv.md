@@ -51,8 +51,6 @@
     1. `/me Wat doe je` is niet toegestaan. 
     2. `/me RDM` is niet toegestaan.
     3. Uitspraken zoals; `Broodje`, `Ticket`, `Refund`, `Bug`, etc. zijn niet toegestaan.
-- Wanneer burger komt te overlijden, mag deze daarna niet meer meedoen met het voorafgaande scenario → ==Categorie 2==
-- Als burger moet je altijd doen alsof je karakter wilt blijven leven (NVOL). Ook als een andere burger een wapen op je richt → ==Categorie 2==
 !!! example end "Voorbeeld"
     1. Het uit een voertuig springen
     2. Van een gebouw afspringen
@@ -62,7 +60,7 @@
 - Gebruik van "U"-spier tijdens schietpartij → ==Categorie 3==
 - Burger gijzelen- en of vastbinden zonder aanleiding → ==Categorie 3==
 - Intentioneel uitlokken van overheidsmedewerkers is niet toegestaan → ==Categorie 3==
-- Illegale locatie campen → ==Categorie 3==
+- Illegale locaties campen. Dit geldt ook voor verkoop locaties. → ==Categorie 3==
 - Als burger dien je altijd mee te werken aan een roleplay scenario- en of een `/me` command → ==Categorie 3==
 !!! example end "Overige onderdelen die vallen onder dit lid:"
     1. Liegen wanneer een wapen op je gericht staat 
@@ -75,9 +73,19 @@
     8. Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplay scenario
     9. Medewerkers van de overheid te ontvoeren om een signalering te verwijderen of om iets te bekijken in de MEOS
     10. Medewerkers van de overheid te dwingen om een (bewusteloze) burger te fouilleren, items (zoals wapens) af te nemen en te geven aan jou of een andere burger
-    11. Wanneer persoon handen omhoog heeft mag deze niet zonder geldende reden doodgeschoten te worden.
+    11. Wanneer persoon handen omhoog heeft mag deze niet zonder geldende reden doodgeschoten worden.
     12. Wanneer je handen omhoog hebt dien je ten alle tijden mee te werken. Het snel switchen naar richten is niet toegestaan (30 sec. cooldown)
 - Seksuele roleplay is verboden → ==Categorie 6==
+
+---
+
+### Artikel 1 - FailRP & Powergaming
+- Wanneer burger komt te overlijden, mag deze daarna niet meer meedoen met het voorafgaande scenario → ==Categorie 2==
+
+---
+
+### Artikel 1 - No value of life (NVOL)
+- Als burger moet je altijd doen alsof je karakter wilt blijven leven (NVOL). Ook als een andere burger een wapen op je richt → ==Categorie 2==
 
 ---
 
@@ -96,7 +104,6 @@
 - Burger die met opzet bugs- en of exploits misbruikt om een oneerlijk voordeel te krijgen → ==Categorie 7==
 !!! info end "Voorbeelden"
     - Het dragen van een onzichtbare holster
-    - Schoenen uitdoen om minder tot geen recoil te hebben
     - Emote gebruiken om sneller te rennen
     - Jump exploits
 !!! bug end "Rapporteer Bugs"
@@ -130,9 +137,12 @@
 
 ### Artikel 6 - Combat Logging
 - Uitloggen tijdens een roleplay scenario zonder terugkeer binnen 5 min → ==Categorie 4==
-- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet je; → ==Categorie 4== 
-    - appartement in; 
+- Nadat je een wapen hebt getrokken, mag je 10 minuten lang niet je; → ==Categorie 4==
+    - appartement in;
     - wapen wegleggen;
+- Nadat je een overval/rip hebt gedaan, mag je 10 minuten lang niet je; → ==Categorie 4==
+    - appartement in;
+    - spullen wegleggen;
 !!! warning end "Uitloggen tijdens dat je een wapen draagt - Vroegtijdig wegleggen"
     Mocht de tegenpartij de mogelijkheid hebben gehad om jou wapen(s) af te nemen, dan kan het zijn dat we de/het wapen(s) in beslag nemen
 
@@ -144,7 +154,7 @@
 ### Artikel 7 - Taalgebruik
 
 - Het schelden met ziektes en- of gebruik maken van racistisch opmerkingen → ==Categorie 2+==
-- Het gebruik maken van een andere taal dan Nederlands → ==Categorie 2+==
+- Het gebruik maken van een andere taal dan Nederlands/Engels → ==Categorie 2+==
 
 !!! note "Minimale Straf"
     De minimale straf bedraagt categorie 1 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
@@ -153,6 +163,7 @@
 ### Artikel 8 - VDM - Vehicle Deathmatch
 
 - Het opzettelijk aanrijden van burgers (VDM) → ==Categorie 2+==
+- Je voertuig als wapen gebruiken → ==Categorie 2+==
 
 !!! note "Minimale Straf"
     De minimale straf bedraagt categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
@@ -163,11 +174,11 @@
 - Het willekeurig vermoorden van burger(s), zonder geldige reden → ==Categorie 2+==
 
 !!! example end "Voorbeelden"
-- Hij/zij die iemands leven ontneemt zonder voorafgaande roleplay, en geen intentie tot roleplay laat zien.
-- Hij/zij die iemands leven ontneemt zonder geldige reden.
-- Het vermoorden van burgers omdat ze geen commando’s uitvoeren, denk hierbij aan bijvoorbeeld blaffen.
-- Het vermoorden van burgers op basis van verdenking zonder enige aanleiding.
-- Hij die een Callout maakt waar als gevolg een RDM ontstaat kan hier ook voor gestraft worden.
+    - Hij/zij die iemands leven ontneemt zonder voorafgaande roleplay, en geen intentie tot roleplay laat zien.
+    - Hij/zij die iemands leven ontneemt zonder geldige reden.
+    - Het vermoorden van burgers omdat ze geen commando’s uitvoeren, denk hierbij aan bijvoorbeeld blaffen.
+    - Het vermoorden van burgers op basis van verdenking zonder enige aanleiding.
+    - Hij die een Callout maakt waar als gevolg een RDM ontstaat kan hier ook voor gestraft worden.
 
 !!! note "Minimale Straf"
     De minimale straf bedraagt categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
@@ -190,11 +201,16 @@
 ---
 
 ### Artikel 12 - Voertuigen
-- Voertuigen als categorie SUV, Offroad, Commercial mogen offroad. Voertuigen met offroad banden mogen alsnog niet offroad. → ==Categorie 1==
-- GTA Style Driving is niet toegestaan.
-- Het pitten van andere voertuigen boven de 125km/u → ==Categorie 1==
-- Werkvoertuigen voor illegale activiteiten gebruiken → ==Categorie 2==
-- Voertuig gebruiken als wapen (VDM) → ==Categorie 3==
+- Voertuigen uit de categorie SUV, Offroad en Commercial mogen offroad rijden. Andere voertuigcategorieën mogen dit niet. Het hebben van offroad banden geeft geen toestemming om met andere voertuigcategorieën offroad te rijden. → ==Categorie 1==
+- GTA-style driving is niet toegestaan. Hieronder valt onder andere onrealistisch rijgedrag zoals extreme sprongen, met hoge snelheid trappen afrijden, gebouwen in rijden of andere handelingen die niet realistisch zijn binnen roleplay. → ==Categorie 1==
+- Het pitten van andere voertuigen boven de 125 km/u is niet toegestaan. → ==Categorie 1==
+- Een voertuig mag alleen gepit worden door een voertuig van gelijke of hogere gewichtsklasse. Het is dus niet toegestaan om met een lichter voertuig een zwaarder voertuig te pitten. → ==Categorie 1==
+- Motoren mogen niet gepit worden door voertuigen. → ==Categorie 1==
+- Het onnodig rammen van voertuigen zonder roleplay reden is niet toegestaan. → ==Categorie 1==
+- Het opzettelijk blokkeren of vastzetten van voertuigen zonder geldige roleplay reden (bijvoorbeeld bij garages, uitgangen of smalle wegen) is niet toegestaan. → ==Categorie 1==
+- Het misbruiken van garages, voertuigspawns of safezones om een roleplay situatie te ontlopen is niet toegestaan. → ==Categorie 2==
+- Het vluchten in een voertuig dat zwaar beschadigd is en realistisch gezien niet meer kan rijden is niet toegestaan. → ==Categorie 1==
+- Het gebruik van een voertuig als wapen (VDM) is ten strengste verboden. → ==Categorie 3==
 
 ---
 
@@ -203,7 +219,6 @@
 - Enkel voorbeelden van GTA Style driving: → ==Categorie 1==
     - Stunt jumps nemen.
     - Onrealistisch offroad rijden.
-    - Het rammen/onnodig beuken van andere voertuigen zonder reden. (VDM)
     - Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voer/vaar tuig.
 - Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130 km/h rijden. → ==Categorie 1==
 
@@ -241,30 +256,29 @@
     Een burger moet minimaal 24 uur gespeeld hebben voordat deze geript mag worden. Je kan de speeltijd van de burger inzien wanneer je `/playtime <ID>` doet
 - Burgers dwingen geld op te nemen van een pinautomaat → ==Categorie 4==
 - Huizen van burgers onder dwang betreden → ==Categorie 4==
-- Scammen van voertuigen of loodsen → ==Categorie 4==
 - Wapens en- of drugs verkopen via social media → ==Categorie 4==
 - Speler vermoorden na oplichting → ==Categorie 4==
 !!! warning "Let op"
     Het massaal boeien om burgers 1 voor 1 te beroven is niet toegestaan
 ---
-- Overvallers van een overval mogen tot 1 uur na de overval niet gecounteren worden. (Hieronder valt het rippen van de wapens & opbrengst)
-- Een overval/massagijzeling mag niet gecounterd worden tot 1 uur na de overval/massagijzeling. Hieronder valt ook het rippen van de wapens. Van diegene die de overval/massagijzeling gedaan hebben.
+- Overvallers van een overval mogen tot 15 minuten na de overval niet gecounterd worden. 15 minuten gaat in vanaf het moment dat ze wegrijden van OV. (Hieronder valt het rippen van de wapens & opbrengst).
+- Een overval/massagijzeling mag niet gecounterd worden tot 15 minuten na de overval/massagijzeling. 15 minuten gaat in vanaf het moment dat ze wegrijden van OV. Hieronder valt ook het rippen van de wapens. Van diegene die de overval/massagijzeling gedaan hebben.
 - Indien de overval gestart is en-/of de Politie aanwezig is bij de overval mag er niet door een derde partij gemengd worden. Dit geldt ook voor de achtervolging opvolgend van de overval. Outsiders mogen wel gepakt worden.
 - Indien er een gijzeling plaatsvindt en de Politie is op locatie aanwezig met het scenario mag er niet gemend worden door een derde partij. Als jij bijvoorbeeld een foto of locatie deelt over de verzamelplaats van hostages mag er wel gemengd worden, totdat bovenstaande zin in gang is gezet. Dit geldt ook voor de opvolgende achtervolging van de gijzeling.
-- Zodra bovenstaande 2 punten (lid 9/10) niet van toepassing zijn en de groep dat achtervolgt wordt door de Politie heeft binnen een tijdsbestek van 10 minuten wel op de derde partij geschoten, mag de derde partij hierbij mengen. De derde partij moet binnen deze 10 minuten zijn aangesloten bij de achtervolging.
+- Zodra bovenstaande 2 punten niet van toepassing zijn en de groep dat achtervolgt wordt door de Politie heeft binnen een tijdsbestek van 10 minuten wel op de derde partij geschoten, mag de derde partij hierbij mengen. De derde partij moet binnen deze 10 minuten zijn aangesloten bij de achtervolging.
 !!! note "Minimale Straf"
     De minimale straf bedraagt categorie 2 en kan eventueel verhoogd worden. De afweging van de straf is gebaseerd op de zwaarte van de gepleegde overtreding
 ---
 
 ### Artikel 18 - Criminele Groeperingen
 
-- Maximaal 15 leden per groepering en 5 friends
+- Maximaal 10 leden per groepering. Friends zijn op dit moment niet toegestaan.
 - Het samenwerken met andere groeperingen zonder toestemming is niet toegestaan → ==Categorie 4==
-- Nepmeldingen rond ganghuis maken om voor uitlokking te zorgen → ==Categorie 4==
-- Er mogen maximaal 2 friends aankoppelen aan uitgebreide scenarios, denk hierbij aan overvallen en dergelijken
+- Nepmeldingen/Schotenmeldingen rond ganghuis maken om voor uitlokking te zorgen → ==Categorie 4==
+- Campen bij een gang terrein is niet toegestaan, alleen wanneer er wapens en of illegale activiteiten zijn.
 
 !!! warning end "Melding verplicht"
-    Bestaat je groepering uit meer dan 8 leden? Meld dit via de [Support Discord](https://discord.gg/TpsvX56XnQ) - Je zult dan van ons
+    Wil je graag een groepering starten? Meld dit via de [Support Discord](https://discord.gg/TpsvX56XnQ) - Je zult dan van ons
     een Discord server ontvangen. Ieder lid dient vanaf dat moment te allen tijde aanwezig te zijn in een voice-kanaal, wanneer burger zich in de stad bevindt.
 
 !!! danger end "Als groep verantwoordelijk"
@@ -284,18 +298,18 @@
 
 ### Artikel 20 - Rippen & Scammen
 
-- Scammen van voertuigen of loodsen → ==Categorie 4==
+- Scammen van voertuigen of loodsen of cold storages of import documenten → ==Categorie 4==
 - Een burger mag alleen geript worden tijdens dat deze bezig is met een illegale activiteit- en of zich op eiland bevindt
-- Een burger mag eens in de 30 minuten geript worden en met rust gelaten te worden
+- Een burger mag eens in de 30 minuten geript worden en dient daarna met rust gelaten te worden
 - Je mag een burger niet doodschieten, nadat je burger hebt geript
-- Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak)
-- In een **publiekelijke loods** (waar iedereen in kan), mag je een burger eisen om de loods te verlaten
+- Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak heeft)
+- In een **publiekelijke loods** (waar iedereen in kan), mag je een burger eisen om de loods te verlaten (Hiervoor dien je wel een wapen op zak te hebben)
 - In een **publiekelijke loods** (waar iedereen in kan), mag je een burger doodsteken om de loods inhoud toe te eigenen tot jezelf
 !!! danger end "Vuisten"
     - Het neerslaan (gebruik van vuisten/Knuckle Duster) is **niet** toegestaan
 - Voor de politie is het toegestaan om een publiekelijke loods in te vallen. Hiervoor is wel eerst toestemming nodig van de leiding of Bovenwereld coördinator
 - Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
-- Het is niet toegestaan om voor een volwaardige loods iemand te scammen **met uitzondering van sleutel toegang**
+- Het is niet toegestaan om voor een volwaardige loods of cold storage garage of import document te scammen **met uitzondering van sleutel toegang**
 !!! tip end "Rippen en hierna doden"
     - Indien je een wapen van een burger afpakt **op eiland**, mag je deze persoon hierna **wel** doodschieten
     - Indien je een wapen van een burger afpakt **in een publiekelijke loods**, mag je deze persoon hierna **wel** doodsteken
@@ -307,6 +321,10 @@
     - Wapen in hand
     - Zich bevinden op eiland
     - Zich bevinden in een publiekelijke loods
+    - Kogelvrij vest
+    !!! warning end "Greenzones & Net ingespawned"
+        - Wanneer burger zich bevindt in een greenzone mag deze niet geript worden ongeacht of burger voldoet aan een rip-indicatie
+        - Wanneer burger net is ingespawned mag deze niet geript worden ongeacht of burger voldoet aan een rip-indicatie
 
 !!! success end "Je mag afpakken:"
     Ongeacht of burger zich bevind op land of eiland;
@@ -315,7 +333,9 @@
     - Alle **wapen(s)** dat burger bij heeft
     - Alle **drugs** dat burger bij heeft
     - Alle **communicatie middelen** dat burger bij heeft
-    - Ingrediënten om drugs te maken (legale producten) mogen niet afgepakt worden. Alleen dus het eindproduct! Items die gekocht zijn in de ondergrondse winkel mogen wel geript worden
+    - Ingrediënten om drugs te maken (legale producten) mogen niet afgepakt worden. Alleen dus het eindproduct!
+    - Repair kits mogen niet afgepakt worden.
+    - Als burger bezig is met witwassen, mag je al het witgeld ook afpakken
     !!! success end "Aanvulling Eiland:"
         - Op eiland mag je de gehele inventory innemen. Ook witgeld dus.
 !!! warning end "Klachten & Refund tickets omtrent publiekelijke loodsen"
@@ -325,7 +345,7 @@
 
 - Wanneer burger eisen stelt aan een andere burger dient burger maximaal in de tweede praatcirkel te zijn
 - Wanneer je burger eisen stelt moet je diegene fysiek aankijken en gericht zijn over je wapen, wanneer je dus weg kijkt, is burger toegestaan om weg te lopen/actie te ondernemen
-- Wanneer je burger waarschuwt om af te koppelen, mag je na 1x waarschuwingen actie ondernemen. Ga hier wel altijd eerst voor banden/benen. Ook dien je een clip te hebben vanaf de eerste waarschuwing voor eventueel bewijs.
+- Wanneer je een burger waarschuwt om af te koppelen, moet deze minimaal 2 keer gewaarschuwd zijn. Tussen de eerste waarschuwing en het openen van vuur moet minimaal 1 minuut zitten. Ga altijd eerst voor banden of benen en zorg dat je een clip hebt vanaf de eerste waarschuwing als bewijs.
 - Wanneer je burger aanspreekt, dient dit met respect gedaan te worden. Toxic opmerkingen worden bestraft met minimaal → ==Categorie 2==
 - Wanneer je burger dood en je een opmerking maakt, dient dit met respect gedaan te worden. Dit geldt ook voor videos. Toxic opmerkingen worden bestraft met minimaal → ==Categorie 2==
 
@@ -357,9 +377,10 @@
 - Gebruikt burger een stemvervormer, dan mag je de burger niet herkennen → ==Categorie 2==
 - Gebruikt burger een masker, dan mag je burger niet herkennen → ==Categorie 2==
 
-### Artikel 23 - Discord & Streamen
+### Artikel 23 - Discord & Streamen & Social Media
 - Wanneer je met meerdere mensen in een voicecall zit, is het niet toegestaan om te streamen → ==Categorie 3==
 - Wanneer je op een livestream van iemand meekijkt, is het niet toegestaan om opgedane kennis te gebruiken in de stad → ==Categorie 2==
+- Informatie die je hebt opgedaan buiten de roleplay is niet toegestaan om te gebruiken in de stad → ==Categorie 2==
 
 ### Artikel 24 - Hulpdiensten
 - Het is niet toegestaan om dienstverleners van de ambulance en Benny's te ontvoeren- en of te vermoorden → ==Categorie 3==
