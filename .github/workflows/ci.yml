@@ -50,9 +50,5 @@ jobs:
       - name: Build site
         run: mkdocs build --clean
 
-      - name: Add custom domain (CNAME)
-        run: |
-          echo "apv.metrostad.nl" > site/CNAME
-
       - name: Deploy to GitHub Pages (gh-pages)
         run: mkdocs gh-deploy --force --clean
