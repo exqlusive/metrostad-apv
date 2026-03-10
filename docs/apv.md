@@ -13,25 +13,25 @@ De APV is nu opgesplitst in kortere secties, zodat je sneller per onderwerp kunt
 ## APV-secties
 
 <div class="link-grid">
-  <a class="link-card link-card--featured" href="apv/spelkwaliteit-en-scenarios.md">
+  <a class="link-card link-card--featured" href="/apv/spelkwaliteit-en-scenarios/">
     <span class="link-card__kicker">Artikelen 1-10</span>
     <h3 class="link-card__title">Spelkwaliteit &amp; Scenario's</h3>
     <p class="link-card__copy">FailRP, NVOL, cheats, metagaming, combat logging, taalgebruik, VDM, RDM en New Life Rule.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="apv/accounts-voertuigen-platform.md">
+  <a class="link-card" href="/apv/accounts-voertuigen-platform/">
     <span class="link-card__kicker">Artikelen 11-16</span>
     <h3 class="link-card__title">Accounts, Voertuigen &amp; Platform</h3>
     <p class="link-card__copy">Alt accounts, voertuigen, GTA-style driving, kleding, reports en in-game social media.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="apv/criminaliteit-en-groeperingen.md">
+  <a class="link-card" href="/apv/criminaliteit-en-groeperingen/">
     <span class="link-card__kicker">Artikelen 17-20</span>
     <h3 class="link-card__title">Criminaliteit &amp; Groeperingen</h3>
     <p class="link-card__copy">Oplichting, overvallen, groeperingen, officiele organisaties en rippen/scammen.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="apv/refunds-en-speciale-situaties.md">
+  <a class="link-card" href="/apv/refunds-en-speciale-situaties/">
     <span class="link-card__kicker">Artikelen 21-26</span>
     <h3 class="link-card__title">Refunds &amp; Speciale Situaties</h3>
     <p class="link-card__copy">Refunds, herkenning, streamen, hulpdiensten, luchtvaart en green zones.</p>

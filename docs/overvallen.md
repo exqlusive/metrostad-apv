@@ -13,19 +13,19 @@ De overvalregels zijn opgesplitst in compacte secties. Zo kun je eerst het juist
 ## Scenario-secties
 
 <div class="link-grid">
-  <a class="link-card link-card--featured" href="overvallen/basisovervallen.md">
+  <a class="link-card link-card--featured" href="/overvallen/basisovervallen/">
     <span class="link-card__kicker">Lichte inzet</span>
     <h3 class="link-card__title">Basisovervallen</h3>
     <p class="link-card__copy">Winkelovervallen en kleine banken met lichtere bewapening en kleinere teams.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="overvallen/zware-scenarios.md">
+  <a class="link-card" href="/overvallen/zware-scenarios/">
     <span class="link-card__kicker">High-risk</span>
     <h3 class="link-card__title">Zware Scenarios</h3>
     <p class="link-card__copy">Grote bank, juwelier, Life Invader en Humane Labs met opgeschaalde inzet.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="overvallen/maatwerk-en-eisen.md">
+  <a class="link-card" href="/overvallen/maatwerk-en-eisen/">
     <span class="link-card__kicker">Maatwerk</span>
     <h3 class="link-card__title">Maatwerk &amp; Eisen</h3>
     <p class="link-card__copy">Maatwerkscenarios, props, spijkerstrips, hekken en hostage-eisen.</p>

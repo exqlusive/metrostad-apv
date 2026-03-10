@@ -18,4 +18,4 @@ Het doel van deze maatregel is om de **veiligheid in het gebied te waarborgen**,
 !!! info "Actuele kaart"
     De meest actuele visuele kaart van risicogebieden staat op de officiele website van Metro Stad. Gebruik de documentatie voor de regels en de website voor de live kaartweergave.
 
-[Bekijk de kaart op www.metrostad.nl](https://www.metrostad.nl/){ .md-button .md-button--primary }
+[Bekijk de kaart op www.metrostad.nl](https://www.metrostad.nl/?utm_source=apv_website&utm_medium=cta&utm_campaign=external_clicks&utm_id=apv){ .md-button .md-button--primary }

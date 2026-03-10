@@ -18,7 +18,7 @@ tags:
 Van APV en overvallen tot kaarten, belastingen en privacy: deze documentatie bundelt regels, procedures en uitzonderingen op een plek die snel scanbaar is op desktop en mobiel.
 
 <div class="landing-actions" markdown>
-[Bezoek www.metrostad.nl](https://www.metrostad.nl/){ .md-button }
+[Bezoek www.metrostad.nl](https://www.metrostad.nl/?utm_source=apv_website&utm_medium=cta&utm_campaign=external_clicks&utm_id=apv){ .md-button }
 [Open de APV](apv.md){ .md-button .md-button--primary }
 [Zoek op onderwerpen](tags.md){ .md-button }
 [Ga naar Discord](https://discord.gg/metrostad){ .md-button }
@@ -46,7 +46,7 @@ Van APV en overvallen tot kaarten, belastingen en privacy: deze documentatie bun
   <h2>www.metrostad.nl is het startpunt buiten de docs</h2>
   <p>Gebruik de website voor nieuws, community-informatie, platformupdates en alles wat niet puur documentatie is. De docs zijn er voor regels en procedures; de website is het publieke gezicht van Metro Stad.</p>
   <div class="site-spotlight__actions">
-    <a class="md-button md-button--primary" href="https://www.metrostad.nl/">Bezoek de website</a>
+    <a class="md-button md-button--primary" href="https://www.metrostad.nl/?utm_source=apv_website&utm_medium=cta&utm_campaign=external_clicks&utm_id=apv">Bezoek de website</a>
     <a class="md-button" href="https://discord.gg/metrostad">Ga naar Discord</a>
   </div>
 </div>
@@ -54,37 +54,37 @@ Van APV en overvallen tot kaarten, belastingen en privacy: deze documentatie bun
 ## Snelle routes
 
 <div class="link-grid">
-  <a class="link-card link-card--featured" href="apv.md">
+  <a class="link-card link-card--featured" href="/apv/">
     <span class="link-card__kicker">Regels</span>
     <h3 class="link-card__title">APV</h3>
     <p class="link-card__copy">Algemene gedragsregels, sancties en uitzonderingen voor iedereen in Metro Stad.</p>
     <span class="link-card__cta">Open APV</span>
   </a>
-  <a class="link-card" href="overvallen.md">
+  <a class="link-card" href="/overvallen/">
     <span class="link-card__kicker">Scenario's</span>
     <h3 class="link-card__title">Overvallen &amp; Scenarios</h3>
     <p class="link-card__copy">Regels voor winkels, banken, juwelier, Life Invader, Humane Labs en maatwerkscenarios.</p>
     <span class="link-card__cta">Bekijk overvallen</span>
   </a>
-  <a class="link-card" href="politie_wetboek.md">
+  <a class="link-card" href="/politie_wetboek/">
     <span class="link-card__kicker">Overheid</span>
     <h3 class="link-card__title">Politie Wetboek</h3>
     <p class="link-card__copy">Strafbare feiten, boetes, celstraffen en toelichtingen voor overheid en handhaving.</p>
     <span class="link-card__cta">Open wetboek</span>
   </a>
-  <a class="link-card" href="ambulance_handboek.md">
+  <a class="link-card" href="/ambulance_handboek/">
     <span class="link-card__kicker">Zorg</span>
     <h3 class="link-card__title">Ambulance Handboek</h3>
     <p class="link-card__copy">Procedures, meldingen, portofoondiscipline en operationele werkwijzen voor ambulance.</p>
     <span class="link-card__cta">Open handboek</span>
   </a>
-  <a class="link-card" href="risico_gebieden.md">
+  <a class="link-card" href="/risico_gebieden/">
     <span class="link-card__kicker">Kaarten</span>
     <h3 class="link-card__title">Kaarten &amp; Zones</h3>
     <p class="link-card__copy">Risicogebieden, douanegebieden en no-fly zones op een centrale plek.</p>
     <span class="link-card__cta">Open kaarten</span>
   </a>
-  <a class="link-card" href="belastingen.md">
+  <a class="link-card" href="/belastingen/">
     <span class="link-card__kicker">Platform</span>
     <h3 class="link-card__title">Belastingen</h3>
     <p class="link-card__copy">Voertuigenbelasting, huizenbelasting en uitleg over de onderliggende regels.</p>
@@ -95,25 +95,25 @@ Van APV en overvallen tot kaarten, belastingen en privacy: deze documentatie bun
 ## Direct aan de slag
 
 <div class="link-grid">
-  <a class="link-card link-card--featured" href="apv.md">
+  <a class="link-card link-card--featured" href="/apv/">
     <span class="link-card__kicker">Startpunt</span>
     <h3 class="link-card__title">Nieuw in Metro Stad</h3>
     <p class="link-card__copy">Begin met de APV en bekijk daarna de algemene platformregels zoals streamen en privacy.</p>
     <span class="link-card__cta">Start hier</span>
   </a>
-  <a class="link-card" href="overvallen.md">
+  <a class="link-card" href="/overvallen/">
     <span class="link-card__kicker">Onderwereld</span>
     <h3 class="link-card__title">Onderwereldscenario</h3>
     <p class="link-card__copy">Controleer altijd de overvalregels, risicogebieden en uitzonderingen voordat je begint.</p>
     <span class="link-card__cta">Ga naar criminaliteit</span>
   </a>
-  <a class="link-card" href="politie_wetboek.md">
+  <a class="link-card" href="/politie_wetboek/">
     <span class="link-card__kicker">Handhaving</span>
     <h3 class="link-card__title">Overheidsdienst</h3>
     <p class="link-card__copy">Gebruik het wetboek voor handhaving en het ambulancehandboek voor operationele procedures.</p>
     <span class="link-card__cta">Bekijk overheidsdocumenten</span>
   </a>
-  <a class="link-card" href="tags.md">
+  <a class="link-card" href="/tags/">
     <span class="link-card__kicker">Filteren</span>
     <h3 class="link-card__title">Zoek per onderwerp</h3>
     <p class="link-card__copy">Gebruik tags om sneller te filteren op regels, kaarten, economie, community of privacy.</p>

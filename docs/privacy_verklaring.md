@@ -13,19 +13,19 @@ Deze privacyverklaring is opgesplitst in korte secties, zodat je sneller kunt zi
 ## Privacy-secties
 
 <div class="link-grid">
-  <a class="link-card link-card--featured" href="privacy/gegevens-en-doeleinden.md">
+  <a class="link-card link-card--featured" href="/privacy/gegevens-en-doeleinden/">
     <span class="link-card__kicker">Verwerking</span>
     <h3 class="link-card__title">Gegevens &amp; Doeleinden</h3>
     <p class="link-card__copy">Welke persoonsgegevens wij verwerken per kanaal, waarom wij dat doen en op welke grondslag.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="privacy/delen-en-bewaartermijnen.md">
+  <a class="link-card" href="/privacy/delen-en-bewaartermijnen/">
     <span class="link-card__kicker">Doorgifte</span>
     <h3 class="link-card__title">Delen &amp; Bewaartermijnen</h3>
     <p class="link-card__copy">Met wie gegevens gedeeld kunnen worden, hoe lang wij bewaren en welke waarborgen gelden.</p>
     <span class="link-card__cta">Open sectie</span>
   </a>
-  <a class="link-card" href="privacy/rechten-en-klachten.md">
+  <a class="link-card" href="/privacy/rechten-en-klachten/">
     <span class="link-card__kicker">Rechten</span>
     <h3 class="link-card__title">Uw Rechten &amp; Klachten</h3>
     <p class="link-card__copy">Inzage, verwijdering, bezwaar, klachten en hoe je contact met ons opneemt.</p>
