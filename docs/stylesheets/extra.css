@@ -109,14 +109,53 @@ pre {
   background: linear-gradient(120deg, rgba(16, 31, 51, 0.92), rgba(13, 27, 42, 0.82));
 }
 
+[data-md-color-scheme="slate"] .md-header__title,
+[data-md-color-scheme="slate"] .md-header__button,
+[data-md-color-scheme="slate"] .md-tabs__link,
+[data-md-color-scheme="slate"] .md-nav__title,
+[data-md-color-scheme="slate"] .md-nav__link,
+[data-md-color-scheme="slate"] .md-nav__button,
+[data-md-color-scheme="slate"] .md-nav__source,
+[data-md-color-scheme="slate"] .md-nav__icon {
+  color: rgba(244, 247, 251, 0.86);
+}
+
+[data-md-color-scheme="slate"] .md-tabs__link:is(:hover, :focus),
+[data-md-color-scheme="slate"] .md-tabs__link--active,
+[data-md-color-scheme="slate"] .md-nav__link:is(:hover, :focus),
+[data-md-color-scheme="slate"] .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-header__title:hover {
+  color: #ffffff;
+}
+
 .md-banner {
   background: linear-gradient(120deg, #f4a261, #ffcb8f);
   color: #08111b;
 }
 
+.md-banner,
+.md-banner__inner,
+.md-banner__inner a {
+  color: #08111b;
+}
+
 .md-banner a {
   color: inherit;
+  display: inline-block;
   font-weight: 700;
+}
+
+.md-banner strong {
+  color: #08111b;
+  font-weight: 800;
+}
+
+[data-md-color-scheme="slate"] .md-banner,
+[data-md-color-scheme="slate"] .md-banner__inner,
+[data-md-color-scheme="slate"] .md-banner__inner a,
+[data-md-color-scheme="slate"] .md-banner strong {
+  color: #08111b;
 }
 
 .md-typeset a {

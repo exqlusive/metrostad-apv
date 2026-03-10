@@ -45,9 +45,9 @@ Van APV en overvallen tot kaarten, belastingen en privacy: deze documentatie bun
   <span class="site-spotlight__kicker">Officiele website</span>
   <h2>www.metrostad.nl is het startpunt buiten de docs</h2>
   <p>Gebruik de website voor nieuws, community-informatie, platformupdates en alles wat niet puur documentatie is. De docs zijn er voor regels en procedures; de website is het publieke gezicht van Metro Stad.</p>
-  <div class="site-spotlight__actions" markdown>
-  [Bezoek de website](https://www.metrostad.nl/){ .md-button .md-button--primary }
-  [Ga naar Discord](https://discord.gg/metrostad){ .md-button }
+  <div class="site-spotlight__actions">
+    <a class="md-button md-button--primary" href="https://www.metrostad.nl/">Bezoek de website</a>
+    <a class="md-button" href="https://discord.gg/metrostad">Ga naar Discord</a>
   </div>
 </div>
 
