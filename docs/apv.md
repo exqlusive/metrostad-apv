@@ -70,6 +70,15 @@ De APV is nu opgesplitst in kortere secties, zodat je sneller per onderwerp kunt
     !!! tip "Tip"
         Zorg er altijd voor dat je tijdens of nadat een scenario heeft plaatsgevonden je het beeldmateriaal vastlegd. Dit geldt voor de winnende en verliezende partij, kan je niet voldoen aan een clip dan zal automatisch de ticket aanmaker in zijn gelijk gesteld worden.
 
+## Artikeloverzicht
+
+| Reeks | Onderwerp | Artikelen |
+|:--|:--|:--|
+| 1-10 | Spelkwaliteit & Scenario's | FailRP, cheats, metagaming, VDM, RDM en NLR |
+| 11-16 | Accounts, Voertuigen & Platform | Alt accounts, voertuigen, kleding, reports en socials |
+| 17-20 | Criminaliteit & Groeperingen | Oplichting, overvallen, organisaties en rippen |
+| 21-26 | Refunds & Speciale Situaties | Refunds, herkenning, streamen, hulpdiensten, luchtvaart en green zones |
+
 ## Gebruik per onderwerp
 
 !!! note "Aanpak"

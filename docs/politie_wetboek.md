@@ -53,3 +53,15 @@ Het wetboek is opgesplitst per rechtsgebied, zodat je sneller naar het juiste ho
 
 !!! note "Gebruik"
     Open eerst het juiste rechtsgebied. Dat voorkomt dubbel zoeken en maakt het wetboek sneller scanbaar op mobiel.
+
+## Artikeloverzicht
+
+| Reeks | Onderwerp | Artikelen |
+|:--|:--|:--|
+| Algemeen | Algemene bepalingen en procesregels | Ongenummerde basisbepalingen |
+| I | Vermogensdelicten | I-1 t/m I-4 |
+| II | Geweldsdelicten | II-1 t/m II-9 |
+| III | Verkeersdelicten | III-1 t/m III-7 |
+| IV | Opiumwet | IV-1 t/m IV-2 |
+| V | Wet Wapens en Munitie | V-1 t/m V-4 |
+| VI | Overige feiten | VI-1 t/m VI-7 |

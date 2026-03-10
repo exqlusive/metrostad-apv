@@ -15,7 +15,7 @@ Het doel van deze maatregel is om de **veiligheid in het gebied te waarborgen**,
 !!! warning "Informatie"
     **Let op:** zodra je een risicogebied binnenloopt, stem je impliciet in met mogelijke controles. Wees dus bewust van waar je bent – en wat de regels daar zijn.
 
-<figure markdown="span">
-  ![Image title](https://metrostad.nl/images/risico_gebieden.png){ loading=lazy }
-  <figcaption>Risico Gebieden</figcaption>
-</figure>
+!!! info "Actuele kaart"
+    De meest actuele visuele kaart van risicogebieden staat op de officiele website van Metro Stad. Gebruik de documentatie voor de regels en de website voor de live kaartweergave.
+
+[Bekijk de kaart op www.metrostad.nl](https://www.metrostad.nl/){ .md-button .md-button--primary }

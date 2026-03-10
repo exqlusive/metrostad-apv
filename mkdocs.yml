@@ -107,7 +107,7 @@ markdown_extensions:
   - pymdownx.tilde
 extra:
   generator: false
-  homepage: https://metrostad.nl/
+  homepage: https://www.metrostad.nl/
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/metrostad
@@ -116,7 +116,7 @@ extra:
       link: https://github.com/exqlusive/metrostad-apv
       name: GitHub repository
     - icon: material/web
-      link: https://metrostad.nl/
+      link: https://www.metrostad.nl/
       name: Metro Stad Website
   tags:
     Algemeen: algemeen
