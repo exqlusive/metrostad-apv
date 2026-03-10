@@ -146,7 +146,11 @@ nav:
           - Accounts, Voertuigen & Platform: apv/accounts-voertuigen-platform.md
           - Criminaliteit & Groeperingen: apv/criminaliteit-en-groeperingen.md
           - Refunds & Speciale Situaties: apv/refunds-en-speciale-situaties.md
-      - Overvallen & Scenarios: overvallen.md
+      - Overvallen & Scenarios:
+          - Overzicht: overvallen.md
+          - Basisovervallen: overvallen/basisovervallen.md
+          - Zware Scenarios: overvallen/zware-scenarios.md
+          - Maatwerk & Eisen: overvallen/maatwerk-en-eisen.md
       - Politie Wetboek:
           - Overzicht: politie_wetboek.md
           - Algemene Bepalingen: politie_wetboek/algemene-bepalingen.md
@@ -172,5 +176,9 @@ nav:
   - Platform:
       - Belastingen: belastingen.md
       - Streamen: streamen.md
-      - Privacyverklaring: privacy_verklaring.md
+      - Privacyverklaring:
+          - Overzicht: privacy_verklaring.md
+          - Gegevens & Doeleinden: privacy/gegevens-en-doeleinden.md
+          - Delen & Bewaartermijnen: privacy/delen-en-bewaartermijnen.md
+          - Uw Rechten & Klachten: privacy/rechten-en-klachten.md
       - Onderwerpen & Tags: tags.md

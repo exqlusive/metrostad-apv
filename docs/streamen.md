@@ -8,29 +8,51 @@ tags:
 
 # Streamen
 
-Het is toegestaan om jouw gameplay live te streamen op social media. Ben je een Twitch Affiliate of heb je minimaal  
-500 abonnees op YouTube of TikTok? Dan kom je in aanmerking voor een speciale **Stream Rol** op onze Discord.  
-Maak hiervoor een ticket aan en voeg een link toe naar jouw kanaal.
+Metro Stad moedigt creators aan om te streamen, zolang de uitzending herkenbaar, veilig en volgens de communityregels verloopt.
 
-Wanneer je livestreamt, is het verplicht om de naam **Metro Stad** duidelijk in de titel van je stream te vermelden.  
-Zo zorgen we samen voor herkenbaarheid en zichtbaarheid van onze stad binnen de community.
+<div class="grid cards" markdown>
 
-Via onderstaande .zip-bestand krijg je toegang tot het officiële **Metro Stad-logo** en een handig **overlaypakket** voor jouw livestreams.
+-   :material-badge-account-horizontal: __Stream Rol__
+    ---
+    Twitch Affiliate of minimaal **500 abonnees** op YouTube of TikTok? Maak een ticket aan en voeg een link naar je kanaal toe.
+
+-   :material-format-title: __Titelvermelding__
+    ---
+    Vermeld **Metro Stad** duidelijk in de titel van je stream voor herkenbaarheid binnen de community.
+
+-   :material-image-multiple-outline: __Branding pakket__
+    ---
+    Het officiele Metro Stad-logo en overlaypakket zijn bedoeld om streams direct herkenbaar te maken.
+
+</div>
+
+## Checklist voor livegang
+
+- [ ] Vermeld **Metro Stad** duidelijk in de streamtitel
+- [ ] Controleer wat er zichtbaar of hoorbaar in beeld komt
+- [ ] Zorg dat iedereen op de stream de APV naleeft
+- [ ] Bewaar bewijs van je livestream voor eventuele compensatie
+
+## Veiligheid & communityregels
 
 !!! warning "Streamsniping"
-    Houd er te allen tijde rekening mee dat kwaadwillenden misbruik kunnen maken van jouw livestream, bijvoorbeeld door
-    informatie eruit te gebruiken voor eigen gewin. Hoewel dit streng verboden is, weten we uit ervaring dat het 
-    helaas toch kan gebeuren. Blijf daarom altijd alert op wat je in beeld brengt.
+    Kwaadwillenden kunnen informatie uit een livestream misbruiken. Streamsniping is verboden, maar dat neemt het risico niet weg. Blijf daarom kritisch op wat je laat zien.
 
-!!! info "Regels"
-    - De **APV-regels** zijn ook tijdens het streamen van kracht en moeten te allen tijde worden nageleefd. Dit geldt niet alleen voor jou als streamer, maar ook voor iedereen die hoorbaar of zichtbaar deelneemt aan de stream. Je draagt dus mede verantwoordelijkheid voor wat er gezegd en gedaan wordt tijdens jouw uitzending.
-    - **Negatief of kwaadwillig spreken over Metro Stad** wordt niet getolereerd en kan leiden tot een sanctie uit **categorie 9** (permanente ban).
+!!! info "Tijdens het streamen"
+    - De **APV-regels** blijven volledig van kracht voor jou en voor iedereen die hoorbaar of zichtbaar deelneemt aan de stream.
+    - **Negatief of kwaadwillig spreken over Metro Stad** wordt niet getolereerd en kan leiden tot een sanctie uit **categorie 9**.
 
-.zip-bestand volgt
+## Promotie & verdiensten
 
-## Promotie & Verdiensten
-- Het is toegestaan om in het [media kanaal](https://discord.com/channels/1167248974122586174/1169406497722224661) je TikTok, Twitch en- of YouTube account te sturen.
-- Per uur dat je live streamed op TikTok, Twitch of YouTube kan je een compensatie ontvangen. Deze compensatie bestaat uit in-game geld.
+| Onderwerp | Regeling |
+|:--|:--|
+| Promotie | Je mag je TikTok-, Twitch- of YouTube-account delen in het [media kanaal](https://discord.com/channels/1167248974122586174/1169406497722224661) |
+| Compensatie | Per uur livestreamen op TikTok, Twitch of YouTube kun je in aanmerking komen voor een vergoeding in in-game geld |
+| Bewijs | Zorg dat je kunt aantonen dat je live bent geweest, bijvoorbeeld met een VOD of opname |
 
-!!! info "Let op!"
-    Zorg ervoor dat je bewijs kan aantonen dat je hebt gelivestreamed. Pas op, op sommige platformen worden videos na 30 dagen automatisch verwijderd. Maak dus direct een ticket aan in de support server.
+!!! note "Bewaar je bewijs"
+    Sommige platformen verwijderen videos na 30 dagen. Maak daarom direct een ticket aan in de support server als je aanspraak wilt maken op compensatie.
+
+## Downloadpakket
+
+Het `.zip`-bestand met het officiele Metro Stad-logo en overlaypakket volgt.

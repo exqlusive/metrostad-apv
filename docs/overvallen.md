@@ -6,157 +6,62 @@ tags:
   - Criminaliteit
 ---
 
-# Overvallen plegen & Regels
-Hieronder een overzicht van mogelijke overvallen die gepleegd kunnen worden in Metro Stad. Het plegen van overvallen
-zal niet zonder risicos zijn. Wees hier dan ook goed op voorbereid. 
+# Overvallen & Scenarios
 
-!!! info "Algemene Informatie"
-    - **Alle APV regels** zullen hieronder ook van toepassing zijn. Deze dienen dus ook ten alle tijden nagestreefd te worden.
-    - Zowel voor bovenwereld en onderwereld dienen scenarios zo realistisch mogelijk nagebootst te zijn. Bedenk jezelf of dit in het
-    echt ook zal zijn.
-    - Wanneer de overheid aanwezig is bij een overval, mag er door andere groeperingen niet meer gecounterd worden. Met uitzondering van
-    de groeperinsleden die zich buiten bevinden. Daarvoor blijft wel de APV gelden met betrekking tot rippen: zie [APV - Criminaliteit & Groeperingen](apv/criminaliteit-en-groeperingen.md#artikel-20-rippen-scammen)
+De overvalregels zijn opgesplitst in compacte secties. Zo kun je eerst het juiste scenario kiezen en daarna direct de relevante inzetregels openen.
 
+## Scenario-secties
 
-## Winkels
-Een winkeltje overvallen is een snelle, maar risicovolle manier om wat geld buit te maken. 
-Dit soort overvallen gebeuren meestal met slag- of stootwapens, zoals knuppels of breekijzers, 
-omdat vuurwapens te veel aandacht trekken. De buit is hierdoor beperkt — je plundert hooguit de 
-kassa en wat waardevolle spullen. In vergelijking met een kleine bankoverval levert het dus beduidend
-minder op, maar het is ook minder complex om uit te voeren.
+<div class="grid cards" markdown>
 
-### Onderwereld
-!!! warning "Wapen categorieën" 
-    Hoogste categorie wapens: **Slag & Stoot**
-    - Maximaal aan te koppelen groeperingsleden zijn 5 inclusief de leden die in de winkel staan
-    - Groeperingsleden die zich buiten bevinden, mogen **geen schietwapens** dragen. Zij dienen alleen voor afleiding te zorgen
+-   :material-store: __Basisovervallen__
+    ---
+    Winkelovervallen en kleine banken met lichtere bewapening en kleinere teams.
+    [Open sectie](overvallen/basisovervallen.md)
 
-### Bovenwereld
-!!! info "Overheidsmedewerkers"
-    - Een totaal van 4 agenten mogen deelnemen aan het scenario bij de winkel
-    - Een extra van 4 agenten mogen naderhand aankoppelen
+-   :material-bank: __Zware Scenarios__
+    ---
+    Grote bank, juwelier, Life Invader en Humane Labs met opgeschaalde inzet.
+    [Open sectie](overvallen/zware-scenarios.md)
 
-!!! danger "Wie mogen er niet aankoppelen"
-    - Het inzetten van een Zulu is niet toegestaan
-    - Het inzetten van DSI is niet toegestaan
+-   :material-clipboard-check-outline: __Maatwerk & Eisen__
+    ---
+    Maatwerkscenarios, props, spijkerstrips, hekken en hostage-eisen.
+    [Open sectie](overvallen/maatwerk-en-eisen.md)
 
-## Kleine Banken
-Het overvallen van een kleine bank is een stap boven een winkeloverval, maar blijft relatief
-bescheiden qua risico en beloning. Enkel pistolen zijn toegestaan, wat betekent dat je tactisch 
-moet handelen en de situatie snel onder controle moet krijgen. De buit bestaat meestal uit kassalades,
-kluizen met beperkte inhoud of geldpakketten. De beveiliging is licht, maar verwacht wel een snelle 
-respons van de politie. Efficiëntie en een goede ontsnappingsroute maken hier het verschil.
+</div>
 
-### Onderwereld
-!!! warning "Wapen categorieën"
-    Hoogste categorie wapens: **Pistool & SMGs**
-    - Maximaal aan te koppelen groeperingsleden zijn 10 inclusief de leden die in de kleine bank staan
-    - Groeperingsleden die zich buiten bevinden, mogen alleen **pistolen** en **SMG's** dragen
+## Algemene spelregels
 
-### Bovenwereld
-!!! info "Overheidsmedewerkers"
-    - Een totaal van 4 agenten mogen deelnemen aan het scenario bij de kleine bank
-    - Een extra van 8 agenten mogen naderhand aankoppelen
-    - Het inzetten van een Zulu is toegestaan
+!!! info "Altijd van kracht"
+    - Alle [APV-regels](apv.md) blijven tijdens overvallen volledig van kracht.
+    - Zowel bovenwereld als onderwereld speelt scenarios zo realistisch mogelijk uit.
+    - Zodra de overheid actief aanwezig is bij een overval, mogen andere groeperingen niet meer counteren.
+    - Alleen groeperingsleden die al buiten staan vallen nog onder de rip-regels uit de [APV - Criminaliteit & Groeperingen](apv/criminaliteit-en-groeperingen.md#artikel-20-rippen-scammen).
 
-!!! danger "Wie mogen er niet aankoppelen"
-    - Het inzetten van DSI is niet toegestaan
+## Snelle matrix
 
-## Grote Bank
-Een overval op een grote bank is een serieuze operatie waarvoor je team zwaarbewapend moet zijn met
-volledig automatische wapens. Je staat tegenover stevige kluizen, gewapende beveiliging en een directe,
-grootschalige politie-inzet zodra het alarm afgaat. De buit kan oplopen tot enkele tonnen aan contant geld
-of waardevolle goederen — aanzienlijk meer dan bij kleinere overvallen, maar zeker geen miljoenen. Eén fout 
-en je zit diep in de problemen. Voorbereiding, teamwork en vuurkracht zijn cruciaal om hier levend en succesvol uit te komen.
+| Scenario | Hoogste wapen categorie | Max. groeperingsleden | Startende overheid | Extra aankoppeling | Zulu | DSI |
+|:--|:--|--:|--:|--:|:--:|:--:|
+| Winkel | Slag & stoot | 5 | 4 | 4 | Nee | Nee |
+| Kleine bank | Pistool & SMG's | 10 | 4 | 8 | Ja | Nee |
+| Grote bank | Volledig automatische geweren | 15 | 10 | 10 | Ja | Ja |
+| Juwelier | Volledig automatische geweren | 20 | 10 | 10 | Ja | Ja |
+| Life Invader | Volledig automatische geweren | 20 | 10 | 10 | Ja | Ja |
+| Humane Labs | Volledig automatische geweren | 20 | 20 | 10 | Ja | Ja |
 
-### Onderwereld
-!!! warning "Wapen categorieën"
-    Hoogste categorie wapens: **Volledig Automatische Geweren**
-    - Maximaal aan te koppelen groeperingsleden zijn 15 inclusief de leden die in de grote bank staan
-    - Groeperingsleden die zich buiten bevinden, mogen **elk soort wapen** dragen
+## Snelle routes
 
-### Bovenwereld
-!!! info "Overheidsmedewerkers"
-    - Een totaal van 10 agenten mogen deelnemen aan het scenario bij de winkel
-    - Een extra van 10 agenten mogen naderhand aankoppelen
-    - Het inzetten van een Zulu is toegestaan
-    - Het inzetten van DSI is toegestaan
+!!! note "Wat zoek je?"
+    - Zoek je een snelle straatroof met beperkte escalatie? Open [Basisovervallen](overvallen/basisovervallen.md).
+    - Zoek je regels voor grote banken of high-risk locaties? Open [Zware Scenarios](overvallen/zware-scenarios.md).
+    - Zoek je regels rond props, eisen of maatwerkscenarios? Open [Maatwerk & Eisen](overvallen/maatwerk-en-eisen.md).
 
-## Juwelier
-Een overval op de juwelier draait om snelheid, precisie en lef. Je forceert razendsnel de toegang tot de vitrines en kluizen, terwijl je de beveiliging onder druk zet. Het doel is vooral juwelen, horloges en edelmetalen — waardevolle buit die je later via heling of een black market contact kunt verkopen.
+## Kernprincipes
 
-### Onderwereld
-!!! warning "Wapen categorieën"
-    Hoogste categorie wapens: **Volledig Automatische Geweren**
-    - Maximaal aan te koppelen groeperingsleden zijn 20 inclusief de leden die in de juwelier staan
-    - Groeperingsleden die zich buiten bevinden, mogen **elk soort wapen** dragen
-
-### Bovenwereld
-!!! info "Overheidsmedewerkers"
-    - Een totaal van 10 agenten mogen deelnemen aan het scenario bij de winkel
-    - Een extra van 10 agenten mogen naderhand aankoppelen
-    - Het inzetten van een Zulu is toegestaan
-    - Het inzetten van DSI is toegestaan
-
-## Life Invader
-Bij een overval op Lifeinvader draait alles om snelheid, technologie en vuurkracht. Je gebruikt volledig
-automatische wapens om snel toegang af te dwingen tot kantoren of serverruimtes. Het doel is niet geld,
-maar gevoelige data, hardware of digitale toegang waarmee veel verdiend kan worden op de zwarte markt. De
-locatie is minder zwaar beveiligd dan een bank, maar vertrouwt op high-tech beveiligingssystemen. Snel in,
-snel uit is hier de sleutel.
-
-### Onderwereld
-!!! warning "Wapen categorieën"
-    Hoogste categorie wapens: **Volledig Automatische Geweren**
-    - Maximaal aan te koppelen groeperingsleden zijn 20 inclusief de leden die in Life Invader staan
-    - Groeperingsleden die zich buiten bevinden, mogen **elk soort wapen** dragen
-
-### Bovenwereld
-!!! info "Overheidsmedewerkers"
-    - Een totaal van 10 agenten mogen deelnemen aan het scenario bij de winkel
-    - Een extra van 10 agenten mogen naderhand aankoppelen
-    - Het inzetten van een Zulu is toegestaan
-    - Het inzetten van DSI is toegestaan
-
-## Humane Labs
-Een aanval op Humane Labs is een high-risk operatie waarvoor zware wapens noodzakelijk zijn. 
-Alleen volledig automatische wapens zijn toegestaan om je een weg te banen door de zwaar beveiligde faciliteit. 
-Het doel varieert van chemische stoffen tot high-tech prototypes. Binnen hangen camera’s, bewakers patrouilleren 
-continu, en de kans op militaire interventie is reëel. Dit is geen simpele overval — het is een militaire operatie
-met een crimineel doel.
-
-### Onderwereld
-!!! warning "Wapen categorieën"
-    Hoogste categorie wapens: **Volledig Automatische Geweren**
-    - Maximaal aan te koppelen groeperingsleden zijn 20 inclusief de leden die in Humane Labs staan
-    - Groeperingsleden die zich buiten bevinden, mogen **elk soort wapen** dragen
-
-### Bovenwereld
-!!! info "Overheidsmedewerkers"
-    - Een totaal van 20 agenten mogen deelnemen aan het scenario bij de winkel
-    - Een extra van 10 agenten mogen naderhand aankoppelen
-    - Het inzetten van een Zulu is toegestaan
-    - Het inzetten van DSI is toegestaan
-
-## Overige Scenarios
-Het is toegestaan om maatwerk scenarios te bedenken en uitvoeren. Heb je bepaalde materialen nodig, die niet zomaar
-te vinden zijn in Metro Stad, overleg dan met een onderwereld coördinator over de eventuele mogelijkheden.
-
-Het aantal aan te koppelen overheidsmedewerkers zullen door de leiding worden besloten. Zij dienen na propertie het aantal
-medewerkers in te zetten.
-!!! tip "Tip"
-    - Overleg altijd met een onderwereld coördinator naar de mogelijkheden
-    Zij kunnen altijd even zitten met de leiding van de overheid of bovenwereld coördinator om vooraf onderwerpen te bespreken om het scenario
-    zo goed en leuk mogelijk uit te kunnen spelen.
-
-## Eisen & Regels
-- Overheid mag geen props plaatsen in een 20 meter radius van een overval
-- Een **normale** overheidsvoertuig heeft **1 paar spijker strippen**
-- Een **offroad** overheidsvoertuig heeft **2 paar spijker strippen**
-- Een **normale** overheidsvoertuig heeft **4 paar hekken**
-- Een **offroad** overheidsvoertuig heeft **8 paar hekken**
-- 1 eis staat gelijk aan 1 burger en 2 eisen per 1 agent
-!!! warning
-    - Vrij doorgang + Niet schieten geldt niet als 1 eis, maar als 2 eisen
-!!! info "Minimale Politie"
-    Er moeten minimaal +1 agent aanwezig zijn om ze te mogen hostagen. Als een overval 3 agenten nodig heeft om te starten, mag je dus de 4e agent hostage nemen.
+| Onderwerp | Kernpunt |
+|:--|:--|
+| Voorbereiding | Zorg voor een duidelijk plan, vluchtweg en rolverdeling voordat je start. |
+| Escalatie | Bewapening en aantallen moeten passen bij het gekozen scenario. |
+| Counterplay | Onrealistische counters en late derde partijen horen niet thuis in een zuiver scenario. |
+| Onderhandeling | Eisen, hostages en doorgangen moeten helder en controleerbaar uitgespeeld worden. |
