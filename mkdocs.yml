@@ -1,74 +1,151 @@
-site_name: Metro Stad - APV
+site_name: Metro Stad Docs
+site_description: Officiele documentatie voor Metro Stad met regels, procedures en kaarten.
 site_url: https://apv.metrostad.nl/
+repo_url: https://github.com/exqlusive/metrostad-apv
+repo_name: exqlusive/metrostad-apv
+edit_uri: edit/main/docs/
 theme:
   name: material
-  use_directory_urls: false
-  font:
-    text: Rubik
+  custom_dir: overrides
+  language: nl
   logo: assets/main_inverted.png
   favicon: assets/main_inverted.png
+  font: false
+  icon:
+    repo: fontawesome/brands/github
+    tag:
+      algemeen: material/home-outline
+      regels: material/gavel
+      overheid: material/shield-account
+      criminaliteit: material/bank
+      kaart: material/map-marker-radius
+      economie: material/cash-multiple
+      community: material/account-group
+      privacy: material/lock-outline
+      streaming: material/video-outline
+      in-ontwikkeling: material/hammer-wrench
   features:
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.tracking
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.footnote.tooltips
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
     - navigation.expand
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
     - toc.follow
     - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-    - content.tooltips
-    - pymdownx.critic
-  language: nl
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Verander naar donkere modus
-      primary: deep purple
-      accent: blue
-    - scheme: slate
+        icon: material/weather-night
+        name: Schakel naar donkere modus
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
       toggle:
-        icon: material/toggle-switch
-        name: Verander naar lichte modus
-      primary: deep purple
-      accent: blue
+        icon: material/weather-sunny
+        name: Schakel naar lichte modus
+plugins:
+  - search:
+      lang: nl
+      separator: '[\s\-]+'
+  - social:
+      enabled: !ENV [CI, false]
+      cards_layout_options:
+        font_family: Ubuntu
+  - tags
+  - privacy:
+      enabled: !ENV [CI, false]
+  - optimize:
+      enabled: !ENV [MKDOCS_OPTIMIZE, false]
 markdown_extensions:
+  - abbr
+  - admonition
   - attr_list
-  - tables
+  - def_list
+  - footnotes
   - md_in_html
+  - tables
+  - pymdownx.blocks.caption
   - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - def_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - abbr
-  - attr_list
-  - pymdownx.snippets
+  - pymdownx.tilde
+extra:
+  generator: false
+  homepage: https://metrostad.nl/
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/metrostad
+      name: Metro Stad Discord
+    - icon: fontawesome/brands/github
+      link: https://github.com/exqlusive/metrostad-apv
+      name: GitHub repository
+    - icon: material/web
+      link: https://metrostad.nl/
+      name: Metro Stad Website
+  tags:
+    Algemeen: algemeen
+    Regels: regels
+    Overheid: overheid
+    Criminaliteit: criminaliteit
+    Kaart: kaart
+    Economie: economie
+    Community: community
+    Privacy: privacy
+    Streaming: streaming
+    In ontwikkeling: in-ontwikkeling
+extra_css:
+  - stylesheets/extra.css
 copyright: |
   &copy; 2026 Metro Stad
 nav:
-  - Hoofdpagina: index.md
-  - Algemene Plaatselijke Verordening (APV): apv.md
-  - Overvallen & Regels: overvallen.md
-  - Politie Wetboek: politie_wetboek.md
-#  - Ambulance Handboek: ambulance_handboek.md
-  - Risico Gebieden: risico_gebieden.md
-  - No Fly Zones: no_fly_zones.md
-  - Belastingen: belastingen.md
-#  - Voertuigen & Inhoud: voertuigen_en_inhoud.md
-  - Streamen: streamen.md
-  - Privacyverklaring: privacy_verklaring.md
+  - Start: index.md
+  - Regels:
+      - Algemene Plaatselijke Verordening (APV): apv.md
+      - Overvallen & Scenarios: overvallen.md
+      - Politie Wetboek: politie_wetboek.md
+      - Ambulance Handboek: ambulance_handboek.md
+  - Kaarten:
+      - Risico Gebieden: risico_gebieden.md
+      - Douane Gebieden: douane_gebieden.md
+      - No Fly Zones: no_fly_zones.md
+  - Platform:
+      - Belastingen: belastingen.md
+      - Streamen: streamen.md
+      - Privacyverklaring: privacy_verklaring.md
+      - Onderwerpen & Tags: tags.md

@@ -1,3 +1,11 @@
+---
+title: Algemene Plaatselijke Verordening (APV)
+icon: material/gavel
+tags:
+  - Regels
+  - Community
+---
+
 # Algemene Plaatselijke Verordening (APV)
 
 ## Strafcategorieën
@@ -42,16 +50,16 @@
 - Burger die praat of `/me` gebruikt terwijl burger dood is. (Met uitzondering van RP met ambulance, dan is het toegestaan om `/me` te gebruiken) → ==Categorie 1==
 - Burger die opzettelijk een roleplay scenario vormt dat er een oneerlijke- of onrealistische draai aan het verhaal geef. Of de roleplay van de andere partij invult door onrealistische dwang → ==Categorie 1==
 - Burger mag niet meerdere `/me` commandos in 1 `/me` bericht hebben
-!!! example end "Voorbeeld"
+!!! example "Voorbeeld"
     1. `/me doet gordel af en haald uit auto`
     2. `/me doet blinddoek en gordel af`
     3. `/me pakt communicatie middelen af en doet in auto` 
 - Als burger blijf je altijd in karakter, ook wanneer je `/me` gebruikt → ==Categorie 1==
-!!! example end "Voorbeeld"
+!!! example "Voorbeeld"
     1. `/me Wat doe je` is niet toegestaan. 
     2. `/me RDM` is niet toegestaan.
     3. Uitspraken zoals; `Broodje`, `Ticket`, `Refund`, `Bug`, etc. zijn niet toegestaan.
-!!! example end "Voorbeeld"
+!!! example "Voorbeeld"
     1. Het uit een voertuig springen
     2. Van een gebouw afspringen
 - Vluchten in afgesloten gebouwen → ==Categorie 2==
@@ -62,7 +70,7 @@
 - Intentioneel uitlokken van overheidsmedewerkers is niet toegestaan → ==Categorie 3==
 - Illegale locaties campen. Dit geldt ook voor verkoop locaties. → ==Categorie 3==
 - Als burger dien je altijd mee te werken aan een roleplay scenario- en of een `/me` command → ==Categorie 3==
-!!! example end "Overige onderdelen die vallen onder dit lid:"
+!!! example "Overige onderdelen die vallen onder dit lid:"
     1. Liegen wanneer een wapen op je gericht staat 
     2. Het doorgeven van een onjuiste porto frequentie
     3. Tijdens een achtervolging je voertuig wegzetten in een garage
@@ -92,21 +100,21 @@
 ### Artikel 2 - Cheats, Hacks en Glitches
 
 - Burger die gebruik maakt van software en- of hulpmiddelen van derede partijen om een oneerlijk voordeel te krijgen → ==Categorie 9==
-!!! warning end "Aanvullende Informatie"
+!!! warning "Aanvullende Informatie"
     - Het gebruik maken van Better Discord
     - Het gebruik maken van de serverlijst om te kijken wie er online is
     - Het gebruik maken van de Discord ledenlijst om te kijken wie er online is
     - Het gebruik maken van Combat Packs, om bijvoorbeeld minder bosjes en dergelijken te zien
     - Het gebruik maken van een (Build in monitor)-crosshair
     - Eventuele zelfgemaakte tracking software waarbij je weet wie er online is
-!!! info end "Uitzonderingen"
+!!! info "Uitzonderingen"
     Ontvangen beelden over burgers die valsspelen dat niet heeft plaatsgevonden in Metro Stad zullen genegeerd worden.
 - Burger die met opzet bugs- en of exploits misbruikt om een oneerlijk voordeel te krijgen → ==Categorie 7==
-!!! info end "Voorbeelden"
+!!! info "Voorbeelden"
     - Het dragen van een onzichtbare holster
     - Emote gebruiken om sneller te rennen
     - Jump exploits
-!!! bug end "Rapporteer Bugs"
+!!! bug "Rapporteer Bugs"
     Wanneer je een bug of exploit hebt gevonden dien je deze direct te melding in onze [Support Discord server](https://discord.gg/TpsvX56XnQ). Omschrijf de handelingen die je hebt gedaan en lever een clip aan. Maak je alsnog misbruik van de situatie zal dit bestraft worden.
 - Burgers die overheidsporto kanalen joint, zonder dat diegene lid is van de desbetreffende overheidsbaan → ==Categorie 7==
 
@@ -129,10 +137,10 @@
 
 - Informatie opgedaan buiten de server te gebruiken binnen de stad → ==Categorie 2==
 - Niet deafened- en of gemute zitten tijdens dat je in de stad bent → ==Categorie 2==
-!!! note end
+!!! note
     Erkende gangs dienen te allen tijde aanwezig te zijn in hun toegewezen Discord server of in de onderwereld Discord server, wanneer zij aanwezig zijn in de stad. Als je niet actief deelneemt aan een scenario, is het toegestaan om undeafened te zitten.
   
-!!! note end "Bovenwereld"
+!!! note "Bovenwereld"
     Wanneer je in dienst bent dien je in de toegewezen kanalen aanwezig te zijn
 
 ### Artikel 6 - Combat Logging
@@ -143,7 +151,7 @@
 - Nadat je een overval/rip hebt gedaan, mag je 10 minuten lang niet je; → ==Categorie 4==
     - appartement in;
     - spullen wegleggen;
-!!! warning end "Uitloggen tijdens dat je een wapen draagt - Vroegtijdig wegleggen"
+!!! warning "Uitloggen tijdens dat je een wapen draagt - Vroegtijdig wegleggen"
     Mocht de tegenpartij de mogelijkheid hebben gehad om jou wapen(s) af te nemen, dan kan het zijn dat we de/het wapen(s) in beslag nemen
 
 !!! tip "Uitzonderingen"
@@ -173,7 +181,7 @@
 
 - Het willekeurig vermoorden van burger(s), zonder geldige reden → ==Categorie 2+==
 
-!!! example end "Voorbeelden"
+!!! example "Voorbeelden"
     - Hij/zij die iemands leven ontneemt zonder voorafgaande roleplay, en geen intentie tot roleplay laat zien.
     - Hij/zij die iemands leven ontneemt zonder geldige reden.
     - Het vermoorden van burgers omdat ze geen commando’s uitvoeren, denk hierbij aan bijvoorbeeld blaffen.
@@ -252,7 +260,7 @@
 ### Artikel 17 - Oplichting & Overvallen
 
 - Het oplichten van nieuwe burgers → ==Categorie 4==
-!!! tip end "Speeltijd"
+!!! tip "Speeltijd"
     Een burger moet minimaal 24 uur gespeeld hebben voordat deze geript mag worden. Je kan de speeltijd van de burger inzien wanneer je `/playtime <ID>` doet
 - Burgers dwingen geld op te nemen van een pinautomaat → ==Categorie 4==
 - Huizen van burgers onder dwang betreden → ==Categorie 4==
@@ -277,22 +285,22 @@
 - Nepmeldingen/Schotenmeldingen rond ganghuis maken om voor uitlokking te zorgen → ==Categorie 4==
 - Campen bij een gang terrein is niet toegestaan, alleen wanneer er wapens en of illegale activiteiten zijn.
 
-!!! warning end "Melding verplicht"
+!!! warning "Melding verplicht"
     Wil je graag een groepering starten? Meld dit via de [Support Discord](https://discord.gg/TpsvX56XnQ) - Je zult dan van ons
     een Discord server ontvangen. Ieder lid dient vanaf dat moment te allen tijde aanwezig te zijn in een voice-kanaal, wanneer burger zich in de stad bevindt.
 
-!!! danger end "Als groep verantwoordelijk"
+!!! danger "Als groep verantwoordelijk"
     Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level. Een onderwereld coördinator bepaald de straf
 ---
 
 ### Artikel 19 - Officiële Organisaties
 
 - Het samenwerken met andere burgers buiten je groepering- en of andere groeperingen is niet toegestaan → ==Categorie 4==
-!!! info end "Hoe krijg ik een "Officiële organisatie""
+!!! info "Hoe krijg ik een officiele organisatie?"
     Metro Stad werkt met een level systeem. Wij zullen groeperingen in de gaten houden hoe zij zich gedragen in de stad. Het kan voorkomen
     dat we bepaalde opdrachten geven, zodat de groepering een level omhoog kan gaan. Voordelen die je ontgrendeld kan je vinden in onze [Onderwereld Server](https://discord.gg/TQ6996MzRr)
 
-!!! danger end "Als groep verantwoordelijk"
+!!! danger "Als groep verantwoordelijk"
     Bij het overtreden van bovenstaande regels ben je als groepering verantwoordelijk. Dit kan dus ten koste komen van een verdiend level. Een onderwereld coördinator bepaald de straf
 ---
 
@@ -305,16 +313,16 @@
 - Je mag een burger niet zomaar doodschieten als burger niet een bedreiging vormt (oftewel geen wapen op zak heeft)
 - In een **publiekelijke loods** (waar iedereen in kan), mag je een burger eisen om de loods te verlaten (Hiervoor dien je wel een wapen op zak te hebben)
 - In een **publiekelijke loods** (waar iedereen in kan), mag je een burger doodsteken om de loods inhoud toe te eigenen tot jezelf
-!!! danger end "Vuisten"
+!!! danger "Vuisten"
     - Het neerslaan (gebruik van vuisten/Knuckle Duster) is **niet** toegestaan
 - Voor de politie is het toegestaan om een publiekelijke loods in te vallen. Hiervoor is wel eerst toestemming nodig van de leiding of Bovenwereld coördinator
 - Tijdens het rippen van een burger moet je hier video-bewijs van aan kunnen leveren inclusief je eigen microfoon geluid
 - Het is niet toegestaan om voor een volwaardige loods of cold storage garage of import document te scammen **met uitzondering van sleutel toegang**
-!!! tip end "Rippen en hierna doden"
+!!! tip "Rippen en hierna doden"
     - Indien je een wapen van een burger afpakt **op eiland**, mag je deze persoon hierna **wel** doodschieten
     - Indien je een wapen van een burger afpakt **in een publiekelijke loods**, mag je deze persoon hierna **wel** doodsteken
 
-!!! info end "Toegestane rip-indicatoren"
+!!! info "Toegestane rip-indicatoren"
     - Gezichtsbedekking (Een reguliere helm geldt niet. Alleen wanneer dit gehele gezicht bedekt bijv. een zwarte helm + vizier dat gehele gezicht blokkeert)
     - Holster
     - Illegale gesprekken
@@ -322,11 +330,11 @@
     - Zich bevinden op eiland
     - Zich bevinden in een publiekelijke loods
     - Kogelvrij vest
-    !!! warning end "Greenzones & Net ingespawned"
+    !!! warning "Greenzones & Net ingespawned"
         - Wanneer burger zich bevindt in een greenzone mag deze niet geript worden ongeacht of burger voldoet aan een rip-indicatie
         - Wanneer burger net is ingespawned mag deze niet geript worden ongeacht of burger voldoet aan een rip-indicatie
 
-!!! success end "Je mag afpakken:"
+!!! success "Je mag afpakken:"
     Ongeacht of burger zich bevind op land of eiland;
 
     - Al het **zwart geld** dat burger bij heeft
@@ -336,9 +344,9 @@
     - Ingrediënten om drugs te maken (legale producten) mogen niet afgepakt worden. Alleen dus het eindproduct!
     - Repair kits mogen niet afgepakt worden.
     - Als burger bezig is met witwassen, mag je al het witgeld ook afpakken
-    !!! success end "Aanvulling Eiland:"
+    !!! success "Aanvulling Eiland:"
         - Op eiland mag je de gehele inventory innemen. Ook witgeld dus.
-!!! warning end "Klachten & Refund tickets omtrent publiekelijke loodsen"
+!!! warning "Klachten & Refund tickets omtrent publiekelijke loodsen"
     Publiekelijke loodsen betreden is geheel op eigen risico. Ga hier dus slim mee om! Bijvoorbeeld; laat iemand buiten scouten, zodat je veilig te werk kan gaan
 
     **Klachten** & **Refund** aanvragen na een ripactie in de publiekelijke loodsen zullen dus ook niet behandeld worden! Houd hier sterk rekening mee!
@@ -349,7 +357,7 @@
 - Wanneer je burger aanspreekt, dient dit met respect gedaan te worden. Toxic opmerkingen worden bestraft met minimaal → ==Categorie 2==
 - Wanneer je burger dood en je een opmerking maakt, dient dit met respect gedaan te worden. Dit geldt ook voor videos. Toxic opmerkingen worden bestraft met minimaal → ==Categorie 2==
 
-!!!example "Enkele Voorbeelden"
+!!! example "Enkele Voorbeelden"
     - Lekker voor je
     - NPC je kan niet schieten
     
@@ -360,14 +368,14 @@
 ### Artikel 21 - Refunds
 - Een refund dient binnen 2 weken aangevraagd te zijn. Hierna zal deze komen te vervallen
 - Betreft refund om een recent scenario, dan dient de refund aanvraag binnen 3 dagen aangemaakt te zijn
-!!! info end "Voorwaarden"
+!!! info "Voorwaarden"
     - De waarde omtrent de refund dient minimaal te bestaan uit €10.000
     - Je dient te allen tijde video bewijs aan te kunnen aanleveren inclusief geluid en je microfoon
     - Het video bewijs dient vanuit jouw perspectief te zijn opgenomen
     
     Voldoe je niet aan bovenstaande regels, dan word je ticket niet behandeld, tenzij je expliciet toestemming hebt gekregen
 
-!!! note end "Ongeldige verklaard"
+!!! note "Ongeldige verklaard"
     - Wanneer de refund betreft om een gegeven item of voertuig aan een verbannen persoon, dan is het niet mogelijk een refund te ontvangen
     - Wanneer je video materiaal korter is dan 2 minuten, zal deze niet worden goedgekeurd
     - Wanneer je doodgaat door een verkeersongeluk, dan is het aan het ambulancepersoneel om te kijken of je eventueel geholpen kan worden
@@ -390,21 +398,21 @@
 - Het AFK (Away From Keyboard) farmen van werkuren is niet toegestaan en zal leiden tot directe ontslag uit functie → ==Categorie 3==
 - Dienstverzuim; het nalaten van je werkzaamheden terwijl je officieel in dienst bent, bijvoorbeeld door doelloos rond te rijden of andere activiteiten te ondernemen die niets met je functie als politieagent, ambulancepersoneel of andere overheidsrol te maken hebben → ==Categorie 3==
 
-!!! info end "Ontslag op staande voet"
+!!! info "Ontslag op staande voet"
     Het niet naleven van bovenstaande regels kan leiden tot ontslag op staande voet. Dit zal bepaald worden door de bovenwereld coördinator en- of je leidinggevende
 
 ### Artikel 25 - Helikopters & Vliegtuigen
 - Minimale hoogte voor helikopter is **330 meter** en voor vliegtuigen **330 meter** → ==Categorie 1==
 - Het is burger alleen toegestaan om te landen op helipads- en op erkende locaties → ==Categorie 1==
 - Wanneer burger niet in bezit is van een geldig vliegbrevet is het niet toegestaan om te vliegen → ==Categorie 1==
-!!! info end "Vliegbrevet Waarschuwing"
+!!! info "Vliegbrevet Waarschuwing"
     - Het overtreden van bovenstaande regel(s) kan leiden tot een waarschuwing op je vliegbrevet
     - Herhaaldelijke overtredingen kunnen resulteren in het innemen van het brevet
 
 ### Artikel 26 - Green Zones
 - Het gebied rondom 10001 (Benny's) is een **Greenzone**. Er mogen hier geen hostages gepakt worden- en geschoten worden. → ==Categorie 2==
 - Situaties die zich creëren binnen Benny's dienen alsnog buiten Benny's af te spelen. → ==Categorie 2==
-!!! info end "Uitzonderingen"
+!!! info "Uitzonderingen"
     - Persoon vlucht na een achtervolging naar Benny's.
 
 *[Categorie 1]: Een waarschuwing + 50 taken

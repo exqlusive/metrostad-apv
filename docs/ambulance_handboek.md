@@ -1,3 +1,11 @@
+---
+title: Ambulance Handboek
+icon: material/ambulance
+tags:
+  - Overheid
+  - Regels
+---
+
 # Ambulance Handboek
 
 ## Inleiding
@@ -112,7 +120,7 @@ Effectieve communicatie is cruciaal binnen de hulpverlening. De portofoon is het
 - Gebruik de juiste **kanaalindeling** (bijv. Hulpdienstenkanaal, Interne Dispatch, Incidentkanaal).
 - Noem altijd eerst je **eigen roepnaam**, gevolgd door de ontvanger.
 - Vermijd overbodige communicatie; houd het zakelijk en informatief.
-!!!example end "Voorbeeld"
+!!! example "Voorbeeld"
     Ambulance 1, status 2 op Spoedmelding bij het gemeentehuis.
 
 ### 3.2 Roepnamen en identificatie
@@ -160,7 +168,7 @@ Een correct gebruik van statuscodes is essentieel voor de meldkamer en de coörd
 - Standaardisatie van rapportage binnen Metro Stad.
 
 ### 4.2 Toepassing in de praktijk
-!!!example end "Voorbeeldscenario"
+!!! example "Voorbeeldscenario"
     - **Ambulance 1** wordt gealarmeerd.
     - Personeel meldt:
 

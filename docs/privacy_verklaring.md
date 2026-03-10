@@ -1,3 +1,11 @@
+---
+title: Privacyverklaring
+icon: material/lock-outline
+tags:
+  - Privacy
+  - Community
+---
+
 # Privacyverklaring
 
 ## Inleiding
@@ -26,7 +34,7 @@ Deze verwerking vindt plaats op basis van het gerechtvaardigde belang van Metro 
 
 Daarnaast vindt de verwerking plaats als wij daartoe verplicht zijn op de grond van andere wettelijke of statutaire verplichtingen (bijvoorbeeld vanwege bewaarplichten en documentatieverplichtingen onder de belasting- en handelsrecht). De wettelijke grondslag hiervoor is artikel 6, lid 1, zin 1, onder c), AVG
 
-!!!info end "Voorbeeld"
+!!! info "Voorbeeld"
     Bij het inloggen op het dashboard wordt uw e-mailadres opgeslagen
 
 ### Bezoek van onze Discord server
@@ -38,7 +46,7 @@ Deze verwerking vindt plaats op basis van het gerechtvaardigde belang van Metro 
 
 Daarnaast vindt de verwerking plaats als wij daartoe verplicht zijn op de grond van andere wettelijke of statutaire verplichtingen (bijvoorbeeld vanwege bewaarplichten en documentatieverplichtingen onder de belasting- en handelsrecht). De wettelijke grondslag hiervoor is artikel 6, lid 1, zin 1, onder c), AVG
 
-!!!info end "Voorbeeld"
+!!! info "Voorbeeld"
     Bij het schrijven van een bericht worden uw identifier en bericht opgeslagen
 
 ### Bezoek van onze game server
@@ -48,7 +56,7 @@ Door het gebruik maken van onze game server worden gegevens over u verwerkt. Dit
 #### Wettelijke grondslag
 Deze verwerking vindt plaats op basis van het gerechtvaardigde belang van Metro Stad om een veilige omgeving te behouden. De wettelijke grondslag voor deze verwerking is artikel 6, lid 1, zin 1, onder f), AVG
 
-!!!info end "IP-adressen"
+!!! info "IP-adressen"
     Uw IP-adres wordt alleen vastgelegd indien er een verbanning plaatsvindt. Indien u geen verbanning meer heeft, word uw IP-adres geanonimiseerd binnen 24 uur. 
 
 #### Toegang en doorgifte van gegevens
@@ -101,7 +109,7 @@ U kunt ons verzoeken om uw persoonsgegevens te verwijderen, bijvoorbeeld in de v
 - U trekt uw toestemming in en er is geen andere rechtsgrond voor verwerking.
 - U maakt bezwaar tegen verwerking en er zijn geen dwingende gerechtvaardigde gronden voor verdere verwerking.
 
-!!!warning end "Let op"
+!!! warning "Let op"
     **Let op**: in sommige gevallen kunnen wij niet aan uw verzoek voldoen, bijvoorbeeld wanneer wij wettelijk verplicht zijn om gegevens te bewaren (zoals de fiscale bewaarplicht van 7 jaar).
 
 ### Recht op beperking van verwerking
@@ -147,7 +155,7 @@ Op de website vindt u onder andere:
 - Uitleg over hoe de Autoriteit Persoonsgegevens uw klacht zal behandelen.
 - Algemene informatie over uw rechten onder de AVG.
 
-!!!success end ""
+!!! success "Klacht of contact"
     Hoewel u altijd het recht heeft om een klacht in te dienen bij de Autoriteit Persoonsgegevens, adviseren wij u om eerst contact op te nemen met onze support afdeling via privacy@metrostad.nl. Wij nemen uw klacht serieus en streven ernaar om samen tot een passende oplossing te komen.
 
 ## Wijzigingen in deze privacybeleid

@@ -1,3 +1,11 @@
+---
+title: Streamen
+icon: material/video-outline
+tags:
+  - Streaming
+  - Community
+---
+
 # Streamen
 
 Het is toegestaan om jouw gameplay live te streamen op social media. Ben je een Twitch Affiliate of heb je minimaal  
@@ -9,7 +17,7 @@ Zo zorgen we samen voor herkenbaarheid en zichtbaarheid van onze stad binnen de 
 
 Via onderstaande .zip-bestand krijg je toegang tot het officiële **Metro Stad-logo** en een handig **overlaypakket** voor jouw livestreams.
 
-!!! warning end "Streamsniping"
+!!! warning "Streamsniping"
     Houd er te allen tijde rekening mee dat kwaadwillenden misbruik kunnen maken van jouw livestream, bijvoorbeeld door
     informatie eruit te gebruiken voor eigen gewin. Hoewel dit streng verboden is, weten we uit ervaring dat het 
     helaas toch kan gebeuren. Blijf daarom altijd alert op wat je in beeld brengt.
@@ -24,5 +32,5 @@ Via onderstaande .zip-bestand krijg je toegang tot het officiële **Metro Stad-l
 - Het is toegestaan om in het [media kanaal](https://discord.com/channels/1167248974122586174/1169406497722224661) je TikTok, Twitch en- of YouTube account te sturen.
 - Per uur dat je live streamed op TikTok, Twitch of YouTube kan je een compensatie ontvangen. Deze compensatie bestaat uit in-game geld.
 
-!!! info end "Let op!"
+!!! info "Let op!"
     Zorg ervoor dat je bewijs kan aantonen dat je hebt gelivestreamed. Pas op, op sommige platformen worden videos na 30 dagen automatisch verwijderd. Maak dus direct een ticket aan in de support server.

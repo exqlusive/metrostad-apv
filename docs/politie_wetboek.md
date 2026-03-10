@@ -1,3 +1,11 @@
+---
+title: Politie Wetboek
+icon: material/police-badge
+tags:
+  - Regels
+  - Overheid
+---
+
 # Metro Stad Wetboek
 
 ## Algemene Bepalingen
@@ -28,7 +36,7 @@ De straffen die gegeven kunnen worden staan hieronder vermeld:
 - Taakstraffen
 - Celstraffen
 
-!!! info end "Aanvulling"
+!!! info "Aanvulling"
     - Straffen kunnen gecombineerd worden
     - Straffen kunnen nooit hoger uitvallen dan de aangegeven waarden
     - Bij medeplichtigheid wordt de totale straf gehalveerd
@@ -53,7 +61,7 @@ De straffen die gegeven kunnen worden staan hieronder vermeld:
 - Een in beslag genomen voertuig kan maximaal 3 dagen worden vastgehouden voor onderzoek.
 - Een in beslag genomen voertuig kan kosteloos worden teruggegeven indien aan is getoond dat het goed niet betrokken is bij een strafbaar feit.
 
-!!! warning end "Redenen voor inbeslagname zijn:"
+!!! warning "Redenen voor inbeslagname zijn:"
     - Plegen van een strafbaar feit.
     - Plegen van een misdrijf.
     - Negeren van het stopteken.
@@ -61,7 +69,7 @@ De straffen die gegeven kunnen worden staan hieronder vermeld:
     - Snelheidsovertreding van meer dan 100%.
     - Een voertuig besturen met daarop een WOK-status.
 
-!!! info end "Alle bovenstaande leden gelden ook voor helikopters, vliegtuigen en boten."
+!!! info "Alle bovenstaande leden gelden ook voor helikopters, vliegtuigen en boten."
 
 ### Boetes
 - Wanneer er bij controle / aanhouding wordt geconstateerd dat er een totaalbedrag van boven de € 10.000,- aan boetes openstaan kan een persoon hiervoor worden aangehouden en gedwongen worden te betalen tot het totaalbedrag onder de € 10.000,- komt.
@@ -112,7 +120,7 @@ Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt o
 | Tweede Veroordeling 30 maanden | € 1000 |
 | Meerdere Veroordelingen 60 maanden | € 1500 |
 
-!!!info end "Witwas Inname Regels"
+!!! info "Witwas Inname Regels"
     - Wanneer persoon bezig is met kloppen, geldt dit als illegale activiteit en dus mag je het "zwart geld" zien als vorm van witwassen
     - Wanneer persoon meer dan **€10.000** en niet kan verklaren waar het geld vandaan komt. Mag je het "zwart geld" zien als vorm van witwassen
 
@@ -260,7 +268,7 @@ Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt o
     - Parkeren op een plaats dat bestemd is voor dienstvoertuigen
     - Parkeren langs weg met doorgetrokken getrokken streep op stoeprand
 
-!!!info end "De vastgestelde boete voor bovenstaande acties is € 1.750"
+!!! info "De vastgestelde boete voor bovenstaande acties is € 1.750"
 
 ### Artikel III-6 Snelheidsovertredingen
 - Schuldig is een persoon die de wettelijk bepaalde snelheden voor verkeer niet in acht neemt tijdens deelname aan het verkeer.
@@ -278,7 +286,7 @@ Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt o
 | Te hard rijden 120 - 150KM/h | € 2.500 |
 | Te hard rijden 150+ KM/h     | € 4.500 |
 
-!!!info end "Bij een snelheidsoverschrijding van meer dan 50 km/u wordt het rijbewijs van de bestuurder ingevorderd."
+!!! info "Bij een snelheidsoverschrijding van meer dan 50 km/u wordt het rijbewijs van de bestuurder ingevorderd."
 
 | Buiten de Bebouwde Kom       | Boete   |
 |:-----------------------------|:--------|
@@ -320,7 +328,7 @@ Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt o
 | 101-150 producten | 25 maanden           | € 1.500 |
 | 151+ producten    | 30 maanden           | € 2.500 |
 
-!!!info end "Softdrugs"
+!!! info "Softdrugs"
     - Wiet
     - Vapes
 
