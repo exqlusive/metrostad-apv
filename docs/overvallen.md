@@ -15,7 +15,7 @@ zal niet zonder risicos zijn. Wees hier dan ook goed op voorbereid.
     - Zowel voor bovenwereld en onderwereld dienen scenarios zo realistisch mogelijk nagebootst te zijn. Bedenk jezelf of dit in het
     echt ook zal zijn.
     - Wanneer de overheid aanwezig is bij een overval, mag er door andere groeperingen niet meer gecounterd worden. Met uitzondering van
-    de groeperinsleden die zich buiten bevinden. Daarvoor blijft wel de APV gelden met betrekking tot rippen: zie apv/#artikel-16-rippen
+    de groeperinsleden die zich buiten bevinden. Daarvoor blijft wel de APV gelden met betrekking tot rippen: zie [APV - Criminaliteit & Groeperingen](apv/criminaliteit-en-groeperingen.md#artikel-20-rippen-scammen)
 
 
 ## Winkels

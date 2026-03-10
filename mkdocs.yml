@@ -131,15 +131,40 @@ extra:
     In ontwikkeling: in-ontwikkeling
 extra_css:
   - stylesheets/extra.css
+not_in_nav: |
+  backup.md
+  voertuigen_en_inhoud.md
+  includes/*
 copyright: |
   &copy; 2026 Metro Stad
 nav:
   - Start: index.md
   - Regels:
-      - Algemene Plaatselijke Verordening (APV): apv.md
+      - Algemene Plaatselijke Verordening (APV):
+          - Overzicht: apv.md
+          - Spelkwaliteit & Scenario's: apv/spelkwaliteit-en-scenarios.md
+          - Accounts, Voertuigen & Platform: apv/accounts-voertuigen-platform.md
+          - Criminaliteit & Groeperingen: apv/criminaliteit-en-groeperingen.md
+          - Refunds & Speciale Situaties: apv/refunds-en-speciale-situaties.md
       - Overvallen & Scenarios: overvallen.md
-      - Politie Wetboek: politie_wetboek.md
-      - Ambulance Handboek: ambulance_handboek.md
+      - Politie Wetboek:
+          - Overzicht: politie_wetboek.md
+          - Algemene Bepalingen: politie_wetboek/algemene-bepalingen.md
+          - Vermogensdelicten: politie_wetboek/vermogensdelicten.md
+          - Geweldsdelicten: politie_wetboek/geweldsdelicten.md
+          - Verkeersdelicten: politie_wetboek/verkeersdelicten.md
+          - Opiumwet: politie_wetboek/opiumwet.md
+          - Wet Wapens en Munitie: politie_wetboek/wet-wapens-en-munitie.md
+          - Overige Feiten: politie_wetboek/overige-feiten.md
+      - Ambulance Handboek:
+          - Overzicht: ambulance_handboek.md
+          - Organisatie & Loopbaan: ambulance/organisatie-en-loopbaan.md
+          - Communicatie & Meldkamer: ambulance/communicatie-en-meldkamer.md
+          - Medische Protocollen: ambulance/medische-protocollen.md
+          - Operatie & Voertuigen: ambulance/operatie-en-voertuigen.md
+          - Wetgeving & Bevoegdheden: ambulance/wetgeving-en-bevoegdheden.md
+          - GRIP & Training: ambulance/grip-en-training.md
+          - Dienstregels & Nazorg: ambulance/dienstregels-en-nazorg.md
   - Kaarten:
       - Risico Gebieden: risico_gebieden.md
       - Douane Gebieden: douane_gebieden.md
