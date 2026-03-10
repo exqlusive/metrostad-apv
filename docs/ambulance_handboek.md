@@ -12,43 +12,49 @@ Het ambulancehandboek is opgesplitst in compacte hoofdstukken, zodat medewerkers
 
 ## Handboek-secties
 
-<div class="grid cards" markdown>
-
--   :material-account-tie: __Organisatie & Loopbaan__
-    ---
-    Missie, rangstructuur, taken, promoties en opleidingstrajecten.
-    [Open sectie](ambulance/organisatie-en-loopbaan.md)
-
--   :material-radio-handheld: __Communicatie & Meldkamer__
-    ---
-    Porto, statuscodes, meldkamergebruik, roepnamen en kanaaldiscipline.
-    [Open sectie](ambulance/communicatie-en-meldkamer.md)
-
--   :material-medical-bag: __Medische Protocollen__
-    ---
-    R.A.M.S., ABCDE, reanimatie, wondzorg, shock en specialistische casussen.
-    [Open sectie](ambulance/medische-protocollen.md)
-
--   :material-traffic-cone: __Operatie & Voertuigen__
-    ---
-    Wegafzettingen, voertuiggebruik, uitrusting en operationele inzet.
-    [Open sectie](ambulance/operatie-en-voertuigen.md)
-
--   :material-scale-balance: __Wetgeving & Bevoegdheden__
-    ---
-    Beroepsgeheim, aansprakelijkheid, prioriteitsstatussen en juridische grenzen.
-    [Open sectie](ambulance/wetgeving-en-bevoegdheden.md)
-
--   :material-fire-truck: __GRIP & Training__
-    ---
-    Rampenprocedures, triage, oefenscenario's en opleidingsvormen.
-    [Open sectie](ambulance/grip-en-training.md)
-
--   :material-heart-pulse: __Dienstregels & Nazorg__
-    ---
-    Gedragscode, integriteit, rapportageplicht en mentale ondersteuning.
-    [Open sectie](ambulance/dienstregels-en-nazorg.md)
-
+<div class="link-grid">
+  <a class="link-card link-card--featured" href="ambulance/organisatie-en-loopbaan.md">
+    <span class="link-card__kicker">Hoofdstuk</span>
+    <h3 class="link-card__title">Organisatie &amp; Loopbaan</h3>
+    <p class="link-card__copy">Missie, rangstructuur, taken, promoties en opleidingstrajecten.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="ambulance/communicatie-en-meldkamer.md">
+    <span class="link-card__kicker">Meldkamer</span>
+    <h3 class="link-card__title">Communicatie &amp; Meldkamer</h3>
+    <p class="link-card__copy">Porto, statuscodes, meldkamergebruik, roepnamen en kanaaldiscipline.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="ambulance/medische-protocollen.md">
+    <span class="link-card__kicker">Protocol</span>
+    <h3 class="link-card__title">Medische Protocollen</h3>
+    <p class="link-card__copy">R.A.M.S., ABCDE, reanimatie, wondzorg, shock en specialistische casussen.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="ambulance/operatie-en-voertuigen.md">
+    <span class="link-card__kicker">Inzet</span>
+    <h3 class="link-card__title">Operatie &amp; Voertuigen</h3>
+    <p class="link-card__copy">Wegafzettingen, voertuiggebruik, uitrusting en operationele inzet.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="ambulance/wetgeving-en-bevoegdheden.md">
+    <span class="link-card__kicker">Juridisch</span>
+    <h3 class="link-card__title">Wetgeving &amp; Bevoegdheden</h3>
+    <p class="link-card__copy">Beroepsgeheim, aansprakelijkheid, prioriteitsstatussen en juridische grenzen.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="ambulance/grip-en-training.md">
+    <span class="link-card__kicker">Opschaling</span>
+    <h3 class="link-card__title">GRIP &amp; Training</h3>
+    <p class="link-card__copy">Rampenprocedures, triage, oefenscenario's en opleidingsvormen.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="ambulance/dienstregels-en-nazorg.md">
+    <span class="link-card__kicker">Nazorg</span>
+    <h3 class="link-card__title">Dienstregels &amp; Nazorg</h3>
+    <p class="link-card__copy">Gedragscode, integriteit, rapportageplicht en mentale ondersteuning.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
 </div>
 
 ## Snelle routes

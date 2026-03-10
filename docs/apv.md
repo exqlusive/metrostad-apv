@@ -12,28 +12,31 @@ De APV is nu opgesplitst in kortere secties, zodat je sneller per onderwerp kunt
 
 ## APV-secties
 
-<div class="grid cards" markdown>
-
--   :material-sword-cross: __Spelkwaliteit & Scenario's__
-    ---
-    FailRP, NVOL, cheats, metagaming, combat logging, taalgebruik, VDM, RDM en New Life Rule.
-    [Open sectie](apv/spelkwaliteit-en-scenarios.md)
-
--   :material-car-multiple: __Accounts, Voertuigen & Platform__
-    ---
-    Alt accounts, voertuigen, GTA-style driving, kleding, reports en in-game social media.
-    [Open sectie](apv/accounts-voertuigen-platform.md)
-
--   :material-bank: __Criminaliteit & Groeperingen__
-    ---
-    Oplichting, overvallen, groeperingen, officiele organisaties en rippen/scammen.
-    [Open sectie](apv/criminaliteit-en-groeperingen.md)
-
--   :material-shield-alert: __Refunds & Speciale Situaties__
-    ---
-    Refunds, herkenning, streamen, hulpdiensten, luchtvaart en green zones.
-    [Open sectie](apv/refunds-en-speciale-situaties.md)
-
+<div class="link-grid">
+  <a class="link-card link-card--featured" href="apv/spelkwaliteit-en-scenarios.md">
+    <span class="link-card__kicker">Artikelen 1-10</span>
+    <h3 class="link-card__title">Spelkwaliteit &amp; Scenario's</h3>
+    <p class="link-card__copy">FailRP, NVOL, cheats, metagaming, combat logging, taalgebruik, VDM, RDM en New Life Rule.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="apv/accounts-voertuigen-platform.md">
+    <span class="link-card__kicker">Artikelen 11-16</span>
+    <h3 class="link-card__title">Accounts, Voertuigen &amp; Platform</h3>
+    <p class="link-card__copy">Alt accounts, voertuigen, GTA-style driving, kleding, reports en in-game social media.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="apv/criminaliteit-en-groeperingen.md">
+    <span class="link-card__kicker">Artikelen 17-20</span>
+    <h3 class="link-card__title">Criminaliteit &amp; Groeperingen</h3>
+    <p class="link-card__copy">Oplichting, overvallen, groeperingen, officiele organisaties en rippen/scammen.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
+  <a class="link-card" href="apv/refunds-en-speciale-situaties.md">
+    <span class="link-card__kicker">Artikelen 21-26</span>
+    <h3 class="link-card__title">Refunds &amp; Speciale Situaties</h3>
+    <p class="link-card__copy">Refunds, herkenning, streamen, hulpdiensten, luchtvaart en green zones.</p>
+    <span class="link-card__cta">Open sectie</span>
+  </a>
 </div>
 
 ## Strafcategorieen

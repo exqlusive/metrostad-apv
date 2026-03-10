@@ -10,20 +10,22 @@ tags:
 
 Belastingen in Metro Stad financieren onderhoud, veiligheid en bereikbaarheid. Deze pagina geeft eerst het overzicht en daarna pas de volledige voertuiglijsten, zodat je sneller kunt zien wat voor jou relevant is.
 
-<div class="grid cards" markdown>
-
--   :material-calendar-clock: __Wekelijkse inning__
-    ---
-    Voertuigenbelasting wordt wekelijks geind op basis van voertuigcategorie.
-
--   :material-home-city: __Automatische huizenbelasting__
-    ---
-    Huizenbelasting wordt automatisch iedere zaterdag afgeschreven.
-
--   :material-shield-alert: __Wanbetaling heeft gevolgen__
-    ---
-    Bij langdurige of herhaalde wanbetaling kunnen voertuigen of panden beperkt worden.
-
+<div class="link-grid">
+  <div class="link-card link-card--featured">
+    <span class="link-card__kicker">Frequentie</span>
+    <h3 class="link-card__title">Wekelijkse inning</h3>
+    <p class="link-card__copy">Voertuigenbelasting wordt wekelijks geind op basis van voertuigcategorie.</p>
+  </div>
+  <div class="link-card">
+    <span class="link-card__kicker">Wonen</span>
+    <h3 class="link-card__title">Automatische huizenbelasting</h3>
+    <p class="link-card__copy">Huizenbelasting wordt automatisch iedere zaterdag afgeschreven.</p>
+  </div>
+  <div class="link-card">
+    <span class="link-card__kicker">Risico</span>
+    <h3 class="link-card__title">Wanbetaling heeft gevolgen</h3>
+    <p class="link-card__copy">Bij langdurige of herhaalde wanbetaling kunnen voertuigen of panden beperkt worden.</p>
+  </div>
 </div>
 
 ## Snel overzicht

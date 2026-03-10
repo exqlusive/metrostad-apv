@@ -10,20 +10,22 @@ tags:
 
 Metro Stad moedigt creators aan om te streamen, zolang de uitzending herkenbaar, veilig en volgens de communityregels verloopt.
 
-<div class="grid cards" markdown>
-
--   :material-badge-account-horizontal: __Stream Rol__
-    ---
-    Twitch Affiliate of minimaal **500 abonnees** op YouTube of TikTok? Maak een ticket aan en voeg een link naar je kanaal toe.
-
--   :material-format-title: __Titelvermelding__
-    ---
-    Vermeld **Metro Stad** duidelijk in de titel van je stream voor herkenbaarheid binnen de community.
-
--   :material-image-multiple-outline: __Branding pakket__
-    ---
-    Het officiele Metro Stad-logo en overlaypakket zijn bedoeld om streams direct herkenbaar te maken.
-
+<div class="link-grid">
+  <div class="link-card link-card--featured">
+    <span class="link-card__kicker">Creator</span>
+    <h3 class="link-card__title">Stream Rol</h3>
+    <p class="link-card__copy">Twitch Affiliate of minimaal <strong>500 abonnees</strong> op YouTube of TikTok? Maak een ticket aan en voeg een link naar je kanaal toe.</p>
+  </div>
+  <div class="link-card">
+    <span class="link-card__kicker">Titel</span>
+    <h3 class="link-card__title">Titelvermelding</h3>
+    <p class="link-card__copy">Vermeld <strong>Metro Stad</strong> duidelijk in de titel van je stream voor herkenbaarheid binnen de community.</p>
+  </div>
+  <div class="link-card">
+    <span class="link-card__kicker">Assets</span>
+    <h3 class="link-card__title">Branding pakket</h3>
+    <p class="link-card__copy">Het officiele Metro Stad-logo en overlaypakket zijn bedoeld om streams direct herkenbaar te maken.</p>
+  </div>
 </div>
 
 ## Checklist voor livegang
